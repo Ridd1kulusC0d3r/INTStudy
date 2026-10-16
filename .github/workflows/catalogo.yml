@@ -1,0 +1,17 @@
+name: Validar catálogo
+
+on:
+  push:
+    paths: ["repos.json", "CATALOGO-REPOS.md", "tools/**", "disciplinas/**"]
+  pull_request:
+
+jobs:
+  checar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validar repos.json, pastas e catálogo
+        run: python3 tools/catalogo.py --checar
