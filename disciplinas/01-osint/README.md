@@ -21,6 +21,8 @@
 - [ ] **S** — Detecção pela Ausência e OSINT comportamental (T.O.C.A.I.A.).
 
 ## Fontes de referência
+📚 Biblioteca curada desta disciplina, com status de verificação: [BIBLIOTECA.md](BIBLIOTECA.md)
+
 - Bellingcat — *Online Investigations Toolkit*.
 - ONU/Berkeley — *Berkeley Protocol on Digital Open Source Investigations*.
 - Michael Bazzell — *OSINT Techniques*.

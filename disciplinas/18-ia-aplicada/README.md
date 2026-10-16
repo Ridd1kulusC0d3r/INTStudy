@@ -19,6 +19,8 @@
 - [ ] **S** — Palestra/artigo "Inteligência Ampliada em Ação".
 
 ## Fontes de referência
+📚 Biblioteca curada desta disciplina, com status de verificação: [BIBLIOTECA.md](BIBLIOTECA.md)
+
 - OWASP Top 10 for LLM Applications.
 - MITRE ATLAS.
 - NIST AI RMF 1.0.

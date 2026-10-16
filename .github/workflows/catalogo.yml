@@ -1,8 +1,8 @@
-name: Validar catálogo
+name: Validar catálogo e biblioteca
 
 on:
   push:
-    paths: ["repos.json", "CATALOGO-REPOS.md", "tools/**", "disciplinas/**"]
+    paths: ["repos.json", "CATALOGO-REPOS.md", "biblioteca/**", "tools/**", "disciplinas/**"]
   pull_request:
 
 jobs:
@@ -15,3 +15,5 @@ jobs:
           python-version: "3.12"
       - name: Validar repos.json, pastas e catálogo
         run: python3 tools/catalogo.py --checar
+      - name: Validar fontes.json e biblioteca gerada
+        run: python3 tools/biblioteca.py --checar

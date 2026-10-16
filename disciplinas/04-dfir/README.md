@@ -18,6 +18,8 @@
 - [ ] **S** — Laudo/relatório pericial completo de um caso de laboratório.
 
 ## Fontes de referência
+📚 Biblioteca curada desta disciplina, com status de verificação: [BIBLIOTECA.md](BIBLIOTECA.md)
+
 - SANS DFIR — posters e cheat sheets.
 - NIST SP 800-61 e SP 800-86.
 - Brian Carrier — *File System Forensic Analysis*.

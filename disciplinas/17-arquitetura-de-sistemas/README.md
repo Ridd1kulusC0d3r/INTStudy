@@ -21,6 +21,8 @@
 - [ ] **S** — Arquitetura de referência DEIVOSINT (VÉRTICE, FAROL, GARIMPO, FIO, PRISMA).
 
 ## Fontes de referência
+📚 Biblioteca curada desta disciplina, com status de verificação: [BIBLIOTECA.md](BIBLIOTECA.md)
+
 - Richards & Ford — *Fundamentos da Arquitetura de Software*.
 - Alistair Cockburn — *Hexagonal Architecture* (artigo original).
 - Simon Brown — c4model.com; arc42.org.

@@ -18,6 +18,8 @@
 - [ ] **S** — Programa de contrainteligência corporativa para um MSSP.
 
 ## Fontes de referência
+📚 Biblioteca curada desta disciplina, com status de verificação: [BIBLIOTECA.md](BIBLIOTECA.md)
+
 - Michael Bazzell — *Extreme Privacy*.
 - CERT/SEI — *Common Sense Guide to Mitigating Insider Threats*.
 - MITRE Engage — engajamento e decepção defensiva.

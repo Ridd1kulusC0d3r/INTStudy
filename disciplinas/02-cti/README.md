@@ -22,6 +22,8 @@
 - [ ] **S** — Contribuir com o MITRE ATT&CK; relatório de campanha BR/LATAM publicado.
 
 ## Fontes de referência
+📚 Biblioteca curada desta disciplina, com status de verificação: [BIBLIOTECA.md](BIBLIOTECA.md)
+
 - MITRE ATT&CK, D3FEND e ATLAS.
 - Roberts & Brown — *Intelligence-Driven Incident Response*.
 - FIRST — CTI SIG Curriculum; FIRST TLP 2.0.

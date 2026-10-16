@@ -20,6 +20,8 @@
 - [ ] **S** — Publicar um artigo de método (alvo: Revista Brasileira de Inteligência).
 
 ## Fontes de referência
+📚 Biblioteca curada desta disciplina, com status de verificação: [BIBLIOTECA.md](BIBLIOTECA.md)
+
 - Richards Heuer — *Psychology of Intelligence Analysis* (CIA CSI, gratuito).
 - Heuer & Pherson — *Structured Analytic Techniques for Intelligence Analysis*.
 - Sherman Kent — *Words of Estimative Probability*.

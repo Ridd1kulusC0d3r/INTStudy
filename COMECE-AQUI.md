@@ -18,10 +18,15 @@ Uma ação por vez. Marque `[x]` quando concluir.
 ## Passo 4 — Amplitude (uma por mês)
 - [ ] 04 DFIR → 05 SOCMINT → 12 CYBINT → 13 FININT → 08 GEOINT → 06 HUMINT → 09 SIGINT → 10 MASINT → 11 TECHINT → 14 CI → 15 Outras.
 
-## Manter o catálogo
+## Passo 6 — Biblioteca operacional
+- [ ] Fazer a **Próxima ação** do [fluxo operacional](biblioteca/FLUXO-OPERACIONAL.md).
+
+## Manter catálogo e biblioteca
 ```bash
 python3 tools/catalogo.py                        # regenera CATALOGO-REPOS.md
-python3 tools/catalogo.py --checar               # valida (o mesmo que o GitHub Actions roda)
-python3 tools/catalogo.py --verificar Ridd1kulusC0d3r   # lista repos públicos que faltam no repos.json
+python3 tools/biblioteca.py                      # regenera biblioteca/README.md e os BIBLIOTECA.md
+python3 tools/catalogo.py --checar && python3 tools/biblioteca.py --checar   # o mesmo que o CI roda
+python3 tools/catalogo.py --verificar Ridd1kulusC0d3r   # repos públicos que faltam no repos.json
 ```
-Ao criar um repo novo: adicione uma linha em `repos.json`, rode o primeiro comando e faça o commit.
+- Repo novo: uma linha em `repos.json` → `catalogo.py` → commit.
+- Fonte nova: uma entrada em `biblioteca/fontes.json` com `"status": "a_verificar"` → `biblioteca.py` → commit. Promova para `verificado` só depois de abrir o link.

@@ -20,6 +20,8 @@
 - [ ] **S** — Ensaio comparando inteligência de Estado, de segurança pública e corporativa.
 
 ## Fontes de referência
+📚 Biblioteca curada desta disciplina, com status de verificação: [BIBLIOTECA.md](BIBLIOTECA.md)
+
 - SCIP (Strategic and Competitive Intelligence Professionals).
 - MJSP/SENASP — DNISP.
 - Ratcliffe — *Intelligence-Led Policing*.

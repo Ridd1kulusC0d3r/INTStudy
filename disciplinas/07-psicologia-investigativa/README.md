@@ -21,6 +21,8 @@
 - [ ] **S** — Artigo integrando psicologia + IA em investigação cibernética.
 
 ## Fontes de referência
+📚 Biblioteca curada desta disciplina, com status de verificação: [BIBLIOTECA.md](BIBLIOTECA.md)
+
 - Richards Heuer — *Psychology of Intelligence Analysis*.
 - Daniel Kahneman — *Rápido e Devagar*.
 - Robert Cialdini — *As Armas da Persuasão*.

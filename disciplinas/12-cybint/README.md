@@ -19,6 +19,8 @@
 - [ ] **S** — Integração VÉRTICE + FAROL alimentando CTI (02).
 
 ## Fontes de referência
+📚 Biblioteca curada desta disciplina, com status de verificação: [BIBLIOTECA.md](BIBLIOTECA.md)
+
 - crt.sh; RDAP (IANA); RIPEstat; Hurricane Electric BGP Toolkit.
 - Shodan e Censys (documentação).
 - NVD, CISA KEV, FIRST EPSS.

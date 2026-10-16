@@ -20,6 +20,8 @@
 - [ ] **S** — Estudo de caso ORCRIM só com fontes abertas.
 
 ## Fontes de referência
+📚 Biblioteca curada desta disciplina, com status de verificação: [BIBLIOTECA.md](BIBLIOTECA.md)
+
 - COAF — publicações e casos; GAFI/FATF — recomendações e tipologias.
 - Receita Federal — dados abertos de CNPJ; Portal da Transparência; PNCP.
 - OpenCorporates; OCCRP Aleph.

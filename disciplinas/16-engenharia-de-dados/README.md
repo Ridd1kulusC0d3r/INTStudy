@@ -23,6 +23,8 @@
 - [ ] **S** — Data lake de inteligência para o ecossistema DEIVOSINT.
 
 ## Fontes de referência
+📚 Biblioteca curada desta disciplina, com status de verificação: [BIBLIOTECA.md](BIBLIOTECA.md)
+
 - Reis & Housley — *Fundamentals of Data Engineering*.
 - Martin Kleppmann — *Designing Data-Intensive Applications*.
 - Documentação SQLite e DuckDB; OCSF Schema; Elastic Common Schema.

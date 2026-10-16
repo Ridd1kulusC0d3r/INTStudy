@@ -22,6 +22,13 @@ Cada disciplina tem uma pasta em [`disciplinas/`](disciplinas/) com sempre as me
 
 O [`CATALOGO-REPOS.md`](CATALOGO-REPOS.md) classifica todos os meus repositórios por **papel** e por **disciplina**. Ele é gerado a partir de [`repos.json`](repos.json) por [`tools/catalogo.py`](tools/catalogo.py) (Python stdlib) e validado a cada push pelo GitHub Actions.
 
+### 📚 Biblioteca
+A [`biblioteca/`](biblioteca/README.md) reúne livros, guias, frameworks, playbooks e datasets — com destaque para MITRE e CTID — organizados por **uso** (estudar · operar · consultar), **nível** (D→S) e **disciplina**. Cada item tem **status de verificação** (✅ verificado · 📘 conhecido · ⚠️ a verificar · ❌ não confirmado), porque parte veio de listas geradas por IA ([procedência](biblioteca/PROCEDENCIA.md)).
+
+- Cada disciplina tem seu recorte em `disciplinas/<pasta>/BIBLIOTECA.md`.
+- O [fluxo operacional](biblioteca/FLUXO-OPERACIONAL.md) encadeia as fontes em: inteligência → priorização → caça → validação → resposta → feedback.
+- Fonte única: [`biblioteca/fontes.json`](biblioteca/fontes.json), gerada por [`tools/biblioteca.py`](tools/biblioteca.py).
+
 ---
 
 ## Mapa das disciplinas
