@@ -1,28 +1,41 @@
-# Procedência e verificação
+# Procedência, acesso e limites
+
+[← Biblioteca](README.md) · [Registro da incorporação](../docs/CURADORIA-2026-10-16.md)
 
 ## Origem
-Esta biblioteca consolidou, em 2026-10-16, quatro listas de recomendações de CTI geradas com assistentes de IA, com foco em publicações da MITRE, materiais abertos, livros de 2025–2026 e ferramentas operacionais. Uma quinta lista era cópia idêntica de outra e foi descartada. Itens repetidos entre as listas foram fundidos num único registro.
 
-## Método de verificação
-Listas geradas por IA podem conter livros, autores ou links inexistentes. Cada item recebeu um status:
+O acervo inicial reunia listas de recomendações anteriores, algumas produzidas com auxílio de IA. Em 16/10/2026 foi incorporada a pesquisa desta conversa: publicações MITRE, livros de CTI, filtro posterior por acesso público e guias de FIRST, ENISA, MISP, CREST, ECB e governo britânico. Duplicatas foram fundidas por obra/edição, preservando IDs já existentes.
 
-| Status | Critério |
-|---|---|
-| ✅ verificado | Existência confirmada por busca em 2026-10-16 (ISBN, página da editora ou PDF oficial) |
-| 📘 conhecido | Referência consolidada na área (MITRE, OTRF, MISP, CISA); link original não reconferido |
-| ⚠️ a verificar | Não foi possível conferir — validar antes de citar |
-| ❌ não confirmado | Não encontrado; mantido só como registro, nunca citado |
+## Dimensões separadas
 
-## Correções feitas
-- **Cyber Brief (CB25-10):** a lista apontava para um espelho em `azurewebsites.net`. A fonte oficial é o **CERT-EU** (`cert.europa.eu/publications/threat-intelligence`).
-- **STIX e TAXII (MITRE):** as páginas são históricas (versões 1.x). Para uso atual, a referência é o STIX/TAXII 2.1 da OASIS.
-- **MITRE Systems Engineering Guide:** o link era uma cópia em site de terceiro; anotado para preferir o download em mitre.org.
-- **Cyber Denial, Deception and Counter Deception:** livro da Springer, não um PDF gratuito da MITRE.
+| Campo | Significado | O que não significa |
+|---|---|---|
+| `status` | Grau de identificação bibliográfica herdado ou revisto | Leitura integral, endosso ou garantia de disponibilidade |
+| `acesso` | Aberto, pago ou restrito/não confirmado | Licença para republicar |
+| `ano` | Ano conhecido; `null` quando não confirmado | Data de atualização automática |
+| `temporalidade` | Filtro editorial: recente, histórico ou sem ano confirmado | Qualidade científica |
+| `origem` | Acervo anterior ou pesquisa desta conversa | Autor original da obra |
+| Auditoria HTTP | Resposta obtida pelo ambiente na data registrada | Conteúdo completo, integridade ou permanência do link |
 
-## Não confirmados
-- *The Art of Cyber Threat Intelligence: A Comprehensive Understanding* (Crawford Thomas, Springer).
-- *Cybersecurity Knowledge Graphs in Action* (John Doty).
-- *Master MITRE ATT&CK* (sem autor).
+`conhecido` indica referência identificada; `verificado` preserva conferência registrada na curadoria anterior. Não elevamos toda a lista a “verificado” após uma resposta HTTP. `a_verificar` e `nao_confirmado` exigem investigação bibliográfica adicional. O status não deve ser confundido com uma recomendação de leitura.
 
-## Para manter
-Ao adicionar uma fonte em `fontes.json`, comece com `a_verificar` e só promova para `verificado` depois de abrir o link ou achar o ISBN.
+## Correções editoriais
+
+- **Crawford Thomas:** *The Art of Cyber Threat Intelligence* existe. Apress informa e-book em janeiro de 2026 e copyright 2025. A marca anterior “não encontrado” foi corrigida. Continua comercial e fora da trilha aberta.
+- **Recorded Future:** a página do handbook oferece download, mas a tentativa de acesso ao PDF direto redirecionou ao site na pesquisa. Preservado como acesso restrito/não confirmado, sem promessa de download livre.
+- **Systems Engineering Guide:** substituído o espelho por endereço MITRE. A instituição também oferece pedido à equipe de arquivos; esse formulário não equivale a acesso direto.
+- **Ten Strategies:** registro histórico separado; o link confirma a sucessora, não o acesso integral à primeira edição. Priorizar *11 Strategies*.
+- **TARA:** um registro para a coleção (white paper, descrição de método, workshop e workbook), em vez de contar cada anexo como livro.
+- **Medical Device Response:** inclui o guia rápido como complemento; o playbook de modelagem é uma obra distinta.
+- **STIX/TAXII históricos:** textos antigos MITRE não são a especificação atual da OASIS.
+- **NIST SP 800-160:** autoria institucional NIST com coautores MITRE, não uma publicação exclusiva MITRE.
+- **ENISA / Attack Flow / INFORM:** datas relatadas nas páginas consultadas; nenhum ano foi deduzido só do caminho de upload.
+- **Materiais comerciais:** preservados apenas para rastreabilidade. Nenhum exercício requer compra, cadastro comercial ou assinatura.
+
+## Direitos e reprodução
+
+Esta biblioteca referencia as obras em seus sites oficiais. Não redistribui PDFs de terceiros. “Aberto” aqui significa acesso público esperado ao material ou sua documentação, e não necessariamente licença aberta. Respeite a licença específica antes de copiar, adaptar ou redistribuir.
+
+## Limitação da pesquisa
+
+O inventário não é um catálogo completo de todas as publicações da MITRE nem uma revisão sistemática de toda a literatura de CTI. Não foi realizada leitura integral de todas as obras. As descrições sintetizam páginas oficiais, sumários e trechos consultados; prioridades e exercícios são elaboração editorial local.

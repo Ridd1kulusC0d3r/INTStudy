@@ -2,7 +2,7 @@ name: Validar catálogo e biblioteca
 
 on:
   push:
-    paths: ["repos.json", "CATALOGO-REPOS.md", "biblioteca/**", "tools/**", "disciplinas/**"]
+    paths: ["**/*.md", "**/*.json", "tools/**", "assets/**", ".github/workflows/**"]
   pull_request:
 
 jobs:
@@ -17,3 +17,5 @@ jobs:
         run: python3 tools/catalogo.py --checar
       - name: Validar fontes.json e biblioteca gerada
         run: python3 tools/biblioteca.py --checar
+      - name: Validar links internos e imagens
+        run: python3 tools/verificar_interno.py

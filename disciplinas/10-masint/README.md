@@ -1,5 +1,7 @@
 # 10 · MASINT — Medidas e Assinaturas ★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** que assinaturas físicas identificam um alvo ou evento?
 
 ## Conceitos

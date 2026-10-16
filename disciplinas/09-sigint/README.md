@@ -1,5 +1,7 @@
 # 09 · SIGINT — Inteligência de Sinais ★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** o que sinais eletromagnéticos revelam — e o que é legal observar?
 
 ## Conceitos (nível conceitual)

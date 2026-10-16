@@ -1,0 +1,34 @@
+# Arquivo de referências comerciais, restritas e não confirmadas
+
+[← Biblioteca aberta](README.md)
+
+Preservamos o histórico da pesquisa sem apresentar estes materiais como requisitos gratuitos. Links de editoras confirmam a existência, não o acesso ao livro completo. Não hospedamos cópias de terceiros.
+
+## Comercial
+
+| Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
+|---|---|---|---|
+| **[The Cyber Threat Intelligence Analyst's Workbook](https://www.perlego.com/book/5536969/the-cyber-threat-intelligence-analysts-workbook-respond-to-realworld-incidents-with-mitre-attck-and-osint-pdf)** — Mira Iqbal | 2026 · livro | D / estudar | ISBN 9798259604797. Exercícios com ATT&CK e OSINT para iniciantes. Link herdado retornou HTTP 410 nesta auditoria; revalidar referência bibliográfica. **A verificar.** |
+| **[AI-Driven Cybersecurity and Threat Intelligence](https://link.springer.com/book/10.1007/978-3-031-54497-2)** — Springer | 2024 · livro | C / estudar | Referência comercial preservada no histórico; excluída das trilhas abertas. **Referência identificada.** |
+| **[Cyber Threat Intelligence](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119861775)** — Martin Lee — Wiley | 2023 · livro | C / estudar | Referência comercial preservada no histórico; excluída das trilhas abertas. **Referência identificada.** |
+| **[Cyber Threat Intelligence: Collect, Analyze, and Operationalize Actionable Threat Intelligence](https://reference-global.com/book/9781808651861)** — Packt (autoria não informada na lista) | 2026 · livro | C / estudar | Possível correspondência pelo ISBN 9781808651861, sem confirmação de título e autor. **A verificar.** |
+| **[Cyber Threat Intelligence: The Comprehensive Guide](https://www.sap-press.com/cyber-threat-intelligence_6261/)** — Haydar Yener Arıcı — Rheinwerk | 2026 · livro | C / estudar | Ciclo completo de CTI, de fontes OSINT/HUMINT/SIGINT a IR. Também há edição alemã (rheinwerk-verlag.de). **Conferência anterior.** |
+| **[Cyber Threat Intelligence: The No-Nonsense Guide for CISOs and Security Managers](https://link.springer.com/book/10.1007/978-1-4842-7220-6)** — Aaron Roberts — Apress | 2021 · livro | C / estudar | Referência comercial preservada no histórico; excluída das trilhas abertas. **Referência identificada.** |
+| **[Demystifying AI and ML for Cyber–Threat Intelligence](https://link.springer.com/book/10.1007/978-3-031-90723-4)** — Springer | 2025 · livro | C / estudar | Referência comercial preservada no histórico; excluída das trilhas abertas. **Referência identificada.** |
+| **[Intelligence-Driven Incident Response, 2nd Edition](https://www.oreilly.com/library/view/intelligence-driven-incident-response/9781098120672/)** — Rebekah Brown e Scott J. Roberts — O’Reilly | 2023 · livro | C / estudar | Referência comercial preservada no histórico; excluída das trilhas abertas. **Referência identificada.** |
+| **Master MITRE ATT&CK: Mapping Strategies for Offensive and Defensive Techniques** — não informado | 2025 · livro | C / estudar | Sem autor nem editora identificáveis; não citar. **Não confirmado.** |
+| **[Spies in the Bits and Bytes: The Art of Cyber Threat Intelligence](https://www.routledge.com/Spies-in-the-Bits-and-Bytes-The-Art-of-Cyber-Threat-Intelligence/Ali-Bhatti/p/book/9781032821092)** — Atif Ali e Baber Majid Bhatti — CRC Press | 2025 · livro | C / estudar | Referência comercial preservada no histórico; excluída das trilhas abertas. **Referência identificada.** |
+| **[Information Privacy in the Evolving Healthcare Environment](https://www.mitre.org/news-insights/publication/information-privacy-evolving-healthcare-environment-introduction)** — MITRE | s/d · livro | B / consultar | MEDINT/saúde. A MITRE disponibiliza só a introdução e o índice. **Referência identificada.** |
+| **[Practical Threat Intelligence and Data-Driven Threat Hunting (2ª ed.)](https://www.packtpub.com/en-us/product/practical-threat-intelligence-and-data-driven-threat-hunting-9781803233758)** — Valentina Costa-Gazcón — Packt | 2026 · livro | B / estudar | Segunda edição confirmada; data de lançamento não confirmada nesta pesquisa. Comercial, fora da trilha aberta. **Referência identificada.** |
+| **[The Art of Cyber Threat Intelligence: A Comprehensive Understanding](https://link.springer.com/book/10.1007/979-8-8688-1739-7)** — Crawford Thomas — Apress | 2026 · livro | B / estudar | Correção: existe. Editora informa e-book em 01/01/2026, copyright 2025; comercial, fora da trilha aberta. **Referência identificada.** |
+| **[Advanced Cyber Threat Intelligence and Hunting](https://ebookpoint.pl/ksiazki/advanced-cyber-threat-intelligence-and-hunting-detect-apts-and-zero-day-attacks-using-cti-behavior-gianluca-tiepolo-dan-sorensen,e_4swo.htm)** — Gianluca Tiepolo, Dan Sorensen — Packt | 2026 · livro | A / estudar | ISBN 9781806380381. Hunting de APTs com CTI e análise comportamental. **Conferência anterior.** |
+| **[Applied AI in Cyber Threat Intelligence](https://www.tenlong.com.tw/products/9781806020317)** — Joe Fleurat, Austin Nowak, Dennis Chow — Packt | 2026 · livro | A / estudar | ISBN 9781806020317. Fluxos agênticos para escalar o ciclo de inteligência. **Conferência anterior.** |
+| **[Cyber Denial, Deception and Counter Deception: A Framework for Supporting Active Cyber Defense](https://www.globenewswire.com/news-release/2016/03/31/824835/37984/en/book-by-mitre-researchers-classic-tactic-for-cyber-defense.html)** — Heckman, Stech, Thomas, Schmoker, Tsow (MITRE) — Springer | 2015 · livro | A / estudar | Livro-base de negação e decepção no ciberespaço (Springer). **Referência identificada.** |
+| **Cybersecurity Knowledge Graphs in Action: Building Threat Intelligence with Neo4j, ATT&CK and AI** — John Doty (segundo a lista) | 2025 · livro | A / estudar | Não encontrado. O tema é válido: ver o repositório EricssonResearch/cti-kb e o parser ATT&CK→Neo4j do ontolocy. **Não confirmado.** |
+
+## Restrito / não confirmado
+
+| Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
+|---|---|---|---|
+| **[Ten Strategies of a World-Class Cybersecurity Operations Center](https://www.mitre.org/news-insights/news-release/mitre-publishes-11-strategies-world-class-cybersecurity-operations)** — MITRE | 2014 · livro | C / estudar | Registro histórico da primeira edição; link confirma a sucessora. Usar 11 Strategies para estudar. Texto completo da primeira edição não confirmado neste link. **Referência identificada.** |
+| **[The Intelligence Handbook, Fourth Edition](https://go.recordedfuture.com/the-intelligence-handbook-fourth-edition)** — Recorded Future | s/d · livro | C / estudar | Página de download com formulário; tentativa de PDF direto redirecionou ao site. Não classificar como acesso direto confirmado. Perspectiva comercial do fornecedor. **A verificar.** |

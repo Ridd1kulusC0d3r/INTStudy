@@ -1,13 +1,17 @@
-# Biblioteca — 01 · OSINT
+# Biblioteca aberta · OSINT
 
-> Recorte gerado de [`biblioteca/fontes.json`](../../biblioteca/fontes.json). Índice geral: [biblioteca/](../../biblioteca/README.md).
+[← Disciplina](README.md) · [Catálogo completo](../../biblioteca/README.md) · [Trilhas](../../COMECE-AQUI.md)
 
-**Legenda:** ✅ Existência e link conferidos em 2026-10-16 · 📘 Referência consolidada na área; link da lista original não reconferido · ⚠️ Não foi possível conferir ainda — validar antes de citar · ❌ Não encontrado em busca — possível erro da lista de origem; não citar · 🆓 aberto · 💲 pago
+> Gerado de `biblioteca/fontes.json`. Acesso e qualidade são dimensões diferentes; consulte a procedência e a auditoria no índice geral.
 
 ## Estudar
 
-|  | Título | Autor | Tipo | Acesso | Nível | Uso | Nota |
-|---|---|---|---|---|---|---|---|
-| ✅ | [**The Cyber Threat Intelligence Analyst's Workbook**](https://www.perlego.com/book/5536969/the-cyber-threat-intelligence-analysts-workbook-respond-to-realworld-incidents-with-mitre-attck-and-osint-pdf) | Mira Iqbal | livro | 💲 | D | estudar | ISBN 9798259604797. Exercícios com ATT&CK e OSINT para iniciantes. |
-| 📘 | [**Provenance Capture and Use: A Practical Guide**](https://www.mitre.org/news-insights/publication/provenance-capture-and-use-practical-guide) | MITRE | guia | 🆓 | B | estudar | Proveniência de dados — fundamento para cadeia de custódia nas ferramentas DEIVOSINT. |
-| 📘 | [**The Art of Pivoting**](https://raw.githubusercontent.com/adulau/the-art-of-pivoting/refs/heads/main/output/the-art-of-pivoting.pdf) | Alexandre Dulaunoy | livro | 🆓 | B | estudar | Pivôs de infraestrutura com indicadores clássicos e não convencionais. Autor ligado ao CIRCL/MISP. |
+| Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
+|---|---|---|---|
+| **[ENISA Cybersecurity Threat Landscape Methodology](https://www.enisa.europa.eu/publications/enisa-cybersecurity-threat-landscape-methodology)** — ENISA | 2025 · guia | C / estudar | Produzir panoramas gerais, temáticos e setoriais; página indica atualização em setembro de 2026. **Referência identificada.** |
+| **[Intelligence After Next: coleção](https://www.mitre.org/focus-areas/defense-intelligence/intelligence-after-next)** — MITRE | s/d · relatorio | C / estudar | Portal de ensaios e relatórios de inteligência; não é um único livro. **Referência identificada.** |
+| **[Open Source Intelligence for Counterterrorism](https://www.mitre.org/news-insights/publication/intelligence-after-next-open-source-intelligence-counterterrorism)** — MITRE | 2024 · relatorio | C / estudar | Estudar a construção de capacidade OSINT no contexto de contraterrorismo. **Referência identificada.** |
+| **[The Prevailing Narratives About Open-Source Intelligence Are Misguided](https://www.mitre.org/sites/default/files/2023-02/PR-23-0402-The-Prevailing-Narratives-About-Open-Source-Intelligence-Are-Misguided.pdf)** — MITRE | 2023 · relatorio | C / estudar | Examinar criticamente uma proposta estratégica sobre IA e OSINT; não comprova superioridade da automação. **Referência identificada.** |
+| **[TIBER-EU Targeted Threat Intelligence Report Guidance](https://www.ecb.europa.eu/pub/pdf/annex/ecb.tiber_targeted_threat_intelligence_report_guidance_2025.en.pdf)** — European Central Bank | 2025 · guia | C / estudar | 20 páginas: escopo, contexto, exposição digital, perfis e cenários. Adaptar o contexto financeiro ao uso pretendido. **Referência identificada.** |
+| **[Provenance Capture and Use: A Practical Guide](https://www.mitre.org/news-insights/publication/provenance-capture-and-use-practical-guide)** — MITRE | s/d · guia | B / estudar | Proveniência de dados — fundamento para cadeia de custódia nas ferramentas DEIVOSINT. **Referência identificada.** |
+| **[The Art of Pivoting](https://raw.githubusercontent.com/adulau/the-art-of-pivoting/refs/heads/main/output/the-art-of-pivoting.pdf)** — Alexandre Dulaunoy | 2025 · livro | B / estudar | Pivôs de infraestrutura com indicadores clássicos e não convencionais. Autor ligado ao CIRCL/MISP. **Referência identificada.** |

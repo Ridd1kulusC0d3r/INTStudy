@@ -1,5 +1,7 @@
 # 07 · Psicologia Investigativa (Camada 8) ★★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** como o fator humano — do adversário, da vítima e do analista — molda a evidência e a conclusão?
 
 ## Conceitos

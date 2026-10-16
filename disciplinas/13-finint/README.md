@@ -1,5 +1,7 @@
 # 13 · FININT — Inteligência Financeira ★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** como o dinheiro se move entre pessoas e empresas — e o que isso revela sobre redes e fraudes?
 
 ## Conceitos

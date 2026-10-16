@@ -1,5 +1,7 @@
 # 17 · Arquitetura de Sistemas ★★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** como organizar ferramentas e plataformas de inteligência para que cresçam sem virar caos?
 
 ## Conceitos

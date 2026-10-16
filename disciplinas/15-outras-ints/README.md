@@ -1,5 +1,7 @@
 # 15 · Outras INTs ★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** que disciplinas complementares existem e quando cada uma entra numa investigação?
 
 ## Disciplinas cobertas

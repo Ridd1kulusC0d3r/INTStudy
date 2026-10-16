@@ -1,31 +1,34 @@
-# Biblioteca — 04 · DFIR
+# Biblioteca aberta · DFIR
 
-> Recorte gerado de [`biblioteca/fontes.json`](../../biblioteca/fontes.json). Índice geral: [biblioteca/](../../biblioteca/README.md).
+[← Disciplina](README.md) · [Catálogo completo](../../biblioteca/README.md) · [Trilhas](../../COMECE-AQUI.md)
 
-**Legenda:** ✅ Existência e link conferidos em 2026-10-16 · 📘 Referência consolidada na área; link da lista original não reconferido · ⚠️ Não foi possível conferir ainda — validar antes de citar · ❌ Não encontrado em busca — possível erro da lista de origem; não citar · 🆓 aberto · 💲 pago
+> Gerado de `biblioteca/fontes.json`. Acesso e qualidade são dimensões diferentes; consulte a procedência e a auditoria no índice geral.
 
 ## Estudar
 
-|  | Título | Autor | Tipo | Acesso | Nível | Uso | Nota |
-|---|---|---|---|---|---|---|---|
-| ✅ | [**Ransomware Getting Started Guide and Deep Dive into REvil**](https://www.mitre.org/sites/default/files/2022-09/pr-21-3872-ransomware-getting-started-guide-and-deep-dive-into-revil.pdf) | MITRE | guia | 🆓 | B | estudar | Introdução a ransomware + estudo de uma família real; bom modelo de relatório para o apt4all. |
-| 📘 | [**11 Strategies of a World-Class Cybersecurity Operations Center (2ª ed.)**](https://www.mitre.org/sites/default/files/2022-04/11-strategies-of-a-world-class-cybersecurity-operations-center.pdf) | MITRE | livro | 🆓 | C | estudar | Estrutura de SOC orientado a ameaças; base para o Aurora SOC Lab. |
-| 📘 | [**Provenance Capture and Use: A Practical Guide**](https://www.mitre.org/news-insights/publication/provenance-capture-and-use-practical-guide) | MITRE | guia | 🆓 | B | estudar | Proveniência de dados — fundamento para cadeia de custódia nas ferramentas DEIVOSINT. |
+| Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
+|---|---|---|---|
+| **[11 Strategies of a World-Class Cybersecurity Operations Center (2ª ed.)](https://www.mitre.org/sites/default/files/2022-04/11-strategies-of-a-world-class-cybersecurity-operations-center.pdf)** — MITRE | 2022 · livro | C / estudar | Estrutura de SOC orientado a ameaças; base para o Aurora SOC Lab. **Referência identificada.** |
+| **[Cyber Exercise Playbook](https://www.mitre.org/news-insights/publication/cyber-exercise-playbook)** — MITRE | 2014 · playbook | C / estudar | Planejar objetivos, cenários, execução e avaliação de exercícios. **Referência identificada.** |
+| **[Finding Cyber Threats with ATT&CK-Based Analytics](https://www.mitre.org/news-insights/publication/finding-cyber-threats-attck-based-analytics)** — MITRE | 2017 · relatorio | C / estudar | Relacionar sensores, emulação, lacunas e validação de detecções comportamentais. **Referência identificada.** |
+| **[Medical Device Cybersecurity Regional Incident Preparedness and Response Playbook](https://www.mitre.org/news-insights/publication/medical-device-cybersecurity-regional-incident-preparedness-and-response)** — MITRE | 2022 · playbook | C / estudar | Preparação e resposta em dispositivos médicos; página inclui Quick Start Companion Guide. **Referência identificada.** |
+| **[Provenance Capture and Use: A Practical Guide](https://www.mitre.org/news-insights/publication/provenance-capture-and-use-practical-guide)** — MITRE | s/d · guia | B / estudar | Proveniência de dados — fundamento para cadeia de custódia nas ferramentas DEIVOSINT. **Referência identificada.** |
+| **[Ransomware Getting Started Guide and Deep Dive into REvil](https://www.mitre.org/sites/default/files/2022-09/pr-21-3872-ransomware-getting-started-guide-and-deep-dive-into-revil.pdf)** — MITRE | 2022 · guia | B / estudar | Introdução a ransomware + estudo de uma família real; bom modelo de relatório para o apt4all. **Conferência anterior.** |
 
 ## Operar
 
-|  | Título | Autor | Tipo | Acesso | Nível | Uso | Nota |
-|---|---|---|---|---|---|---|---|
-| ✅ | [**SOC Analyst Hub / Toolkit**](https://feed.craftedsignal.io/briefs/2026-03-soc-analyst-hub/) | CraftedSignal | ferramenta | 🆓 | D | operar | Toolkit offline em HTML para Tier 1: checklists, triagem e hunting mapeados ao ATT&CK. |
-| 📘 | [**MISP Playbooks**](https://www.misp-project.org/playbooks/) | MISP Project | playbook | 🆓 | B | operar | Casos de uso de SOC e CTI: da inteligência recebida à ação. |
-| 📘 | [**Playbook-NG**](https://github.com/cisagov/playbook-ng) | CISA | ferramenta | 🆓 | B | operar | A partir dos TTPs observados, sugere contramedidas de contenção e erradicação. |
-| 📘 | [**Security Datasets (ex-Mordor)**](https://github.com/OTRF/Security-Datasets) | OTRF | dataset | 🆓 | B | operar | Telemetria de ataques simulados para testar detecções — matéria-prima da trilha de dados. |
-| 📘 | [**Threat Hunter Playbook**](https://github.com/OTRF/ThreatHunter-Playbook) | OTRF | playbook | 🆓 | B | operar | Hipóteses, fontes de dados e consultas por técnica ATT&CK. |
-| 📘 | [**ThreatHunting-Keywords**](https://github.com/mthcht/ThreatHunting-Keywords) | mthcht | dataset | 🆓 | B | operar | Palavras-chave e artefatos para detecção, por técnica e tipo de log. |
-| 📘 | [**HELK — Hunting ELK**](https://github.com/Cyb3rWard0g/HELK) | Roberto Rodriguez (Cyb3rWard0g) | ferramenta | 🆓 | A | operar | Laboratório de hunting (Elastic, Kafka, Spark). Verifique a atividade do repositório antes de adotar. |
+| Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
+|---|---|---|---|
+| **[SOC Analyst Hub / Toolkit](https://feed.craftedsignal.io/briefs/2026-03-soc-analyst-hub/)** — CraftedSignal | 2026 · ferramenta | D / operar | Toolkit offline em HTML para Tier 1: checklists, triagem e hunting mapeados ao ATT&CK. **Conferência anterior.** |
+| **[MISP Playbooks](https://github.com/MISP/misp-playbooks)** — MISP Project | s/d · playbook | B / operar | Casos de uso de SOC e CTI: da inteligência recebida à ação. Link corrigido após HTTP 404 no endereço anterior. **Referência identificada.** |
+| **[Playbook-NG](https://github.com/cisagov/playbook-ng)** — CISA | s/d · ferramenta | B / operar | A partir dos TTPs observados, sugere contramedidas de contenção e erradicação. **Referência identificada.** |
+| **[Security Datasets (ex-Mordor)](https://github.com/OTRF/Security-Datasets)** — OTRF | s/d · dataset | B / operar | Telemetria de ataques simulados para testar detecções — matéria-prima da trilha de dados. **Referência identificada.** |
+| **[Threat Hunter Playbook](https://github.com/OTRF/ThreatHunter-Playbook)** — OTRF | s/d · playbook | B / operar | Hipóteses, fontes de dados e consultas por técnica ATT&CK. **Referência identificada.** |
+| **[ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords)** — mthcht | s/d · dataset | B / operar | Palavras-chave e artefatos para detecção, por técnica e tipo de log. **Referência identificada.** |
+| **[HELK — Hunting ELK](https://github.com/Cyb3rWard0g/HELK)** — Roberto Rodriguez (Cyb3rWard0g) | s/d · ferramenta | A / operar | Laboratório de hunting (Elastic, Kafka, Spark). Verifique a atividade do repositório antes de adotar. **Referência identificada.** |
 
 ## Consultar
 
-|  | Título | Autor | Tipo | Acesso | Nível | Uso | Nota |
-|---|---|---|---|---|---|---|---|
-| ✅ | [**Cyber Operations Rapid Assessment (CORA): A Guide to Best Practices for Threat-Informed Cyber Security Operations**](https://mitre.org/sites/default/files/2021-11/prs_15-2971-cyber-operations-rapid-assessment-best-practices.pdf) | MITRE | guia | 🆓 | B | consultar | Avaliar a maturidade de um programa de defesa orientado a ameaças. |
+| Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
+|---|---|---|---|
+| **[Cyber Operations Rapid Assessment (CORA): A Guide to Best Practices for Threat-Informed Cyber Security Operations](https://mitre.org/sites/default/files/2021-11/prs_15-2971-cyber-operations-rapid-assessment-best-practices.pdf)** — MITRE | 2015 · guia | B / consultar | Avaliar a maturidade de um programa de defesa orientado a ameaças. **Conferência anterior.** |

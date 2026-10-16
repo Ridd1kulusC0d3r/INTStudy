@@ -1,5 +1,7 @@
 # 08 · GEOINT / IMINT — Geoespacial e Imagens ★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** onde e quando isto aconteceu — e o que a imagem realmente mostra?
 
 ## Conceitos

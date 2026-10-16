@@ -1,6 +1,12 @@
 # 02 · Cyber Threat Intelligence ★★★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** quem pode nos atacar, como e por quê — e o que devemos detectar ou priorizar agora?
+
+## Laboratório de estudo
+
+[Seis missões até o briefing](../../trilhas/CTI-DO-ZERO-AO-BRIEFING.md) · [Caso Aurora](../../trilhas/CASO-AURORA.md) · [Templates](../../templates/README.md)
 
 ## Conceitos
 - Níveis: estratégico (risco, tendência), operacional (campanhas), tático (TTPs), técnico (IOCs).
@@ -18,14 +24,14 @@
 - [ ] **B** — Escrever PIRs para um MSSP e para setores BR (financeiro, governo).
 - [ ] **A** — Rastrear campanha: pivôs de infraestrutura, clusters, atribuição com controles (ACH).
 - [ ] **A** — Transformar um TTP em regra Sigma testada.
-- [ ] **A** — Modelagem de ameaças orientada por inteligência (TIEM/AXIS).
+- [ ] **A** — Modelagem de ameaças orientada por inteligência (TCEM).
 - [ ] **S** — Contribuir com o MITRE ATT&CK; relatório de campanha BR/LATAM publicado.
 
 ## Fontes de referência
 📚 Biblioteca curada desta disciplina, com status de verificação: [BIBLIOTECA.md](BIBLIOTECA.md)
 
 - MITRE ATT&CK, D3FEND e ATLAS.
-- Roberts & Brown — *Intelligence-Driven Incident Response*.
+- FIRST — comunicação de incerteza; ENISA — metodologia de threat landscape.
 - FIRST — CTI SIG Curriculum; FIRST TLP 2.0.
 - OASIS — STIX 2.1 / TAXII 2.1.
 - Documentação MISP e OpenCTI.
@@ -43,7 +49,7 @@ Atribuição é o terreno mais fértil para viés: ancoragem no primeiro ator su
 ## Meus repos
 | Papel | Repo |
 |---|---|
-| Método | `Cyber-Threat-Context-Modeling` (TCE/TIEM+AXIS), `tocaia-osint` |
+| Método | `Cyber-Threat-Context-Modeling` (TCE/TCEM), `tocaia-osint` |
 | Fonte | `apt4all`, `LLmInjection`, `ThePensieveProject` |
 | Ferramenta | `tropeiro-intel` |
 | Trilha | `investigador-cyber-90-dias` |

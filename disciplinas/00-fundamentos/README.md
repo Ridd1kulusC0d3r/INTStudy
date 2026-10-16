@@ -1,5 +1,7 @@
 # 00 · Fundamentos de Inteligência ★★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** como transformar dado em conhecimento útil para uma decisão, com a incerteza declarada?
 
 ## Conceitos

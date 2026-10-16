@@ -1,5 +1,7 @@
 # 04 · Forense Digital e Resposta a Incidentes (DFIR) ★★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** o que aconteceu, quando, em qual sistema — e a evidência resiste a contestação?
 
 ## Conceitos

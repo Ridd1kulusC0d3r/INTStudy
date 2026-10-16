@@ -1,5 +1,7 @@
 # 11 · TECHINT — Inteligência Técnica ★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** o que equipamentos e tecnologias revelam sobre capacidade, origem e cadeia de suprimentos?
 
 ## Conceitos

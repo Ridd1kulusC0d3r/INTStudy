@@ -1,5 +1,7 @@
 # 06 · HUMINT — Inteligência de Fontes Humanas ★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** o que pessoas sabem — e como obter e avaliar esse relato de forma ética e confiável?
 
 ## Conceitos

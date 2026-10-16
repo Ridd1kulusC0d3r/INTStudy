@@ -1,5 +1,7 @@
 # 05 · SOCMINT — Inteligência de Mídias Sociais ★★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** o que identidades, redes e narrativas em plataformas sociais revelam — e com que confiança?
 
 ## Conceitos

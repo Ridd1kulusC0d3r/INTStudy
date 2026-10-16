@@ -1,11 +1,14 @@
-# Biblioteca — 13 · FININT
+# Biblioteca aberta · FININT
 
-> Recorte gerado de [`biblioteca/fontes.json`](../../biblioteca/fontes.json). Índice geral: [biblioteca/](../../biblioteca/README.md).
+[← Disciplina](README.md) · [Catálogo completo](../../biblioteca/README.md) · [Trilhas](../../COMECE-AQUI.md)
 
-**Legenda:** ✅ Existência e link conferidos em 2026-10-16 · 📘 Referência consolidada na área; link da lista original não reconferido · ⚠️ Não foi possível conferir ainda — validar antes de citar · ❌ Não encontrado em busca — possível erro da lista de origem; não citar · 🆓 aberto · 💲 pago
+> Gerado de `biblioteca/fontes.json`. Acesso e qualidade são dimensões diferentes; consulte a procedência e a auditoria no índice geral.
 
 ## Estudar
 
-|  | Título | Autor | Tipo | Acesso | Nível | Uso | Nota |
-|---|---|---|---|---|---|---|---|
-| ✅ | [**MITRE Fight Fraud Framework (F3)**](https://www.mitre.org/news-insights/news-release/mitres-center-threat-informed-defense-launches-framework-combat) | MITRE CTID | framework | 🆓 | B | estudar | Estende o ATT&CK para fraude financeira. Ligação direta com FraudNeuron e TRAMA. Metodologia em ctid.mitre.org/fraud. |
+| Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
+|---|---|---|---|
+| **[2025 CBEST Thematic](https://www.bankofengland.co.uk/financial-stability/operational-resilience-of-the-financial-sector/2025-cbest-thematic)** — Bank of England | 2025 · relatorio | C / estudar | Aprender com achados de maturidade reais; 2025 identifica o ciclo do relatório. **Referência identificada.** |
+| **[CBEST Threat Intelligence-Led Assessments: Implementation Guide](https://www.bankofengland.co.uk/financial-stability/operational-resilience-of-the-financial-sector/cbest-threat-intelligence-led-assessments-implementation-guide)** — Bank of England | s/d · guia | C / estudar | Estudar responsabilidades, relatórios, cenários e avaliação de CTI em testes autorizados. **Referência identificada.** |
+| **[TIBER-EU Targeted Threat Intelligence Report Guidance](https://www.ecb.europa.eu/pub/pdf/annex/ecb.tiber_targeted_threat_intelligence_report_guidance_2025.en.pdf)** — European Central Bank | 2025 · guia | C / estudar | 20 páginas: escopo, contexto, exposição digital, perfis e cenários. Adaptar o contexto financeiro ao uso pretendido. **Referência identificada.** |
+| **[MITRE Fight Fraud Framework (F3)](https://www.mitre.org/news-insights/news-release/mitres-center-threat-informed-defense-launches-framework-combat)** — MITRE CTID | 2025 · framework | B / estudar | Estende o ATT&CK para fraude financeira. Ligação direta com FraudNeuron e TRAMA. Metodologia em ctid.mitre.org/fraud. **Conferência anterior.** |

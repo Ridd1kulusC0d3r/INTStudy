@@ -1,5 +1,7 @@
 # 14 · Contrainteligência ★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** o que o adversário pode descobrir sobre nós — inclusive sobre o investigador — e como impedir ou enganar?
 
 ## Conceitos

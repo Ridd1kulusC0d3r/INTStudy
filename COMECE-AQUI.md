@@ -1,32 +1,28 @@
-# Comece aqui
+# Sua primeira sessão · 25 minutos
 
-Uma ação por vez. Marque `[x]` quando concluir.
+[← Início](README.md) · [Biblioteca](biblioteca/README.md) · [Trilha CTI](trilhas/CTI-DO-ZERO-AO-BRIEFING.md)
 
-## Passo 1 — Base (semana 1)
-- [ ] Fazer a **Próxima ação** de [00 · Fundamentos](disciplinas/00-fundamentos/).
+> Você não precisa ler toda a biblioteca. Precisa sair desta sessão com uma pergunta melhor.
 
-## Passo 2 — Foco máximo (semanas 2–8, alternando dias)
-- [ ] Próxima ação de [01 · OSINT](disciplinas/01-osint/).
-- [ ] Próxima ação de [02 · CTI](disciplinas/02-cti/).
-- [ ] Próxima ação de [03 · Malware/RE](disciplinas/03-malware-engenharia-reversa/) (montar o lab isolado).
+| Tempo | Ação | Resultado |
+|---|---|---|
+| 0–5 min | Escolha uma decisão: priorizar uma coleta, uma defesa ou uma investigação. | Destinatário e decisão definidos |
+| 5–10 min | Escreva um [PIR](templates/PIR.md) delimitando setor, período e escopo. | Uma pergunta respondível |
+| 10–20 min | Consulte o [FIRST Curriculum](https://www.first.org/global/sigs/cti/curriculum/) e um relatório público do seu tema. | Uma evidência e uma lacuna |
+| 20–25 min | Registre no [diário](DIARIO.md) o que mudou e o próximo passo. | Uma ação pequena e concreta |
 
-## Passo 3 — Suporte (semanal)
-- [ ] [07 · Psicologia](disciplinas/07-psicologia-investigativa/) — Key Assumptions Check numa investigação antiga.
-- [ ] [16 · Dados](disciplinas/16-engenharia-de-dados/) — JSONL do GARIMPO no `sqlite3`.
-- [ ] [17 · Arquitetura](disciplinas/17-arquitetura-de-sistemas/) — ADR-001 do VÉRTICE.
+## Escolha sua rota
 
-## Passo 4 — Amplitude (uma por mês)
-- [ ] 04 DFIR → 05 SOCMINT → 12 CYBINT → 13 FININT → 08 GEOINT → 06 HUMINT → 09 SIGINT → 10 MASINT → 11 TECHINT → 14 CI → 15 Outras.
+- **CTI e OSINT:** [seis missões até o briefing](trilhas/CTI-DO-ZERO-AO-BRIEFING.md).
+- **MITRE e modelagem:** [percurso por finalidade](trilhas/MITRE-EM-CONTEXTO.md).
+- **Prática imediata:** [caso fictício Aurora](trilhas/CASO-AURORA.md).
+- **Outras disciplinas:** [mapa completo](docs/MAPA-DISCIPLINAS.md); preserve o ritmo de uma ação por sessão.
 
-## Passo 6 — Biblioteca operacional
-- [ ] Fazer a **Próxima ação** do [fluxo operacional](biblioteca/FLUXO-OPERACIONAL.md).
+## Ritmo sugerido, não prazo obrigatório
 
-## Manter catálogo e biblioteca
-```bash
-python3 tools/catalogo.py                        # regenera CATALOGO-REPOS.md
-python3 tools/biblioteca.py                      # regenera biblioteca/README.md e os BIBLIOTECA.md
-python3 tools/catalogo.py --checar && python3 tools/biblioteca.py --checar   # o mesmo que o CI roda
-python3 tools/catalogo.py --verificar Ridd1kulusC0d3r   # repos públicos que faltam no repos.json
-```
-- Repo novo: uma linha em `repos.json` → `catalogo.py` → commit.
-- Fonte nova: uma entrada em `biblioteca/fontes.json` com `"status": "a_verificar"` → `biblioteca.py` → commit. Promova para `verificado` só depois de abrir o link.
+Três sessões semanais de 25–45 minutos: leitura, aplicação e revisão. Ao fim de cada missão, registre o artefato e a lacuna restante. O tempo necessário depende do seu conhecimento prévio.
+
+- [ ] Defini um destinatário e uma decisão.
+- [ ] Separei evidência de inferência.
+- [ ] Anotei limitações da fonte.
+- [ ] Escolhi uma próxima ação.

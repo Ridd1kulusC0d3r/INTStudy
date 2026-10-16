@@ -1,5 +1,7 @@
 # 18 · IA Aplicada à Inteligência ★★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** como a IA amplia o analista sem substituí-lo — e como sistemas de IA viram alvo?
 
 ## Conceitos

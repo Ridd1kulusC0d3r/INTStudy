@@ -1,5 +1,7 @@
 # 12 · CYBINT — Inteligência de Infraestrutura Cibernética ★★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** quais ativos e infraestruturas existem no ciberespaço, como se conectam e o que expõem?
 
 ## Conceitos

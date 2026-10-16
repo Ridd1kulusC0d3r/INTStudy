@@ -1,24 +1,26 @@
-# Biblioteca — 18 · IA
+# Biblioteca aberta · IA
 
-> Recorte gerado de [`biblioteca/fontes.json`](../../biblioteca/fontes.json). Índice geral: [biblioteca/](../../biblioteca/README.md).
+[← Disciplina](README.md) · [Catálogo completo](../../biblioteca/README.md) · [Trilhas](../../COMECE-AQUI.md)
 
-**Legenda:** ✅ Existência e link conferidos em 2026-10-16 · 📘 Referência consolidada na área; link da lista original não reconferido · ⚠️ Não foi possível conferir ainda — validar antes de citar · ❌ Não encontrado em busca — possível erro da lista de origem; não citar · 🆓 aberto · 💲 pago
+> Gerado de `biblioteca/fontes.json`. Acesso e qualidade são dimensões diferentes; consulte a procedência e a auditoria no índice geral.
 
 ## Estudar
 
-|  | Título | Autor | Tipo | Acesso | Nível | Uso | Nota |
-|---|---|---|---|---|---|---|---|
-| ✅ | [**Applied AI in Cyber Threat Intelligence**](https://www.tenlong.com.tw/products/9781806020317) | Joe Fleurat, Austin Nowak, Dennis Chow — Packt | livro | 💲 | A | estudar | ISBN 9781806020317. Fluxos agênticos para escalar o ciclo de inteligência. |
-| 📘 | [**Human-Machine Teaming Systems Engineering Guide**](https://www.mitre.org/news-insights/publication/human-machine-teaming-systems-engineering-guide) | MITRE | guia | 🆓 | B | estudar | Ponte direta com a tese 'IA como apoio, não substituta do analista'. |
+| Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
+|---|---|---|---|
+| **[SAFE-AI: A Framework for Securing AI-Enabled Systems](https://atlas.mitre.org/pdf-files/SAFEAI_Full_Report.pdf)** — MITRE | 2025 · relatorio | C / estudar | Relacionar ameaças ATLAS, controles NIST, risco residual e perguntas de avaliação; 78 páginas. **Referência identificada.** |
+| **[The MITRE AI Maturity Model and Organizational Assessment Tool Guide](https://www.mitre.org/news-insights/publication/mitre-ai-maturity-model-and-organizational-assessment-tool-guide)** — MITRE | 2023 · guia | C / estudar | Avaliar maturidade de IA com seis pilares e vinte dimensões. **Referência identificada.** |
+| **[The Prevailing Narratives About Open-Source Intelligence Are Misguided](https://www.mitre.org/sites/default/files/2023-02/PR-23-0402-The-Prevailing-Narratives-About-Open-Source-Intelligence-Are-Misguided.pdf)** — MITRE | 2023 · relatorio | C / estudar | Examinar criticamente uma proposta estratégica sobre IA e OSINT; não comprova superioridade da automação. **Referência identificada.** |
+| **[Human-Machine Teaming Systems Engineering Guide](https://www.mitre.org/news-insights/publication/human-machine-teaming-systems-engineering-guide)** — MITRE | s/d · guia | B / estudar | Ponte direta com a tese 'IA como apoio, não substituta do analista'. **Referência identificada.** |
 
 ## Operar
 
-|  | Título | Autor | Tipo | Acesso | Nível | Uso | Nota |
-|---|---|---|---|---|---|---|---|
-| 📘 | [**TRAM — Threat Report ATT&CK Mapper**](https://github.com/center-for-threat-informed-defense/tram) | MITRE CTID | ferramenta | 🆓 | B | operar | Mapeamento automático de texto para ATT&CK com ML; revisar sempre a saída. |
+| Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
+|---|---|---|---|
+| **[TRAM — Threat Report ATT&CK Mapper](https://github.com/center-for-threat-informed-defense/tram)** — MITRE CTID | s/d · ferramenta | B / operar | Mapeamento automático de texto para ATT&CK com ML; revisar sempre a saída. **Referência identificada.** |
 
 ## Consultar
 
-|  | Título | Autor | Tipo | Acesso | Nível | Uso | Nota |
-|---|---|---|---|---|---|---|---|
-| 📘 | [**Intelligent User Interfaces: An Introduction**](https://www.mitre.org/news-insights/publication/intelligent-user-interfaces-introduction) | MITRE | livro | 🆓 | C | consultar | Interfaces inteligentes para navegação e visualização de multimídia. |
+| Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
+|---|---|---|---|
+| **[Intelligent User Interfaces: An Introduction](https://www.mitre.org/news-insights/publication/intelligent-user-interfaces-introduction)** — MITRE | s/d · livro | C / consultar | Interfaces inteligentes para navegação e visualização de multimídia. **Referência identificada.** |

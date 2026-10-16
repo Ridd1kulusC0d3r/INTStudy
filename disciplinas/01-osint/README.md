@@ -1,5 +1,7 @@
 # 01 · OSINT — Inteligência de Fontes Abertas ★★★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** o que informação publicamente acessível, coletada legalmente e com custódia, revela sobre o objeto da investigação?
 
 ## Conceitos

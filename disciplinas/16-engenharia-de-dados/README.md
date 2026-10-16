@@ -1,5 +1,7 @@
 # 16 · Engenharia de Dados ★★
 
+[← INTStudy](../../README.md) · [Mapa](../../docs/MAPA-DISCIPLINAS.md) · [Biblioteca aberta](BIBLIOTECA.md) · [Mesa de trabalho](../../templates/README.md)
+
 > **Pergunta central:** como coletas de muitas fontes viram dados confiáveis, consultáveis e auditáveis — e alimentam detecção?
 
 ## Conceitos

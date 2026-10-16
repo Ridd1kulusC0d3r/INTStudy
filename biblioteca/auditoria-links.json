@@ -1,0 +1,672 @@
+{
+  "executado_em_utc": "2026-10-16T19:52:38.723789+00:00",
+  "metodo": "GET com leitura limitada a 1024 bytes, timeout 12s; não valida texto integral",
+  "resultados": [
+    {
+      "url": "https://atlas.mitre.org/pdf-files/SAFEAI_Full_Report.pdf",
+      "http": 200,
+      "final": "https://atlas.mitre.org/pdf-files/SAFEAI_Full_Report.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://attack.mitre.org/docs/ATTACK_Design_and_Philosophy_March_2020.pdf",
+      "http": 200,
+      "final": "https://attack.mitre.org/docs/ATTACK_Design_and_Philosophy_March_2020.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://attack.mitre.org/docs/ATTACK_for_ICS_Philosophy_March_2020.pdf",
+      "http": 200,
+      "final": "https://attack.mitre.org/docs/ATTACK_for_ICS_Philosophy_March_2020.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://attack.mitre.org/resources/learn-more-about-attack/",
+      "http": 200,
+      "final": "https://attack.mitre.org/resources/learn-more-about-attack/",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://cert.europa.eu/publications/threat-intelligence/2025",
+      "http": 200,
+      "final": "https://cert.europa.eu/publications/threat-intelligence/2025",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://csrc.nist.gov/pubs/sp/800/160/v2/r1/final",
+      "http": 200,
+      "final": "https://csrc.nist.gov/pubs/sp/800/160/v2/r1/final",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://ctid.mitre.org/projects/attack-flow",
+      "http": 200,
+      "final": "https://ctid.mitre.org/projects/attack-flow",
+      "tipo": "text/html",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://ctid.mitre.org/projects/inform-your-defense/",
+      "http": 200,
+      "final": "https://ctid.mitre.org/projects/inform-your-defense/",
+      "tipo": "text/html",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://ctid.mitre.org/projects/sightings-ecosystem-v1/",
+      "http": 200,
+      "final": "https://ctid.mitre.org/projects/sightings-ecosystem-v1/",
+      "tipo": "text/html",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://ctid.mitre.org/projects/threat-modeling-with-attack/",
+      "http": 200,
+      "final": "https://ctid.mitre.org/projects/threat-modeling-with-attack/",
+      "tipo": "text/html",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://ctid.mitre.org/projects/top-attack-techniques-v1/",
+      "http": 200,
+      "final": "https://ctid.mitre.org/projects/top-attack-techniques-v1/",
+      "tipo": "text/html",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://d3fend.mitre.org/resources/",
+      "http": 200,
+      "final": "https://d3fend.mitre.org/resources/",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://d3fend.mitre.org/resources/D3FEND.pdf",
+      "http": 200,
+      "final": "https://d3fend.mitre.org/resources/D3FEND.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://ebookpoint.pl/ksiazki/advanced-cyber-threat-intelligence-and-hunting-detect-apts-and-zero-day-attacks-using-cti-behavior-gianluca-tiepolo-dan-sorensen,e_4swo.htm",
+      "http": 200,
+      "final": "https://ebookpoint.pl/ksiazki/advanced-cyber-threat-intelligence-and-hunting-detect-apts-and-zero-day-attacks-using-cti-behavior-gianluca-tiepolo-dan-sorensen,e_4swo.htm",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://engage.mitre.org/wp-content/uploads/2022/04/EngageHandbook-v1.0.pdf",
+      "http": 200,
+      "final": "https://engage.mitre.org/wp-content/uploads/2022/04/EngageHandbook-v1.0.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://feed.craftedsignal.io/briefs/2026-03-soc-analyst-hub/",
+      "http": 200,
+      "final": "https://feed.craftedsignal.io/briefs/2026-03-soc-analyst-hub/",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://fight.mitre.org/",
+      "http": 200,
+      "final": "https://fight.mitre.org/",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://github.com/Cyb3rWard0g/HELK",
+      "http": 200,
+      "final": "https://github.com/Cyb3rWard0g/HELK",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://github.com/MISP/misp-playbooks",
+      "http": 200,
+      "final": "https://github.com/MISP/misp-playbooks",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://github.com/NucleiAv/CTIHandbook",
+      "http": 200,
+      "final": "https://github.com/NucleiAv/CTIHandbook",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://github.com/OTRF/Security-Datasets",
+      "http": 200,
+      "final": "https://github.com/OTRF/Security-Datasets",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://github.com/OTRF/ThreatHunter-Playbook",
+      "http": 200,
+      "final": "https://github.com/OTRF/ThreatHunter-Playbook",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://github.com/center-for-threat-informed-defense/cti-blueprints",
+      "http": 200,
+      "final": "https://github.com/center-for-threat-informed-defense/cti-blueprints",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://github.com/center-for-threat-informed-defense/tram",
+      "http": 200,
+      "final": "https://github.com/center-for-threat-informed-defense/tram",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://github.com/cisagov/playbook-ng",
+      "http": 200,
+      "final": "https://github.com/cisagov/playbook-ng",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://github.com/mthcht/ThreatHunting-Keywords",
+      "http": 200,
+      "final": "https://github.com/mthcht/ThreatHunting-Keywords",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://github.com/ngvuthdanhh/certificate-threat-intelligence-101-arcx",
+      "http": 200,
+      "final": "https://github.com/ngvuthdanhh/certificate-threat-intelligence-101-arcx",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://go.recordedfuture.com/the-intelligence-handbook-fourth-edition",
+      "http": 200,
+      "final": "https://go.recordedfuture.com/the-intelligence-handbook-fourth-edition",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://healthcyber.mitre.org/wp-content/uploads/2023/04/Defending-Against-Ransomware-A-Cyber-Threat-Intelligence-Primer.pdf",
+      "http": 200,
+      "final": "https://healthcyber.mitre.org/wp-content/uploads/2023/04/Defending-Against-Ransomware-A-Cyber-Threat-Intelligence-Primer.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://hodigital.blog.gov.uk/wp-content/uploads/sites/161/2020/03/Cyber-Threat-Intelligence-A-Guide-For-Decision-Makers-and-Analysts-v2.0.pdf",
+      "http": 200,
+      "final": "https://hodigital.blog.gov.uk/wp-content/uploads/sites/161/2020/03/Cyber-Threat-Intelligence-A-Guide-For-Decision-Makers-and-Analysts-v2.0.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://info.mitre-engenuity.org/hubfs/ATTACK%20Evals/MITRE_ActiveDefenseCapabilitySet_TechnicalManual.pdf",
+      "http": 502,
+      "resultado": "nao_confirmado_neste_ambiente",
+      "erro": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "url": "https://itk.mitre.org/our-book-the-toolbox-of-innovation/",
+      "http": 200,
+      "final": "https://itk.mitre.org/our-book-the-toolbox-of-innovation/",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://link.springer.com/book/10.1007/978-1-4842-7220-6",
+      "http": 200,
+      "final": "https://link.springer.com/book/10.1007/978-1-4842-7220-6?error=cookies_not_supported&code=0bceda2d-2f6c-4133-9ef5-b9d1101ad49b",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://link.springer.com/book/10.1007/978-3-031-54497-2",
+      "http": 200,
+      "final": "https://link.springer.com/book/10.1007/978-3-031-54497-2?error=cookies_not_supported&code=50f95482-0ff4-40c0-b099-4bd485de2916",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://link.springer.com/book/10.1007/978-3-031-90723-4",
+      "http": 200,
+      "final": "https://link.springer.com/book/10.1007/978-3-031-90723-4?error=cookies_not_supported&code=f7f75eb0-5e60-4078-b253-9c76e71bea10",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://link.springer.com/book/10.1007/979-8-8688-1739-7",
+      "http": 200,
+      "final": "https://link.springer.com/book/10.1007/979-8-8688-1739-7?error=cookies_not_supported&code=a7a566ac-b525-4840-9e08-ddb92b4f3a5c",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://mitre.org/sites/default/files/2021-11/prs_15-2971-cyber-operations-rapid-assessment-best-practices.pdf",
+      "http": 200,
+      "final": "https://www.mitre.org/sites/default/files/2021-11/prs_15-2971-cyber-operations-rapid-assessment-best-practices.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119861775",
+      "http": 403,
+      "resultado": "nao_confirmado_neste_ambiente",
+      "erro": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/adulau/the-art-of-pivoting/refs/heads/main/output/the-art-of-pivoting.pdf",
+      "http": 200,
+      "final": "https://raw.githubusercontent.com/adulau/the-art-of-pivoting/refs/heads/main/output/the-art-of-pivoting.pdf",
+      "tipo": "application/octet-stream",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://reference-global.com/book/9781808651861",
+      "http": 200,
+      "final": "https://reference-global.com/book/9781808651861",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.bankofengland.co.uk/financial-stability/operational-resilience-of-the-financial-sector/2025-cbest-thematic",
+      "http": 200,
+      "final": "https://www.bankofengland.co.uk/financial-stability/operational-resilience-of-the-financial-sector/2025-cbest-thematic",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.bankofengland.co.uk/financial-stability/operational-resilience-of-the-financial-sector/cbest-threat-intelligence-led-assessments-implementation-guide",
+      "http": 200,
+      "final": "https://www.bankofengland.co.uk/financial-stability/operational-resilience-of-the-financial-sector/cbest-threat-intelligence-led-assessments-implementation-guide",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.cisa.gov/sites/default/files/2023-01/Best%20Practices%20for%20MITRE%20ATTCK%20Mapping.pdf",
+      "http": 403,
+      "resultado": "nao_confirmado_neste_ambiente",
+      "erro": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.crest-approved.org/buying-building-cyber-services/cyber-threat-intelligence-maturity-assessment-tools/",
+      "http": 200,
+      "final": "https://www.crest-approved.org/buying-building-cyber-services/cyber-threat-intelligence-maturity-assessment-tools/",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.crest-approved.org/wp-content/uploads/2022/04/CTI-in-Business-Context_2021.pdf",
+      "http": 200,
+      "final": "https://www.crest-approved.org/wp-content/uploads/2022/04/CTI-in-Business-Context_2021.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.crest-approved.org/wp-content/uploads/2024/04/what-is-ctihow-is-it-used_2024-v2.pdf?ver=1716384420",
+      "http": 200,
+      "final": "https://www.crest-approved.org/wp-content/uploads/2024/04/what-is-ctihow-is-it-used_2024-v2.pdf?ver=1716384420",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/ecb.tiber_targeted_threat_intelligence_report_guidance_2025.en.pdf",
+      "http": 200,
+      "final": "https://www.ecb.europa.eu/pub/pdf/annex/ecb.tiber_targeted_threat_intelligence_report_guidance_2025.en.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.enisa.europa.eu/publications/enisa-cybersecurity-threat-landscape-methodology",
+      "http": 200,
+      "final": "https://www.enisa.europa.eu/publications/enisa-cybersecurity-threat-landscape-methodology",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.first.org/global/sigs/cti/cti-program/resources",
+      "http": 200,
+      "final": "https://www.first.org/global/sigs/cti/cti-program/resources",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.first.org/global/sigs/cti/curriculum/",
+      "http": 200,
+      "final": "https://www.first.org/global/sigs/cti/curriculum/",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.first.org/global/sigs/cti/curriculum/cti-reporting",
+      "http": 200,
+      "final": "https://www.first.org/global/sigs/cti/curriculum/cti-reporting",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2016/03/31/824835/37984/en/book-by-mitre-researchers-classic-tactic-for-cyber-defense.html",
+      "http": 200,
+      "final": "https://www.globenewswire.com/news-release/2016/03/31/824835/37984/en/book-by-mitre-researchers-classic-tactic-for-cyber-defense.html",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/cyber-threat-intelligence-information-sharing/cyber-threat-intelligence-information-sharing-guide",
+      "http": 200,
+      "final": "https://www.gov.uk/government/publications/cyber-threat-intelligence-information-sharing/cyber-threat-intelligence-information-sharing-guide",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.misp-project.org/best-practices-in-threat-intelligence.html",
+      "http": 200,
+      "final": "https://www.misp-project.org/best-practices-in-threat-intelligence.html",
+      "tipo": "text/html",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.misp-project.org/documentation/",
+      "http": 200,
+      "final": "https://www.misp-project.org/documentation/",
+      "tipo": "text/html",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/focus-areas/cybersecurity/capabilities-resources",
+      "http": 200,
+      "final": "https://www.mitre.org/focus-areas/cybersecurity/capabilities-resources",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/focus-areas/defense-intelligence/intelligence-after-next",
+      "http": 200,
+      "final": "https://www.mitre.org/focus-areas/defense-intelligence/intelligence-after-next",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/news-release/mitre-publishes-11-strategies-world-class-cybersecurity-operations",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/news-release/mitre-publishes-11-strategies-world-class-cybersecurity-operations",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/news-release/mitres-center-threat-informed-defense-launches-framework-combat",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/news-release/mitres-center-threat-informed-defense-launches-framework-combat",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/cyber-exercise-playbook",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/cyber-exercise-playbook",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/cyber-resiliency-engineering-aid-updated-cyber-resiliency-engineering-0",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/cyber-resiliency-engineering-aid-updated-cyber-resiliency-engineering-0",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/cyber-resiliency-engineering-framework",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/cyber-resiliency-engineering-framework",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/cyber-resiliency-framework-and-cyber-survivability-attributes",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/cyber-resiliency-framework-and-cyber-survivability-attributes",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/enterprise-systems-engineering-theory-and-practice-volume-7-enterprise",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/enterprise-systems-engineering-theory-and-practice-volume-7-enterprise",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/finding-cyber-threats-attck-based-analytics",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/finding-cyber-threats-attck-based-analytics",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/guide-evolving-enterprise-architecture-body-knowledge",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/guide-evolving-enterprise-architecture-body-knowledge",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/handbook-implementing-agile-department-defense-information-technology",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/handbook-implementing-agile-department-defense-information-technology",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/human-machine-teaming-systems-engineering-guide",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/human-machine-teaming-systems-engineering-guide",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/information-privacy-evolving-healthcare-environment-introduction",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/information-privacy-evolving-healthcare-environment-introduction",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/intelligence-after-next-making-current-intelligence-current",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/intelligence-after-next-making-current-intelligence-current",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/intelligence-after-next-open-source-intelligence-counterterrorism",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/intelligence-after-next-open-source-intelligence-counterterrorism",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/intelligent-user-interfaces-introduction",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/intelligent-user-interfaces-introduction",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/level-your-market-research-game-strategies-and-hacks-youll-want-use",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/level-your-market-research-game-strategies-and-hacks-youll-want-use",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/medical-device-cybersecurity-regional-incident-preparedness-and-response",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/medical-device-cybersecurity-regional-incident-preparedness-and-response",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/mitre-ai-maturity-model-and-organizational-assessment-tool-guide",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/mitre-ai-maturity-model-and-organizational-assessment-tool-guide",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/principles-interoperability-and-integration-volume-1-fundamentals",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/principles-interoperability-and-integration-volume-1-fundamentals",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/provenance-capture-and-use-practical-guide",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/provenance-capture-and-use-practical-guide",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/recommendations-managing-software-reuse",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/recommendations-managing-software-reuse",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/standardizing-cyber-threat-intelligence-information-structured-threat",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/standardizing-cyber-threat-intelligence-information-structured-threat",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/threat-assessment-and-remediation-analysis-tara",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/threat-assessment-and-remediation-analysis-tara",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/trusted-automated-exchange-indicator-information-taxiitm",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/trusted-automated-exchange-indicator-information-taxiitm",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/news-insights/publication/ttp-based-hunting",
+      "http": 200,
+      "final": "https://www.mitre.org/news-insights/publication/ttp-based-hunting",
+      "tipo": "text/html; charset=UTF-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/sites/default/files/2021-11/Playbook-for-Threat-Modeling-Medical-Devices.pdf",
+      "http": 200,
+      "final": "https://www.mitre.org/sites/default/files/2021-11/Playbook-for-Threat-Modeling-Medical-Devices.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/sites/default/files/2021-11/getting-started-with-attack-october-2019.pdf",
+      "http": 200,
+      "final": "https://www.mitre.org/sites/default/files/2021-11/getting-started-with-attack-october-2019.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/sites/default/files/2021-11/pr-17-0103-Cyber-Resiliency-Design-Principles.pdf",
+      "http": 200,
+      "final": "https://www.mitre.org/sites/default/files/2021-11/pr-17-0103-Cyber-Resiliency-Design-Principles.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/sites/default/files/2021-11/prs-18-1174-ngci-cyber-threat-modeling.pdf",
+      "http": 200,
+      "final": "https://www.mitre.org/sites/default/files/2021-11/prs-18-1174-ngci-cyber-threat-modeling.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/sites/default/files/2022-04/11-strategies-of-a-world-class-cybersecurity-operations-center.pdf",
+      "http": 200,
+      "final": "https://www.mitre.org/sites/default/files/2022-04/11-strategies-of-a-world-class-cybersecurity-operations-center.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/sites/default/files/2022-09/pr-21-3872-ransomware-getting-started-guide-and-deep-dive-into-revil.pdf",
+      "http": 200,
+      "final": "https://www.mitre.org/sites/default/files/2022-09/pr-21-3872-ransomware-getting-started-guide-and-deep-dive-into-revil.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/sites/default/files/2023-02/PR-23-0402-The-Prevailing-Narratives-About-Open-Source-Intelligence-Are-Misguided.pdf",
+      "http": 200,
+      "final": "https://www.mitre.org/sites/default/files/2023-02/PR-23-0402-The-Prevailing-Narratives-About-Open-Source-Intelligence-Are-Misguided.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.mitre.org/sites/default/files/publications/se-guide-book-interactive.pdf",
+      "http": 200,
+      "final": "https://www.mitre.org/sites/default/files/publications/se-guide-book-interactive.pdf",
+      "tipo": "application/pdf",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.oreilly.com/library/view/intelligence-driven-incident-response/9781098120672/",
+      "http": 200,
+      "final": "https://www.oreilly.com/library/view/intelligence-driven-incident-response/9781098120672/",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.packtpub.com/en-us/product/practical-threat-intelligence-and-data-driven-threat-hunting-9781803233758",
+      "http": 403,
+      "resultado": "nao_confirmado_neste_ambiente",
+      "erro": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.perlego.com/book/5536969/the-cyber-threat-intelligence-analysts-workbook-respond-to-realworld-incidents-with-mitre-attck-and-osint-pdf",
+      "http": 410,
+      "resultado": "nao_confirmado_neste_ambiente",
+      "erro": "HTTP Error 410: Gone"
+    },
+    {
+      "url": "https://www.routledge.com/Spies-in-the-Bits-and-Bytes-The-Art-of-Cyber-Threat-Intelligence/Ali-Bhatti/p/book/9781032821092",
+      "http": 403,
+      "resultado": "nao_confirmado_neste_ambiente",
+      "erro": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.sap-press.com/cyber-threat-intelligence_6261/",
+      "http": 200,
+      "final": "https://www.sap-press.com/cyber-threat-intelligence_6261/",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    },
+    {
+      "url": "https://www.tenlong.com.tw/products/9781806020317",
+      "http": 200,
+      "final": "https://www.tenlong.com.tw/products/9781806020317",
+      "tipo": "text/html; charset=utf-8",
+      "resultado": "resposta_recebida"
+    }
+  ]
+}

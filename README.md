@@ -1,112 +1,99 @@
-# INTStudy — Ponto de Estudos de Inteligência
+<p align="center"><img src="assets/hero.svg" alt="INTStudy — A inteligência começa com uma pergunta melhor" width="100%"></p>
 
-> Hub de estudos de **todas as disciplinas de inteligência**, com foco máximo em **OSINT**, **Cyber Threat Intelligence** e **Análise de Malware e Engenharia Reversa**, sustentado por **Engenharia de Dados** e **Arquitetura de Sistemas**.
-> Mantido por **Deivison Lourenço** ([@Ridd1kulusC0d3r](https://github.com/Ridd1kulusC0d3r)) — pesquisador em OSINT/CTI, psicólogo e defensor da "Camada 8".
+<p align="center">
+<a href="COMECE-AQUI.md"><strong>COMECE AQUI</strong></a> ·
+<a href="biblioteca/README.md"><strong>BIBLIOTECA ABERTA</strong></a> ·
+<a href="trilhas/CTI-DO-ZERO-AO-BRIEFING.md"><strong>MISSÕES CTI</strong></a> ·
+<a href="docs/MAPA-DISCIPLINAS.md"><strong>19 DISCIPLINAS</strong></a>
+</p>
 
----
+# INTStudy · Inteligência que se aprende produzindo
 
-## Como funciona
+Um ambiente de estudo de **OSINT, Cyber Threat Intelligence e análise de malware**, apoiado por psicologia investigativa, engenharia de dados e arquitetura de sistemas. Curadoria de **Deivison Lourenço** — [@Ridd1kulusC0d3r](https://github.com/Ridd1kulusC0d3r).
 
-Cada disciplina tem uma pasta em [`disciplinas/`](disciplinas/) com sempre as mesmas seções:
+> **Sua missão:** transformar informação pública em uma avaliação sustentada por evidências, com limites explícitos e uma decisão a apoiar.
 
-| Seção | Para quê |
-|---|---|
-| **Pergunta central** | O que essa INT responde |
-| **Conceitos** | O mínimo para entender o campo |
-| **Trilha D → S** | Checklist de progressão (ranks do OSINT no Jutsu) |
-| **Fontes de referência** | Livros, frameworks, bases públicas |
-| **Base legal** | Leis e normas brasileiras que delimitam a prática |
-| **Ponte com a psicologia** | Onde o fator humano entra |
-| **Meus repos** | Quais repositórios meus servem de fonte, ferramenta, método ou laboratório |
-| **▶ Próxima ação** | **Uma** coisa para fazer agora |
+## Escolha o próximo movimento
 
-O [`CATALOGO-REPOS.md`](CATALOGO-REPOS.md) classifica todos os meus repositórios por **papel** e por **disciplina**. Ele é gerado a partir de [`repos.json`](repos.json) por [`tools/catalogo.py`](tools/catalogo.py) (Python stdlib) e validado a cada push pelo GitHub Actions.
+| Quero… | Abra | Saia com… |
+|:---|:---|:---|
+| **Começar hoje** | [Primeira sessão · 25 minutos](COMECE-AQUI.md) | Uma pergunta de inteligência e uma fonte |
+| **Estudar CTI com profundidade** | [Jornada em 6 missões](trilhas/CTI-DO-ZERO-AO-BRIEFING.md) | Um briefing revisado e um cenário fundamentado |
+| **Ler materiais gratuitos** | [Biblioteca aberta](biblioteca/README.md) | Uma leitura escolhida por objetivo, nível e data |
+| **Entender a MITRE além da matriz** | [Percurso MITRE / CTID](trilhas/MITRE-EM-CONTEXTO.md) | Relações entre comportamento, defesa e arquitetura |
+| **Praticar investigação** | [Caso Aurora · laboratório documental](trilhas/CASO-AURORA.md) | Hipóteses concorrentes e uma decisão de coleta |
+| **Escrever melhor** | [Templates de trabalho](templates/README.md) | PIR, matriz de evidências, briefing e revisão |
+| **Explorar todo o campo** | [Mapa das 19 disciplinas](docs/MAPA-DISCIPLINAS.md) | Uma rota que conecta coleta, análise e engenharia |
+| **Usar meus projetos** | [Catálogo de repositórios](CATALOGO-REPOS.md) | Ferramentas classificadas por papel e disciplina |
 
-### 📚 Biblioteca
-A [`biblioteca/`](biblioteca/README.md) reúne livros, guias, frameworks, playbooks e datasets — com destaque para MITRE e CTID — organizados por **uso** (estudar · operar · consultar), **nível** (D→S) e **disciplina**. Cada item tem **status de verificação** (✅ verificado · 📘 conhecido · ⚠️ a verificar · ❌ não confirmado), porque parte veio de listas geradas por IA ([procedência](biblioteca/PROCEDENCIA.md)).
+## Uma jornada, cinco níveis
 
-- Cada disciplina tem seu recorte em `disciplinas/<pasta>/BIBLIOTECA.md`.
-- O [fluxo operacional](biblioteca/FLUXO-OPERACIONAL.md) encadeia as fontes em: inteligência → priorização → caça → validação → resposta → feedback.
-- Fonte única: [`biblioteca/fontes.json`](biblioteca/fontes.json), gerada por [`tools/biblioteca.py`](tools/biblioteca.py).
+![Orientar, analisar, produzir, validar e contribuir](assets/jornada.svg)
 
----
+**D → S é uma rubrica de estudo, não uma certificação.** Concluir uma leitura não basta: entregue um artefato, revise as fontes e explique o que ainda não sabe. Os critérios estão na [trilha CTI](trilhas/CTI-DO-ZERO-AO-BRIEFING.md).
 
-## Mapa das disciplinas
+## A estante essencial
 
-Pesos: ★★★ foco máximo · ★★ pilar de suporte · ★ cobertura completa.
+| Etapa | Referência aberta | Pergunta que ela ajuda a responder |
+|:---|:---|:---|
+| **Direção** | [FIRST · CTI Curriculum](https://www.first.org/global/sigs/cti/curriculum/) | Para quem produzimos inteligência e para qual decisão? |
+| **Método** | [ENISA · Threat Landscape Methodology](https://www.enisa.europa.eu/publications/enisa-cybersecurity-threat-landscape-methodology) | Como delimitar e documentar uma pesquisa de ameaças? |
+| **Análise** | [FIRST · Incerteza em CTI](https://www.first.org/global/sigs/cti/curriculum/cti-reporting) | O que julgamos provável e quão sólida é a evidência? |
+| **Comportamento** | [CISA · ATT&CK Mapping](https://www.cisa.gov/news-events/news/best-practices-mitre-attckr-mapping) | Qual comportamento está realmente sustentado pela fonte? |
+| **Produção** | [TIBER-EU · TTIR](https://www.ecb.europa.eu/pub/pdf/annex/ecb.tiber_targeted_threat_intelligence_report_guidance_2025.en.pdf) | Como conectar contexto, ameaças e cenários? |
+| **Operação** | [MISP · Best Practices](https://www.misp-project.org/best-practices-in-threat-intelligence.html) | Como compartilhar e melhorar uma análise? |
 
-### Base
-| # | Disciplina | Peso |
-|---|---|---|
-| 00 | [Fundamentos de Inteligência](disciplinas/00-fundamentos/) | ★★ |
+**Comece pelas seis; use o [catálogo completo](biblioteca/README.md) para aprofundar.** A seleção é editorial, não um ranking de prestígio. Livros comerciais citados na pesquisa ficam no [arquivo de referências](biblioteca/REFERENCIAS-RESTRITAS.md), fora das trilhas abertas.
 
-### Foco máximo
-| # | Disciplina | Peso |
-|---|---|---|
-| 01 | [OSINT](disciplinas/01-osint/) | ★★★ |
-| 02 | [Cyber Threat Intelligence](disciplinas/02-cti/) | ★★★ |
-| 03 | [Análise de Malware e Engenharia Reversa](disciplinas/03-malware-engenharia-reversa/) | ★★★ |
+## Do dado à decisão
 
-### Técnica e análise
-| # | Disciplina | Peso |
-|---|---|---|
-| 04 | [Forense Digital e Resposta a Incidentes (DFIR)](disciplinas/04-dfir/) | ★★ |
-| 05 | [SOCMINT](disciplinas/05-socmint/) | ★★ |
-| 06 | [HUMINT](disciplinas/06-humint/) | ★ |
-| 07 | [Psicologia Investigativa (Camada 8)](disciplinas/07-psicologia-investigativa/) | ★★ |
-
-### Coleta especializada
-| # | Disciplina | Peso |
-|---|---|---|
-| 08 | [GEOINT / IMINT](disciplinas/08-geoint-imint/) | ★ |
-| 09 | [SIGINT](disciplinas/09-sigint/) | ★ |
-| 10 | [MASINT](disciplinas/10-masint/) | ★ |
-| 11 | [TECHINT](disciplinas/11-techint/) | ★ |
-| 12 | [CYBINT](disciplinas/12-cybint/) | ★★ |
-| 13 | [FININT](disciplinas/13-finint/) | ★ |
-| 14 | [Contrainteligência](disciplinas/14-contrainteligencia/) | ★ |
-| 15 | [Outras INTs](disciplinas/15-outras-ints/) — MEDINT, NUCINT, ACINT, competitiva, CRIMINT/ISP | ★ |
-
-### Pilares de engenharia
-| # | Disciplina | Peso |
-|---|---|---|
-| 16 | [Engenharia de Dados](disciplinas/16-engenharia-de-dados/) | ★★ |
-| 17 | [Arquitetura de Sistemas](disciplinas/17-arquitetura-de-sistemas/) | ★★ |
-| 18 | [IA Aplicada à Inteligência](disciplinas/18-ia-aplicada/) | ★★ |
-
-```
-                       00 FUNDAMENTOS  ·  07 PSICOLOGIA (ponte com todas)
-                                        │
-  COLETA       01 OSINT · 05 SOCMINT · 06 HUMINT · 08 GEOINT · 09 SIGINT · 10 MASINT
-                                        │
-  DOMÍNIO      02 CTI ◄── 03 MALWARE/RE ◄── 04 DFIR      12 CYBINT · 11 TECHINT
-                                        │                13 FININT · 14 CI · 15 OUTRAS
-  ENGENHARIA   16 DADOS ── 17 ARQUITETURA ── 18 IA
+```mermaid
+flowchart TD
+    Q["Pergunta e decisão"] --> C["Coleta documentada"]
+    C --> E["Evidências e hipóteses"]
+    E --> A["Análise e incerteza"]
+    A --> P["Produto para o destinatário"]
+    P --> D["Decisão e feedback"]
+    D --> Q
+    E -->|"Lacunas"| C
+    A -->|"Hipótese alternativa"| E
 ```
 
----
+## Como estudar sem acumular links
 
-## Ritmo (uma ação por vez)
+1. **Defina a decisão.** Registre uma pergunta no [template de PIR](templates/PIR.md).
+2. **Leia com objetivo.** Extraia uma ideia aplicável e uma limitação da fonte.
+3. **Produza.** Preencha a [matriz de evidências](templates/EVIDENCIAS.md) e o [briefing](templates/BRIEFING.md).
+4. **Revise.** Use a [rubrica](templates/REVISAO.md) e registre a próxima lacuna no [diário](DIARIO.md).
 
-- **Diário (25 min):** a "Próxima ação" de 01, 02 ou 03, alternando.
-- **Semanal:** um item de 04–07 + um de 16–18.
-- **Mensal:** uma disciplina ★ (08–15).
-- **Sempre:** registrar no [`DIARIO.md`](DIARIO.md).
+<details>
+<summary><strong>Como funciona a curadoria?</strong></summary>
 
-Comece por [`COMECE-AQUI.md`](COMECE-AQUI.md).
+- Fonte única: [`biblioteca/fontes.json`](biblioteca/fontes.json).
+- Organização por disciplina, finalidade, acesso, ano e nível.
+- [Procedência](biblioteca/PROCEDENCIA.md): o que foi confirmado e o que continua incerto.
+- [Registro desta pesquisa](docs/CURADORIA-2026-10-16.md): referências incorporadas, correções e critérios.
+- [Verificação técnica](biblioteca/VERIFICACAO-LINKS.md): disponibilidade HTTP não prova qualidade, atualidade nem acesso integral.
+- PDFs de terceiros permanecem nos sites dos autores. Acesso gratuito não concede automaticamente direito de redistribuição.
 
----
+</details>
 
-## Princípios
+<details>
+<summary><strong>Manutenção e contribuição</strong></summary>
 
-- **Evidência antes de conclusão:** fonte, data, hash e grau de confiança em tudo.
-- **Ética e legalidade:** coleta passiva, LGPD, Marco Civil, CPP 158-A a 158-F, Berkeley Protocol.
-- **Malware só no viés analítico e defensivo,** em laboratório isolado.
-- **Simplicidade:** Python stdlib primeiro; shell e Go quando fizer sentido.
-- **Somar, nunca substituir:** cada estudo adiciona a camada Brasil às referências originais, citando os autores.
+```bash
+python3 tools/catalogo.py --checar
+python3 tools/biblioteca.py
+python3 tools/biblioteca.py --checar
+python3 tools/verificar_interno.py
+```
 
----
+Leia [CONTRIBUTING.md](CONTRIBUTING.md). Para dados e geração, Python stdlib é suficiente. O GitHub Actions confere a consistência dos índices e links locais.
 
-## Licença
+</details>
 
-Conteúdo autoral sob CC BY 4.0 (sugestão — ajuste se preferir). Materiais de terceiros citados pertencem a seus autores.
+## Princípios de trabalho
+
+**Fonte antes da conclusão · contexto antes do indicador · hipóteses antes da atribuição · feedback depois da entrega.** Laboratórios usam casos sintéticos ou relatórios públicos. Inferências sobre pessoas exigem especial cuidado: comportamento observável não equivale a diagnóstico ou intenção comprovada.
+
+Materiais de terceiros mantêm suas respectivas licenças. A declaração de licença do conteúdo autoral deve ser formalizada pelo mantenedor; a sugestão anterior de CC BY 4.0 não é tratada aqui como licença já concedida.

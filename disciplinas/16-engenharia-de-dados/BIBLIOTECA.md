@@ -1,29 +1,32 @@
-# Biblioteca — 16 · Dados
+# Biblioteca aberta · Dados
 
-> Recorte gerado de [`biblioteca/fontes.json`](../../biblioteca/fontes.json). Índice geral: [biblioteca/](../../biblioteca/README.md).
+[← Disciplina](README.md) · [Catálogo completo](../../biblioteca/README.md) · [Trilhas](../../COMECE-AQUI.md)
 
-**Legenda:** ✅ Existência e link conferidos em 2026-10-16 · 📘 Referência consolidada na área; link da lista original não reconferido · ⚠️ Não foi possível conferir ainda — validar antes de citar · ❌ Não encontrado em busca — possível erro da lista de origem; não citar · 🆓 aberto · 💲 pago
+> Gerado de `biblioteca/fontes.json`. Acesso e qualidade são dimensões diferentes; consulte a procedência e a auditoria no índice geral.
 
 ## Estudar
 
-|  | Título | Autor | Tipo | Acesso | Nível | Uso | Nota |
-|---|---|---|---|---|---|---|---|
-| ✅ | [**Practical Threat Intelligence and Data-Driven Threat Hunting (2ª ed.)**](https://www.tomlinsons-online.com/p-39400160-practical-threat-intelligence-and-data-driven-threat-hunting.aspx) | Valentina Costa-Gazcón — Packt | livro | 💲 | B | estudar | Hunting orientado a dados com ferramentas open source e ATT&CK. |
-| 📘 | [**Principles of Interoperability and Integration, Volume 1: Fundamentals**](https://www.mitre.org/news-insights/publication/principles-interoperability-and-integration-volume-1-fundamentals) | MITRE | livro | 🆓 | B | estudar | Útil para a disciplina de Interoperabilidade do MPES. |
-| 📘 | [**Provenance Capture and Use: A Practical Guide**](https://www.mitre.org/news-insights/publication/provenance-capture-and-use-practical-guide) | MITRE | guia | 🆓 | B | estudar | Proveniência de dados — fundamento para cadeia de custódia nas ferramentas DEIVOSINT. |
-| 📘 | [**TTP-Based Hunting**](https://www.mitre.org/news-insights/publication/ttp-based-hunting) | MITRE | guia | 🆓 | B | estudar | Metodologia de caça por comportamento (TTP) em vez de indicador. |
+| Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
+|---|---|---|---|
+| **[Cyber-Threat Intelligence Information Sharing Guide](https://www.gov.uk/government/publications/cyber-threat-intelligence-information-sharing/cyber-threat-intelligence-information-sharing-guide)** — UK FCDO | 2021 · guia | C / estudar | Estabelecer responsabilidades e fluxos de compartilhamento; exemplos de oito países. **Referência identificada.** |
+| **[Finding Cyber Threats with ATT&CK-Based Analytics](https://www.mitre.org/news-insights/publication/finding-cyber-threats-attck-based-analytics)** — MITRE | 2017 · relatorio | C / estudar | Relacionar sensores, emulação, lacunas e validação de detecções comportamentais. **Referência identificada.** |
+| **[MISP Book: Documentation and Support](https://www.misp-project.org/documentation/)** — MISP Project | s/d · guia | C / estudar | Documentação, objetos, taxonomias e treinamentos; formatos de e-book disponíveis na página. **Referência identificada.** |
+| **[Toward a Knowledge Graph of Cybersecurity Countermeasures](https://d3fend.mitre.org/resources/D3FEND.pdf)** — MITRE | 2021 · relatorio | C / estudar | Compreender a ontologia D3FEND e suas relações com contramedidas. **Referência identificada.** |
+| **[Principles of Interoperability and Integration, Volume 1: Fundamentals](https://www.mitre.org/news-insights/publication/principles-interoperability-and-integration-volume-1-fundamentals)** — MITRE | s/d · livro | B / estudar | Útil para a disciplina de Interoperabilidade do MPES. **Referência identificada.** |
+| **[Provenance Capture and Use: A Practical Guide](https://www.mitre.org/news-insights/publication/provenance-capture-and-use-practical-guide)** — MITRE | s/d · guia | B / estudar | Proveniência de dados — fundamento para cadeia de custódia nas ferramentas DEIVOSINT. **Referência identificada.** |
+| **[TTP-Based Hunting](https://www.mitre.org/news-insights/publication/ttp-based-hunting)** — MITRE | 2020 · guia | B / estudar | Metodologia de caça por comportamento (TTP) em vez de indicador. **Referência identificada.** |
 
 ## Operar
 
-|  | Título | Autor | Tipo | Acesso | Nível | Uso | Nota |
-|---|---|---|---|---|---|---|---|
-| 📘 | [**Security Datasets (ex-Mordor)**](https://github.com/OTRF/Security-Datasets) | OTRF | dataset | 🆓 | B | operar | Telemetria de ataques simulados para testar detecções — matéria-prima da trilha de dados. |
-| 📘 | [**Threat Hunter Playbook**](https://github.com/OTRF/ThreatHunter-Playbook) | OTRF | playbook | 🆓 | B | operar | Hipóteses, fontes de dados e consultas por técnica ATT&CK. |
-| 📘 | [**HELK — Hunting ELK**](https://github.com/Cyb3rWard0g/HELK) | Roberto Rodriguez (Cyb3rWard0g) | ferramenta | 🆓 | A | operar | Laboratório de hunting (Elastic, Kafka, Spark). Verifique a atividade do repositório antes de adotar. |
+| Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
+|---|---|---|---|
+| **[Security Datasets (ex-Mordor)](https://github.com/OTRF/Security-Datasets)** — OTRF | s/d · dataset | B / operar | Telemetria de ataques simulados para testar detecções — matéria-prima da trilha de dados. **Referência identificada.** |
+| **[Threat Hunter Playbook](https://github.com/OTRF/ThreatHunter-Playbook)** — OTRF | s/d · playbook | B / operar | Hipóteses, fontes de dados e consultas por técnica ATT&CK. **Referência identificada.** |
+| **[HELK — Hunting ELK](https://github.com/Cyb3rWard0g/HELK)** — Roberto Rodriguez (Cyb3rWard0g) | s/d · ferramenta | A / operar | Laboratório de hunting (Elastic, Kafka, Spark). Verifique a atividade do repositório antes de adotar. **Referência identificada.** |
 
 ## Consultar
 
-|  | Título | Autor | Tipo | Acesso | Nível | Uso | Nota |
-|---|---|---|---|---|---|---|---|
-| 📘 | [**Standardizing Cyber Threat Intelligence Information with STIX**](https://www.mitre.org/news-insights/publication/standardizing-cyber-threat-intelligence-information-structured-threat-information-expression) | MITRE | especificacao | 🆓 | C | consultar | Texto histórico do STIX 1.x. Para uso atual, a referência é o STIX 2.1 da OASIS. |
-| 📘 | [**The Trusted Automated eXchange of Indicator Information (TAXII)**](https://www.mitre.org/news-insights/publication/trusted-automated-exchange-indicator-information-taxiitm) | MITRE | especificacao | 🆓 | C | consultar | Texto histórico do TAXII 1.x. Para uso atual, TAXII 2.1 da OASIS. |
+| Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
+|---|---|---|---|
+| **[Standardizing Cyber Threat Intelligence Information with STIX](https://www.mitre.org/news-insights/publication/standardizing-cyber-threat-intelligence-information-structured-threat)** — MITRE | 2012 · especificacao | C / consultar | Texto histórico do STIX 1.x. Para uso atual, a referência é o STIX 2.1 da OASIS. Link corrigido após HTTP 404 no endereço anterior. **Referência identificada.** |
+| **[The Trusted Automated eXchange of Indicator Information (TAXII)](https://www.mitre.org/news-insights/publication/trusted-automated-exchange-indicator-information-taxiitm)** — MITRE | 2013 · especificacao | C / consultar | Texto histórico do TAXII 1.x. Para uso atual, TAXII 2.1 da OASIS. **Referência identificada.** |
