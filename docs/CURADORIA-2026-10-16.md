@@ -111,3 +111,7 @@ Pesquisa a partir da metodologia CTL da ENISA, buscando acervos (GitHub e biblio
 
 Decisões: drives compartilhados não foram incorporados (não indexáveis, sem dono verificável). Listas de fontes da dark web ficaram fora do escopo. O registro `enisa-methodology` já existia e foi mantido; a trilha usa a página oficial dele.
 
+
+## Complemento dos acervos pesquisados no chat
+
+Integrados 8 registros adicionais após reconciliação por URL com a atualização de landscapes já presente. Notas de acesso e limites complementadas nos registros existentes. [Guia de acervos](../biblioteca/LANDSCAPES-E-TENDENCIAS.md) inclui GitHubs, Google Sheets e Box; o Drive TTP Attribution permanece pendente e fora da biblioteca aberta. Não houve verificação individual de todos os PDFs.

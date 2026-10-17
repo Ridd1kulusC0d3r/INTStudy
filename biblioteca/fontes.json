@@ -16,7 +16,8 @@
     "dataset",
     "curso",
     "relatorio",
-    "acervo"
+    "acervo",
+    "colecao"
   ],
   "usos": {
     "estudar": "Leitura de formação",
@@ -2372,7 +2373,7 @@
       ],
       "tipo": "acervo",
       "url": "https://github.com/jacobdjwilson/awesome-annual-security-reports",
-      "nota": "Lista curada de relatórios anuais e pesquisas do setor por ano e categoria — ponto de partida para comparar tendências.",
+      "nota": "Lista curada de relatórios anuais e pesquisas do setor por ano e categoria — ponto de partida para comparar tendências. Relatórios anuais por ano e tema, PDFs e conversões Markdown. Inclui materiais de 2026. Confira estatísticas no PDF original; conversões usam IA.",
       "acesso": "aberto",
       "nivel": "D",
       "uso": "consultar",
@@ -2416,7 +2417,7 @@
       ],
       "tipo": "acervo",
       "url": "https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections",
-      "nota": "Relatórios de campanhas organizados por ano. Pode estar desatualizado.",
+      "nota": "Relatórios de campanhas organizados por ano. Pode estar desatualizado. Coleção cronológica de campanhas. Também contém amostras: para estudo documental, use relatórios. Não representa amostra estatística de todas as ameaças.",
       "acesso": "aberto",
       "nivel": "C",
       "uso": "consultar",
@@ -2438,7 +2439,7 @@
       ],
       "tipo": "acervo",
       "url": "https://github.com/blackorbird/APT_REPORT",
-      "nota": "Coleção de relatórios de APT e IOCs selecionados; forte em atores asiáticos.",
+      "nota": "Coleção de relatórios de APT e IOCs selecionados; forte em atores asiáticos. Relatórios, indicadores e materiais por grupo/operação; inclui amostras. Útil para pesquisa histórica e aprofundamento por ator.",
       "acesso": "aberto",
       "nivel": "C",
       "uso": "consultar",
@@ -2527,7 +2528,7 @@
       ],
       "tipo": "dataset",
       "url": "https://github.com/vz-risk/VCDB",
-      "nota": "Incidentes públicos codificados no esquema VERIS (JSON); exercício de engenharia de dados e base do DBIR.",
+      "nota": "Incidentes públicos codificados no esquema VERIS (JSON); exercício de engenharia de dados e base do DBIR. Incidentes divulgados publicamente em formato estruturado. Há vieses de seleção documentados; não equivale à base completa do DBIR.",
       "acesso": "aberto",
       "nivel": "B",
       "uso": "operar",
@@ -2537,6 +2538,174 @@
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
       "temporalidade": "recurso_continuo_sem_ano_confirmado"
+    },
+    {
+      "id": "reports-2026-03",
+      "titulo": "Threat Intel Reports — março de 2026",
+      "autor": "da5ch0",
+      "url": "https://github.com/da5ch0/2026_03-threat-intel-reports",
+      "tipo": "colecao",
+      "disciplinas": [
+        "02"
+      ],
+      "categoria": "Landscapes e tendências",
+      "nota": "Seleção de relatórios de terceiros referente a março de 2026; não pressupõe atualização contínua nem completude.",
+      "acesso": "aberto",
+      "ano": 2026,
+      "uso": "consultar",
+      "nivel": "C",
+      "status": "verificado",
+      "origem": "conversa-landscapes-2026-10-16",
+      "verificacao": "indice_publico_conferido",
+      "data_verificacao": "2026-10-16"
+    },
+    {
+      "id": "aptnotes-data",
+      "titulo": "APTnotes — índice e documentos no Box",
+      "autor": "APTnotes",
+      "url": "https://github.com/aptnotes/data",
+      "tipo": "colecao",
+      "disciplinas": [
+        "02",
+        "16"
+      ],
+      "categoria": "Campanhas e APTs",
+      "nota": "Índice CSV/JSON com título, fonte, data, ano, hash e links Box. Página pública conferida; cada objeto Box não foi testado individualmente.",
+      "acesso": "aberto",
+      "ano": null,
+      "uso": "consultar",
+      "nivel": "C",
+      "status": "verificado",
+      "origem": "conversa-landscapes-2026-10-16",
+      "verificacao": "indice_publico_conferido",
+      "data_verificacao": "2026-10-16"
+    },
+    {
+      "id": "aptnotes-markdown",
+      "titulo": "APTnotes em Markdown",
+      "autor": "alexander-hanel",
+      "url": "https://github.com/alexander-hanel/APTnotes-md",
+      "tipo": "colecao",
+      "disciplinas": [
+        "02",
+        "16",
+        "18"
+      ],
+      "categoria": "Dados e automação",
+      "nota": "Conversões para busca, indexação e RAG; projeto orientado a processamento por LLMs. Para leitura e citação, consulte documentos originais.",
+      "acesso": "aberto",
+      "ano": null,
+      "uso": "consultar",
+      "nivel": "B",
+      "status": "verificado",
+      "origem": "conversa-landscapes-2026-10-16",
+      "verificacao": "indice_publico_conferido",
+      "data_verificacao": "2026-10-16"
+    },
+    {
+      "id": "cti-crawler",
+      "titulo": "CTI Crawler",
+      "autor": "peng-gao-lab",
+      "url": "https://github.com/peng-gao-lab/cti-crawler",
+      "tipo": "ferramenta",
+      "disciplinas": [
+        "02",
+        "16",
+        "18"
+      ],
+      "categoria": "Dados e automação",
+      "nota": "Coleta e dataset de CTI com procedência. Deduplicar entre fontes e URLs antes de contar evidências.",
+      "acesso": "aberto",
+      "ano": null,
+      "uso": "consultar",
+      "nivel": "B",
+      "status": "verificado",
+      "origem": "conversa-landscapes-2026-10-16",
+      "verificacao": "indice_publico_conferido",
+      "data_verificacao": "2026-10-16"
+    },
+    {
+      "id": "apt-groups-sheet",
+      "titulo": "APT Groups and Operations — Google Sheets",
+      "autor": "Florian Roth e colaboradores",
+      "url": "https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit",
+      "tipo": "dataset",
+      "disciplinas": [
+        "02",
+        "01"
+      ],
+      "categoria": "Nuvem e índices de atores",
+      "nota": "Leitura pública confirmada. Aliases, grupos, operações e fontes. Mapeamentos podem estar incorretos ou desatualizados; índice para pesquisa, não prova de atribuição.",
+      "acesso": "aberto",
+      "ano": null,
+      "uso": "consultar",
+      "nivel": "C",
+      "status": "verificado",
+      "origem": "conversa-landscapes-2026-10-16",
+      "verificacao": "indice_publico_conferido",
+      "data_verificacao": "2026-10-16"
+    },
+    {
+      "id": "enisa-landscape-catalog",
+      "titulo": "ENISA — catálogo Threat Landscape",
+      "autor": "ENISA",
+      "url": "https://www.enisa.europa.eu/topics/cyber-threats/threat-landscape",
+      "tipo": "colecao",
+      "disciplinas": [
+        "02"
+      ],
+      "categoria": "Fontes institucionais",
+      "nota": "Panoramas gerais, temáticos e setoriais. Usar com a metodologia ENISA já catalogada.",
+      "acesso": "aberto",
+      "ano": null,
+      "uso": "consultar",
+      "nivel": "C",
+      "status": "verificado",
+      "origem": "conversa-landscapes-2026-10-16",
+      "verificacao": "indice_publico_conferido",
+      "data_verificacao": "2026-10-16"
+    },
+    {
+      "id": "cert-eu-ti-2026",
+      "titulo": "CERT-EU — Threat Intelligence 2026",
+      "autor": "CERT-EU",
+      "url": "https://cert.europa.eu/publications/threat-intelligence/2026",
+      "tipo": "colecao",
+      "disciplinas": [
+        "02"
+      ],
+      "categoria": "Fontes institucionais",
+      "nota": "Publicações de inteligência e panoramas. Distinguir o ano da publicação do período analisado.",
+      "acesso": "aberto",
+      "ano": 2026,
+      "uso": "consultar",
+      "nivel": "C",
+      "status": "verificado",
+      "origem": "conversa-landscapes-2026-10-16",
+      "verificacao": "indice_publico_conferido",
+      "data_verificacao": "2026-10-16"
+    },
+    {
+      "id": "ttp-attribution-drive",
+      "titulo": "TTP Attribution — dataset anunciado no Google Drive",
+      "autor": "KylaG",
+      "url": "https://drive.google.com/drive/folders/1spjdXx_rCO6I1b4g_5X2C6ksJwlFN6Gu",
+      "tipo": "dataset",
+      "disciplinas": [
+        "02",
+        "16",
+        "18"
+      ],
+      "categoria": "Acesso pendente",
+      "nota": "Pasta anunciada em https://github.com/KylaG/ttp_attribution com dataset de CTI, embeddings e resultados. Ferramenta de pesquisa não conseguiu abrir a pasta; acesso e conteúdo não confirmados.",
+      "acesso": "restrito",
+      "ano": null,
+      "uso": "consultar",
+      "nivel": "C",
+      "status": "a_verificar",
+      "origem": "conversa-landscapes-2026-10-16",
+      "verificacao": "acesso_pendente",
+      "data_verificacao": "2026-10-16"
     }
   ]
 }

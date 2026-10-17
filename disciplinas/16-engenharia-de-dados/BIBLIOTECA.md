@@ -22,16 +22,19 @@
 |---|---|---|---|
 | **[Security Datasets (ex-Mordor)](https://github.com/OTRF/Security-Datasets)** — OTRF | s/d · dataset | B / operar | Telemetria de ataques simulados para testar detecções — matéria-prima da trilha de dados. **Referência identificada.** |
 | **[Threat Hunter Playbook](https://github.com/OTRF/ThreatHunter-Playbook)** — OTRF | s/d · playbook | B / operar | Hipóteses, fontes de dados e consultas por técnica ATT&CK. **Referência identificada.** |
-| **[VERIS Community Database (VCDB)](https://github.com/vz-risk/VCDB)** — Verizon (vz-risk) | s/d · dataset | B / operar | Incidentes públicos codificados no esquema VERIS (JSON); exercício de engenharia de dados e base do DBIR. **Referência identificada.** |
+| **[VERIS Community Database (VCDB)](https://github.com/vz-risk/VCDB)** — Verizon (vz-risk) | s/d · dataset | B / operar | Incidentes públicos codificados no esquema VERIS (JSON); exercício de engenharia de dados e base do DBIR. Incidentes divulgados publicamente em formato estruturado. Há vieses de seleção documentados; não equivale à base completa do DBIR. **Referência identificada.** |
 | **[HELK — Hunting ELK](https://github.com/Cyb3rWard0g/HELK)** — Roberto Rodriguez (Cyb3rWard0g) | s/d · ferramenta | A / operar | Laboratório de hunting (Elastic, Kafka, Spark). Verifique a atividade do repositório antes de adotar. **Referência identificada.** |
 
 ## Consultar
 
 | Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
 |---|---|---|---|
+| **[APTnotes — índice e documentos no Box](https://github.com/aptnotes/data)** — APTnotes | s/d · colecao | C / consultar | Índice CSV/JSON com título, fonte, data, ano, hash e links Box. Página pública conferida; cada objeto Box não foi testado individualmente. **Conferência anterior.** |
 | **[Data Breach Investigations Report (DBIR) 2026](https://www.verizon.com/business/resources/reports/dbir/)** — Verizon | 2026 · relatorio | C / consultar | Estatística de violações baseada no esquema VERIS; ler junto com o VCDB. Download pode exigir formulário. **Referência identificada.** |
 | **[ORKL — biblioteca de relatórios de CTI](https://orkl.eu/)** — ORKL | s/d · acervo | C / consultar | Biblioteca pesquisável de relatórios de CTI com API; integrações com XSOAR e Synapse e servidor MCP. Candidata a fonte automatizada de boletins. **Referência identificada.** |
 | **[ransomware.live](https://www.ransomware.live/about)** — Julien Mousqueton | s/d · dataset | C / consultar | Estatísticas públicas de vítimas de ransomware por grupo, setor e país — permite medir tendência no Brasil. **Referência identificada.** |
 | **[Standardizing Cyber Threat Intelligence Information with STIX](https://www.mitre.org/news-insights/publication/standardizing-cyber-threat-intelligence-information-structured-threat)** — MITRE | 2012 · especificacao | C / consultar | Texto histórico do STIX 1.x. Para uso atual, a referência é o STIX 2.1 da OASIS. Link corrigido após HTTP 404 no endereço anterior. **Referência identificada.** |
 | **[The Trusted Automated eXchange of Indicator Information (TAXII)](https://www.mitre.org/news-insights/publication/trusted-automated-exchange-indicator-information-taxiitm)** — MITRE | 2013 · especificacao | C / consultar | Texto histórico do TAXII 1.x. Para uso atual, TAXII 2.1 da OASIS. **Referência identificada.** |
 | **[Threat Landscape Report 2025](https://cert.europa.eu/publications/threat-intelligence/tlr2025/)** — CERT-EU | 2025 · relatorio | C / consultar | Também publicado em JSON e Markdown — útil para ingestão automatizada e comparação ano a ano. **Referência identificada.** |
+| **[APTnotes em Markdown](https://github.com/alexander-hanel/APTnotes-md)** — alexander-hanel | s/d · colecao | B / consultar | Conversões para busca, indexação e RAG; projeto orientado a processamento por LLMs. Para leitura e citação, consulte documentos originais. **Conferência anterior.** |
+| **[CTI Crawler](https://github.com/peng-gao-lab/cti-crawler)** — peng-gao-lab | s/d · ferramenta | B / consultar | Coleta e dataset de CTI com procedência. Deduplicar entre fontes e URLs antes de contar evidências. **Conferência anterior.** |

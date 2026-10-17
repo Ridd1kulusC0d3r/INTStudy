@@ -15,3 +15,9 @@
 | **[TIBER-EU Targeted Threat Intelligence Report Guidance](https://www.ecb.europa.eu/pub/pdf/annex/ecb.tiber_targeted_threat_intelligence_report_guidance_2025.en.pdf)** — European Central Bank | 2025 · guia | C / estudar | 20 páginas: escopo, contexto, exposição digital, perfis e cenários. Adaptar o contexto financeiro ao uso pretendido. **Referência identificada.** |
 | **[Provenance Capture and Use: A Practical Guide](https://www.mitre.org/news-insights/publication/provenance-capture-and-use-practical-guide)** — MITRE | s/d · guia | B / estudar | Proveniência de dados — fundamento para cadeia de custódia nas ferramentas DEIVOSINT. **Referência identificada.** |
 | **[The Art of Pivoting](https://raw.githubusercontent.com/adulau/the-art-of-pivoting/refs/heads/main/output/the-art-of-pivoting.pdf)** — Alexandre Dulaunoy | 2025 · livro | B / estudar | Pivôs de infraestrutura com indicadores clássicos e não convencionais. Autor ligado ao CIRCL/MISP. **Referência identificada.** |
+
+## Consultar
+
+| Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
+|---|---|---|---|
+| **[APT Groups and Operations — Google Sheets](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit)** — Florian Roth e colaboradores | s/d · dataset | C / consultar | Leitura pública confirmada. Aliases, grupos, operações e fontes. Mapeamentos podem estar incorretos ou desatualizados; índice para pesquisa, não prova de atribuição. **Conferência anterior.** |

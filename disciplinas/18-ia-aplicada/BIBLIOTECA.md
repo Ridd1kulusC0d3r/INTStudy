@@ -25,3 +25,5 @@
 |---|---|---|---|
 | **[Intelligent User Interfaces: An Introduction](https://www.mitre.org/news-insights/publication/intelligent-user-interfaces-introduction)** — MITRE | s/d · livro | C / consultar | Interfaces inteligentes para navegação e visualização de multimídia. **Referência identificada.** |
 | **[ORKL — biblioteca de relatórios de CTI](https://orkl.eu/)** — ORKL | s/d · acervo | C / consultar | Biblioteca pesquisável de relatórios de CTI com API; integrações com XSOAR e Synapse e servidor MCP. Candidata a fonte automatizada de boletins. **Referência identificada.** |
+| **[APTnotes em Markdown](https://github.com/alexander-hanel/APTnotes-md)** — alexander-hanel | s/d · colecao | B / consultar | Conversões para busca, indexação e RAG; projeto orientado a processamento por LLMs. Para leitura e citação, consulte documentos originais. **Conferência anterior.** |
+| **[CTI Crawler](https://github.com/peng-gao-lab/cti-crawler)** — peng-gao-lab | s/d · ferramenta | B / consultar | Coleta e dataset de CTI com procedência. Deduplicar entre fontes e URLs antes de contar evidências. **Conferência anterior.** |

@@ -10,6 +10,8 @@ A [ENISA Cybersecurity Threat Landscape Methodology](https://www.enisa.europa.eu
 
 Use a metodologia como gabarito para **avaliar** qualquer relatório e para **produzir** o seu.
 
+[Abrir acervos classificados, planilha pública e situação do Drive](../biblioteca/LANDSCAPES-E-TENDENCIAS.md).
+
 ## Onde estão os relatórios
 
 | Camada | Para quê | Fontes |
