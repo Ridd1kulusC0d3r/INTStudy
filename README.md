@@ -22,6 +22,7 @@ Um ambiente de estudo de **OSINT, Cyber Threat Intelligence e análise de malwar
 | **Ler materiais gratuitos** | [Biblioteca aberta](biblioteca/README.md) | Uma leitura escolhida por objetivo, nível e data |
 | **Entender a MITRE além da matriz** | [Percurso MITRE / CTID](trilhas/MITRE-EM-CONTEXTO.md) | Relações entre comportamento, defesa e arquitetura |
 | **Ler o panorama de ameaças** | [Landscape e tendências · método ENISA](trilhas/LANDSCAPE-E-TENDENCIAS.md) | Comparação entre relatórios e um landscape temático BR |
+| **Acompanhar relatórios de tendência** | [Radar de Landscape](landscape/README.md) | Séries comparáveis, calendário de novas edições e lacunas BR |
 | **Praticar investigação** | [Caso Aurora · laboratório documental](trilhas/CASO-AURORA.md) | Hipóteses concorrentes e uma decisão de coleta |
 | **Escrever melhor** | [Templates de trabalho](templates/README.md) | PIR, matriz de evidências, briefing e revisão |
 | **Explorar todo o campo** | [Mapa das 19 disciplinas](docs/MAPA-DISCIPLINAS.md) | Uma rota que conecta coleta, análise e engenharia |

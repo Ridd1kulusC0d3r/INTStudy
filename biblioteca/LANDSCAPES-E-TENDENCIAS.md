@@ -1,6 +1,6 @@
 # Observatório de leituras · landscapes e tendências
 
-[← Biblioteca](README.md) · [Início](../README.md) · [Missões CTI](../trilhas/CTI-DO-ZERO-AO-BRIEFING.md)
+[← Biblioteca](README.md) · [Início](../README.md) · [Missões CTI](../trilhas/CTI-DO-ZERO-AO-BRIEFING.md) · **[Radar de Landscape](../landscape/README.md)**
 
 > Curadoria de 16/10/2026. Acervos e índices públicos consultados na pesquisa; não houve validação individual de todos os PDFs. Acesso gratuito não implica licença para redistribuir. Este repositório cataloga links e não replica documentos de terceiros.
 

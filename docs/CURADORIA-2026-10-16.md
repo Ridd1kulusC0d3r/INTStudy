@@ -115,3 +115,12 @@ Decisões: drives compartilhados não foram incorporados (não indexáveis, sem 
 ## Complemento dos acervos pesquisados no chat
 
 Integrados 8 registros adicionais após reconciliação por URL com a atualização de landscapes já presente. Notas de acesso e limites complementadas nos registros existentes. [Guia de acervos](../biblioteca/LANDSCAPES-E-TENDENCIAS.md) inclui GitHubs, Google Sheets e Box; o Drive TTP Attribution permanece pendente e fora da biblioteca aberta. Não houve verificação individual de todos os PDFs.
+
+## Ampliação: Radar de Landscape · 17/10/2026
+
+- **22 séries novas** (`origem: radar-landscape-2026-10-17`): governos (CCCS, ANSSI, BSI, CSA Singapura, ODNI), setoriais da ENISA (Finance, Health), BR/LATAM (BCB REF, BID/OEA 2025, ESET LATAM, Recorded Future LATAM), fornecedores (X-Force, Red Canary, FortiGuard, ESET, Google Forecast, Sophos) e bases de incidentes (EuRepoC, CFR, CISSM, Hackmageddon), além do ENISA ETL 2026.
+- **30 séries existentes anotadas** com o bloco `landscape`: publicador, região, escopo, base de evidência, periodicidade, formatos, edição e relevância BR.
+- **Calendário de vigilância:** detectou a publicação do ENISA ETL 2026 (set/2026), que mudou o período de observação para o ano civil. ASD e CCCS seguem sinalizados para conferência.
+- **Rubrica ENISA (0–24)** e primeira avaliação preliminar (ETL 2025: 17/24), com inconsistências numéricas registradas para conferir no PDF.
+- `bsi-lagebericht-2025` entra como `a_verificar` (URL institucional não aberta); FortiGuard e CrowdStrike entram como `restrito` (cadastro).
+

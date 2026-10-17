@@ -10,3 +10,4 @@ Copie os modelos para seu espaço de estudo. Não publique dados pessoais, segre
 | [Matriz de evidências](EVIDENCIAS.md) | Durante coleta e análise |
 | [Briefing](BRIEFING.md) | Ao comunicar uma conclusão |
 | [Revisão](REVISAO.md) | Antes de compartilhar |
+| [Landscape BR](LANDSCAPE.md) | Ao produzir um panorama horizontal, setorial ou temático |

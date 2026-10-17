@@ -646,7 +646,27 @@
       "origem": "acervo-anterior",
       "verificacao": "herdada_nao_revalidada",
       "prioridade_cti": "central",
-      "temporalidade": "recente"
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "europa",
+        "escopo": "horizontal",
+        "tema": "síntese de fontes abertas",
+        "evidencia": "curadoria",
+        "periodicidade": "mensal",
+        "formatos": [
+          "pdf",
+          "html",
+          "json",
+          "md"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "otrf-threat-hunter-playbook",
@@ -1654,7 +1674,25 @@
       "evidencia": "Localizado em fonte institucional durante a pesquisa da conversa; acesso técnico registrado separadamente.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recente"
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "europa",
+        "escopo": "metodo",
+        "tema": "metodologia CTL (ETL, setorial, temático)",
+        "evidencia": "metodo",
+        "periodicidade": "pontual",
+        "formatos": [
+          "pdf",
+          "html"
+        ],
+        "ultima_edicao": "2025 · atualizada set/2026",
+        "mes_tipico": null,
+        "relevancia_br": "alta",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "misp-book",
@@ -2122,7 +2160,31 @@
       "evidencia": "Página oficial localizada em busca na pesquisa de landscape (16/10/2026); acesso técnico não auditado.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recente"
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "europa",
+        "escopo": "horizontal",
+        "tema": "todas as ameaças · 18 setores NIS2",
+        "evidencia": "incidentes_publicos",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": "2025 · v1.3 set/2026",
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ],
+        "avaliacao": {
+          "nota": 17,
+          "maximo": 24,
+          "arquivo": "landscape/avaliacoes/enisa-etl-2025.md",
+          "data": "2026-10-17",
+          "natureza": "preliminar"
+        },
+        "substituida_por": "enisa-etl-2026"
+      }
     },
     {
       "id": "certeu-tlr-2025",
@@ -2144,7 +2206,27 @@
       "evidencia": "Página oficial localizada em busca na pesquisa de landscape (16/10/2026); acesso técnico não auditado.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recente"
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "europa",
+        "escopo": "horizontal",
+        "tema": "instituições e órgãos da UE",
+        "evidencia": "resposta_incidentes",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf",
+          "html",
+          "json",
+          "md"
+        ],
+        "ultima_edicao": "2025",
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "europol-iocta",
@@ -2167,7 +2249,24 @@
       "evidencia": "Página oficial localizada em busca na pesquisa de landscape (16/10/2026); acesso técnico não auditado.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recente"
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "europa",
+        "escopo": "tematico",
+        "tema": "crime organizado online",
+        "evidencia": "misto",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": "2025 · há edição 2026",
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "asd-acsc-2024-25",
@@ -2188,7 +2287,26 @@
       "evidencia": "Página oficial localizada em busca na pesquisa de landscape (16/10/2026); acesso técnico não auditado.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recente"
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "australia",
+        "escopo": "horizontal",
+        "tema": "ameaças à Austrália",
+        "evidencia": "incidentes_reportados",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf",
+          "html"
+        ],
+        "ultima_edicao": "2024–25",
+        "mes_tipico": 10,
+        "relevancia_br": "baixa",
+        "idioma": [
+          "en"
+        ],
+        "ano_edicao": 2025
+      }
     },
     {
       "id": "ncsc-annual-review-2025",
@@ -2209,7 +2327,25 @@
       "evidencia": "Página oficial localizada em busca na pesquisa de landscape (16/10/2026); acesso técnico não auditado.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recente"
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "reino-unido",
+        "escopo": "horizontal",
+        "tema": "incidentes nacionalmente significativos",
+        "evidencia": "incidentes_reportados",
+        "periodicidade": "anual",
+        "formatos": [
+          "html",
+          "pdf"
+        ],
+        "ultima_edicao": "2025",
+        "mes_tipico": null,
+        "relevancia_br": "baixa",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "mddr-2025",
@@ -2230,7 +2366,25 @@
       "evidencia": "Página oficial localizada em busca na pesquisa de landscape (16/10/2026); acesso técnico não auditado.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recente"
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "fornecedor",
+        "regiao": "global",
+        "escopo": "horizontal",
+        "tema": "atores estatais e cibercrime",
+        "evidencia": "telemetria",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf",
+          "html"
+        ],
+        "ultima_edicao": "2025",
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "verizon-dbir-2026",
@@ -2252,7 +2406,25 @@
       "evidencia": "Página oficial localizada em busca na pesquisa de landscape (16/10/2026); acesso técnico não auditado.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recente"
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "fornecedor",
+        "regiao": "global",
+        "escopo": "horizontal",
+        "tema": "violações de dados (esquema VERIS)",
+        "evidencia": "misto",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": "2026",
+        "mes_tipico": 5,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ],
+        "ano_edicao": 2026
+      }
     },
     {
       "id": "mandiant-mtrends-2026",
@@ -2274,7 +2446,24 @@
       "evidencia": "Página oficial localizada em busca na pesquisa de landscape (16/10/2026); acesso técnico não auditado.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recente"
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "fornecedor",
+        "regiao": "global",
+        "escopo": "horizontal",
+        "tema": "métricas de resposta a incidentes",
+        "evidencia": "resposta_incidentes",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": "2026",
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "crowdstrike-gtr-2026",
@@ -2295,7 +2484,26 @@
       "evidencia": "Página oficial localizada em busca na pesquisa de landscape (16/10/2026); acesso técnico não auditado.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recente"
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "fornecedor",
+        "regiao": "global",
+        "escopo": "horizontal",
+        "tema": "adversários e velocidade de intrusão",
+        "evidencia": "telemetria",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf",
+          "html"
+        ],
+        "ultima_edicao": "2026",
+        "mes_tipico": 2,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ],
+        "ano_edicao": 2026
+      }
     },
     {
       "id": "nicbr-relatorio-2024",
@@ -2317,7 +2525,24 @@
       "evidencia": "Página oficial localizada em busca na pesquisa de landscape (16/10/2026); acesso técnico não auditado.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recente"
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "terceiro-setor",
+        "regiao": "brasil",
+        "escopo": "horizontal",
+        "tema": "notificações de incidentes ao CERT.br",
+        "evidencia": "incidentes_reportados",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": "2024",
+        "mes_tipico": null,
+        "relevancia_br": "alta",
+        "idioma": [
+          "pt"
+        ]
+      }
     },
     {
       "id": "ctir-gov",
@@ -2339,7 +2564,25 @@
       "evidencia": "Página oficial localizada em busca na pesquisa de landscape (16/10/2026); acesso técnico não auditado.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recurso_continuo_sem_ano_confirmado"
+      "temporalidade": "recurso_continuo_sem_ano_confirmado",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "brasil",
+        "escopo": "acervo",
+        "tema": "alertas e recomendações à APF",
+        "evidencia": "curadoria",
+        "periodicidade": "continua",
+        "formatos": [
+          "html",
+          "pdf"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "alta",
+        "idioma": [
+          "pt"
+        ]
+      }
     },
     {
       "id": "bid-oea-2020",
@@ -2361,7 +2604,26 @@
       "evidencia": "Página oficial localizada em busca na pesquisa de landscape (16/10/2026); acesso técnico não auditado.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "historico"
+      "temporalidade": "historico",
+      "landscape": {
+        "publicador_tipo": "multilateral",
+        "regiao": "latam",
+        "escopo": "tematico",
+        "tema": "maturidade de capacidades (CMM)",
+        "evidencia": "avaliacao_maturidade",
+        "periodicidade": "pontual",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": "2020",
+        "mes_tipico": null,
+        "relevancia_br": "alta",
+        "idioma": [
+          "pt",
+          "es",
+          "en"
+        ]
+      }
     },
     {
       "id": "awesome-annual-security-reports",
@@ -2382,7 +2644,25 @@
       "evidencia": "Repositório/serviço localizado em busca (página própria ou agregador) na pesquisa de landscape; conferir data do último commit.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recurso_continuo_sem_ano_confirmado"
+      "temporalidade": "recurso_continuo_sem_ano_confirmado",
+      "landscape": {
+        "publicador_tipo": "comunidade",
+        "regiao": "global",
+        "escopo": "acervo",
+        "tema": "relatórios anuais por ano e tema",
+        "evidencia": "curadoria",
+        "periodicidade": "continua",
+        "formatos": [
+          "md",
+          "pdf"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "aptnotes",
@@ -2404,7 +2684,24 @@
       "evidencia": "Repositório/serviço localizado em busca (página própria ou agregador) na pesquisa de landscape; conferir data do último commit.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recurso_continuo_sem_ano_confirmado"
+      "temporalidade": "recurso_continuo_sem_ano_confirmado",
+      "landscape": {
+        "publicador_tipo": "comunidade",
+        "regiao": "global",
+        "escopo": "acervo",
+        "tema": "relatórios de APT por ano",
+        "evidencia": "curadoria",
+        "periodicidade": "continua",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "cybermonitor-apt-collections",
@@ -2426,7 +2723,24 @@
       "evidencia": "Repositório/serviço localizado em busca (página própria ou agregador) na pesquisa de landscape; conferir data do último commit.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "complementar",
-      "temporalidade": "recurso_continuo_sem_ano_confirmado"
+      "temporalidade": "recurso_continuo_sem_ano_confirmado",
+      "landscape": {
+        "publicador_tipo": "comunidade",
+        "regiao": "global",
+        "escopo": "acervo",
+        "tema": "campanhas por ano",
+        "evidencia": "curadoria",
+        "periodicidade": "continua",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "baixa",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "blackorbird-apt-report",
@@ -2448,7 +2762,24 @@
       "evidencia": "Repositório/serviço localizado em busca (página própria ou agregador) na pesquisa de landscape; conferir data do último commit.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "complementar",
-      "temporalidade": "recurso_continuo_sem_ano_confirmado"
+      "temporalidade": "recurso_continuo_sem_ano_confirmado",
+      "landscape": {
+        "publicador_tipo": "comunidade",
+        "regiao": "global",
+        "escopo": "acervo",
+        "tema": "relatórios e IOCs por ator",
+        "evidencia": "curadoria",
+        "periodicidade": "continua",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "baixa",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "orkl",
@@ -2471,7 +2802,25 @@
       "evidencia": "Repositório/serviço localizado em busca (página própria ou agregador) na pesquisa de landscape; conferir data do último commit.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recurso_continuo_sem_ano_confirmado"
+      "temporalidade": "recurso_continuo_sem_ano_confirmado",
+      "landscape": {
+        "publicador_tipo": "comunidade",
+        "regiao": "global",
+        "escopo": "acervo",
+        "tema": "biblioteca pesquisável de CTI",
+        "evidencia": "curadoria",
+        "periodicidade": "continua",
+        "formatos": [
+          "html",
+          "api"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "malpedia-library",
@@ -2493,7 +2842,24 @@
       "evidencia": "Página oficial localizada em busca na pesquisa de landscape (16/10/2026); acesso técnico não auditado.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recurso_continuo_sem_ano_confirmado"
+      "temporalidade": "recurso_continuo_sem_ano_confirmado",
+      "landscape": {
+        "publicador_tipo": "academia",
+        "regiao": "global",
+        "escopo": "acervo",
+        "tema": "bibliografia por família e ator",
+        "evidencia": "curadoria",
+        "periodicidade": "continua",
+        "formatos": [
+          "html"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "ransomware-live",
@@ -2515,7 +2881,24 @@
       "evidencia": "Repositório/serviço localizado em busca (página própria ou agregador) na pesquisa de landscape; conferir data do último commit.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recurso_continuo_sem_ano_confirmado"
+      "temporalidade": "recurso_continuo_sem_ano_confirmado",
+      "landscape": {
+        "publicador_tipo": "comunidade",
+        "regiao": "global",
+        "escopo": "dataset",
+        "tema": "vítimas de ransomware por grupo, setor e país",
+        "evidencia": "incidentes_publicos",
+        "periodicidade": "continua",
+        "formatos": [
+          "html"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "alta",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "vcdb",
@@ -2537,7 +2920,24 @@
       "evidencia": "Repositório/serviço localizado em busca (página própria ou agregador) na pesquisa de landscape; conferir data do último commit.",
       "verificacao": "pagina_oficial_localizada",
       "prioridade_cti": "central",
-      "temporalidade": "recurso_continuo_sem_ano_confirmado"
+      "temporalidade": "recurso_continuo_sem_ano_confirmado",
+      "landscape": {
+        "publicador_tipo": "fornecedor",
+        "regiao": "global",
+        "escopo": "dataset",
+        "tema": "incidentes públicos em VERIS",
+        "evidencia": "incidentes_publicos",
+        "periodicidade": "continua",
+        "formatos": [
+          "json"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "reports-2026-03",
@@ -2557,7 +2957,24 @@
       "status": "verificado",
       "origem": "conversa-landscapes-2026-10-16",
       "verificacao": "indice_publico_conferido",
-      "data_verificacao": "2026-10-16"
+      "data_verificacao": "2026-10-16",
+      "landscape": {
+        "publicador_tipo": "comunidade",
+        "regiao": "global",
+        "escopo": "acervo",
+        "tema": "seleção de março de 2026",
+        "evidencia": "curadoria",
+        "periodicidade": "pontual",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": "mar/2026",
+        "mes_tipico": null,
+        "relevancia_br": "baixa",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "aptnotes-data",
@@ -2578,7 +2995,25 @@
       "status": "verificado",
       "origem": "conversa-landscapes-2026-10-16",
       "verificacao": "indice_publico_conferido",
-      "data_verificacao": "2026-10-16"
+      "data_verificacao": "2026-10-16",
+      "landscape": {
+        "publicador_tipo": "comunidade",
+        "regiao": "global",
+        "escopo": "acervo",
+        "tema": "índice de relatórios de APT",
+        "evidencia": "curadoria",
+        "periodicidade": "continua",
+        "formatos": [
+          "csv",
+          "json"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "aptnotes-markdown",
@@ -2600,7 +3035,24 @@
       "status": "verificado",
       "origem": "conversa-landscapes-2026-10-16",
       "verificacao": "indice_publico_conferido",
-      "data_verificacao": "2026-10-16"
+      "data_verificacao": "2026-10-16",
+      "landscape": {
+        "publicador_tipo": "comunidade",
+        "regiao": "global",
+        "escopo": "acervo",
+        "tema": "relatórios de APT convertidos",
+        "evidencia": "curadoria",
+        "periodicidade": "pontual",
+        "formatos": [
+          "md"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "cti-crawler",
@@ -2622,7 +3074,24 @@
       "status": "verificado",
       "origem": "conversa-landscapes-2026-10-16",
       "verificacao": "indice_publico_conferido",
-      "data_verificacao": "2026-10-16"
+      "data_verificacao": "2026-10-16",
+      "landscape": {
+        "publicador_tipo": "academia",
+        "regiao": "global",
+        "escopo": "dataset",
+        "tema": "corpus de CTI com procedência",
+        "evidencia": "curadoria",
+        "periodicidade": "pontual",
+        "formatos": [
+          "json"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "apt-groups-sheet",
@@ -2643,7 +3112,24 @@
       "status": "verificado",
       "origem": "conversa-landscapes-2026-10-16",
       "verificacao": "indice_publico_conferido",
-      "data_verificacao": "2026-10-16"
+      "data_verificacao": "2026-10-16",
+      "landscape": {
+        "publicador_tipo": "comunidade",
+        "regiao": "global",
+        "escopo": "dataset",
+        "tema": "aliases de grupos e operações",
+        "evidencia": "curadoria",
+        "periodicidade": "continua",
+        "formatos": [
+          "planilha"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "baixa",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "enisa-landscape-catalog",
@@ -2663,7 +3149,24 @@
       "status": "verificado",
       "origem": "conversa-landscapes-2026-10-16",
       "verificacao": "indice_publico_conferido",
-      "data_verificacao": "2026-10-16"
+      "data_verificacao": "2026-10-16",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "europa",
+        "escopo": "acervo",
+        "tema": "ETL, setoriais e temáticos",
+        "evidencia": "curadoria",
+        "periodicidade": "continua",
+        "formatos": [
+          "html"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "cert-eu-ti-2026",
@@ -2683,7 +3186,26 @@
       "status": "verificado",
       "origem": "conversa-landscapes-2026-10-16",
       "verificacao": "indice_publico_conferido",
-      "data_verificacao": "2026-10-16"
+      "data_verificacao": "2026-10-16",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "europa",
+        "escopo": "acervo",
+        "tema": "publicações de inteligência do ano",
+        "evidencia": "curadoria",
+        "periodicidade": "continua",
+        "formatos": [
+          "html",
+          "json",
+          "md"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
     },
     {
       "id": "ttp-attribution-drive",
@@ -2705,7 +3227,897 @@
       "status": "a_verificar",
       "origem": "conversa-landscapes-2026-10-16",
       "verificacao": "acesso_pendente",
-      "data_verificacao": "2026-10-16"
+      "data_verificacao": "2026-10-16",
+      "landscape": {
+        "publicador_tipo": "academia",
+        "regiao": "global",
+        "escopo": "dataset",
+        "tema": "dataset de atribuição por TTP",
+        "evidencia": "curadoria",
+        "periodicidade": "pontual",
+        "formatos": [
+          "drive"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "baixa",
+        "idioma": [
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "cccs-ncta-2025-2026",
+      "titulo": "National Cyber Threat Assessment 2025-2026",
+      "autor": "Canadian Centre for Cyber Security",
+      "ano": 2024,
+      "disciplinas": [
+        "02"
+      ],
+      "tipo": "relatorio",
+      "url": "https://cyber.gc.ca/en/guidance/national-cyber-threat-assessment-2025-2026",
+      "nota": "Avaliação bienal com linguagem de probabilidade estimativa explícita — bom modelo de redação estratégica.",
+      "acesso": "aberto",
+      "nivel": "C",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "canada",
+        "escopo": "horizontal",
+        "tema": "ameaças ao Canadá",
+        "evidencia": "misto",
+        "periodicidade": "bienal",
+        "formatos": [
+          "html",
+          "pdf"
+        ],
+        "ultima_edicao": "2025–2026 (out/2024)",
+        "mes_tipico": 10,
+        "relevancia_br": "baixa",
+        "idioma": [
+          "en",
+          "fr"
+        ],
+        "ano_edicao": 2024
+      }
+    },
+    {
+      "id": "anssi-panorama-2025",
+      "titulo": "Panorama de la cybermenace 2025",
+      "autor": "ANSSI (França)",
+      "ano": 2026,
+      "disciplinas": [
+        "02"
+      ],
+      "tipo": "relatorio",
+      "url": "https://cyber.gouv.fr/nous-connaitre/publications/panoramas-de-la-cybermenace/panorama-de-la-cybermenace-2025/",
+      "nota": "Panorama nacional francês; série anual com edições anteriores na mesma coleção.",
+      "acesso": "aberto",
+      "nivel": "C",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "franca",
+        "escopo": "horizontal",
+        "tema": "ameaças à França",
+        "evidencia": "incidentes_reportados",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf",
+          "html"
+        ],
+        "ultima_edicao": "2025 (mar/2026)",
+        "mes_tipico": 3,
+        "relevancia_br": "baixa",
+        "idioma": [
+          "fr",
+          "en"
+        ],
+        "ano_edicao": 2026
+      }
+    },
+    {
+      "id": "bsi-lagebericht-2025",
+      "titulo": "Die Lage der IT-Sicherheit in Deutschland 2025",
+      "autor": "BSI (Alemanha)",
+      "ano": 2025,
+      "disciplinas": [
+        "02"
+      ],
+      "tipo": "relatorio",
+      "url": "https://www.bsi.bund.de/DE/Service-Navi/Publikationen/Lagebericht/lagebericht_node.html",
+      "nota": "Relatório anual de situação do BSI. Edição 2025 confirmada por imprensa; o endereço institucional não foi aberto nesta pesquisa.",
+      "acesso": "aberto",
+      "nivel": "C",
+      "uso": "consultar",
+      "status": "a_verificar",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Localizado via resumo de terceiro em busca (17/10/2026); confirmar na página oficial.",
+      "verificacao": "herdada_nao_revalidada",
+      "prioridade_cti": "central",
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "alemanha",
+        "escopo": "horizontal",
+        "tema": "situação da segurança de TI na Alemanha",
+        "evidencia": "misto",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": "2025",
+        "mes_tipico": null,
+        "relevancia_br": "baixa",
+        "idioma": [
+          "de",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "csa-sg-landscape-2025-26",
+      "titulo": "Singapore Cyber Landscape 2025/2026",
+      "autor": "Cyber Security Agency of Singapore",
+      "ano": 2026,
+      "disciplinas": [
+        "02"
+      ],
+      "tipo": "relatorio",
+      "url": "https://isomer-user-content.by.gov.sg/36/e3a2bc10-c70a-4b06-bf46-4847e1d8b358/Singapore%20Cyber%20Landscape%202025_2026.pdf",
+      "nota": "Panorama nacional de Singapura; PDF no domínio oficial do governo.",
+      "acesso": "aberto",
+      "nivel": "C",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "singapura",
+        "escopo": "horizontal",
+        "tema": "ameaças a Singapura",
+        "evidencia": "incidentes_reportados",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": "2025/2026 (jul/2026)",
+        "mes_tipico": 7,
+        "relevancia_br": "baixa",
+        "idioma": [
+          "en"
+        ],
+        "ano_edicao": 2026
+      }
+    },
+    {
+      "id": "odni-ata-2026",
+      "titulo": "Annual Threat Assessment of the U.S. Intelligence Community 2026",
+      "autor": "ODNI (EUA)",
+      "ano": 2026,
+      "disciplinas": [
+        "02",
+        "00"
+      ],
+      "tipo": "relatorio",
+      "url": "https://www.dni.gov/index.php/ncsc-how-we-work/ncsc-know-the-risk-raise-your-shield/ncsc-awareness-materials/cyber-training-series/11382-newsroom/press-releases/press-releases-2026/4142-pr-03-26",
+      "nota": "Avaliação estratégica anual da comunidade de inteligência dos EUA; cibernético é um dos capítulos. Útil para o nível estratégico.",
+      "acesso": "aberto",
+      "nivel": "B",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "eua",
+        "escopo": "horizontal",
+        "tema": "ameaças à segurança nacional (inclui cibernético)",
+        "evidencia": "misto",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": "2026 (mar/2026)",
+        "mes_tipico": 3,
+        "relevancia_br": "baixa",
+        "idioma": [
+          "en"
+        ],
+        "ano_edicao": 2026
+      }
+    },
+    {
+      "id": "enisa-tl-finance-2024",
+      "titulo": "ENISA Threat Landscape: Finance Sector",
+      "autor": "ENISA / ECB",
+      "ano": 2025,
+      "disciplinas": [
+        "02",
+        "13"
+      ],
+      "tipo": "relatorio",
+      "url": "https://www.enisa.europa.eu/publications/enisa-threat-landscape-finance-sector",
+      "nota": "Landscape setorial (STL) do setor financeiro europeu, janela 2023–2024, publicado em fev/2025. Modelo direto para um landscape financeiro BR.",
+      "acesso": "aberto",
+      "nivel": "C",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "europa",
+        "escopo": "setorial",
+        "tema": "setor financeiro",
+        "evidencia": "incidentes_publicos",
+        "periodicidade": "pontual",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": "2024 (fev/2025)",
+        "mes_tipico": null,
+        "relevancia_br": "alta",
+        "idioma": [
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "enisa-tl-health-2023",
+      "titulo": "ENISA Threat Landscape: Health Sector",
+      "autor": "ENISA",
+      "ano": 2023,
+      "disciplinas": [
+        "02",
+        "15"
+      ],
+      "tipo": "relatorio",
+      "url": "https://www.enisa.europa.eu/publications/health-threat-landscape",
+      "nota": "Landscape setorial (STL) de saúde, publicado em 05/07/2023.",
+      "acesso": "aberto",
+      "nivel": "C",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "europa",
+        "escopo": "setorial",
+        "tema": "saúde",
+        "evidencia": "incidentes_publicos",
+        "periodicidade": "pontual",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": "2023",
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "bid-oea-2025",
+      "titulo": "Relatório de cibersegurança 2025: vulnerabilidade e desafios de maturidade para reduzir lacunas na América Latina e no Caribe",
+      "autor": "BID / OEA",
+      "ano": 2025,
+      "disciplinas": [
+        "02",
+        "00"
+      ],
+      "tipo": "relatorio",
+      "url": "https://publications.iadb.org/en/2025-cybersecurity-report-vulnerability-and-maturity-challenges-bridging-gaps-latin-america-and",
+      "nota": "Sucessor do relatório de 2020: 30 países avaliados pelo CMM em cinco dimensões, com comparação 2020–2025. Relatório completo em inglês.",
+      "acesso": "aberto",
+      "nivel": "C",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "multilateral",
+        "regiao": "latam",
+        "escopo": "tematico",
+        "tema": "maturidade de capacidades (CMM) · 30 países",
+        "evidencia": "avaliacao_maturidade",
+        "periodicidade": "pontual",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": "2025",
+        "mes_tipico": null,
+        "relevancia_br": "alta",
+        "idioma": [
+          "en",
+          "es",
+          "pt"
+        ]
+      }
+    },
+    {
+      "id": "bcb-ref",
+      "titulo": "Relatório de Estabilidade Financeira (REF)",
+      "autor": "Banco Central do Brasil",
+      "ano": 2025,
+      "disciplinas": [
+        "13",
+        "02"
+      ],
+      "tipo": "relatorio",
+      "url": "https://www.bcb.gov.br/publicacoes/ref",
+      "nota": "Semestral; o REF de nov/2025 trata risco cibernético no sistema financeiro. Única série oficial brasileira com dados setoriais de incidentes cibernéticos neste radar.",
+      "acesso": "aberto",
+      "nivel": "C",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "brasil",
+        "escopo": "setorial",
+        "tema": "sistema financeiro (risco cibernético é uma seção)",
+        "evidencia": "incidentes_reportados",
+        "periodicidade": "semestral",
+        "formatos": [
+          "pdf",
+          "html"
+        ],
+        "ultima_edicao": "nov/2025",
+        "mes_tipico": null,
+        "relevancia_br": "alta",
+        "idioma": [
+          "pt"
+        ]
+      }
+    },
+    {
+      "id": "eset-security-report-latam-2025",
+      "titulo": "ESET Security Report 2025 — Latinoamérica",
+      "autor": "ESET",
+      "ano": 2025,
+      "disciplinas": [
+        "02"
+      ],
+      "tipo": "relatorio",
+      "url": "https://www.welivesecurity.com/es/informes/eset-security-report-2025-ciberseguridad-empresas-latinoamerica/",
+      "nota": "Pesquisa com empresas da região (percepção e incidentes autorreportados) somada a telemetria; separar as duas bases ao citar.",
+      "acesso": "aberto",
+      "nivel": "D",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "fornecedor",
+        "regiao": "latam",
+        "escopo": "horizontal",
+        "tema": "empresas da América Latina",
+        "evidencia": "pesquisa_opiniao",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf",
+          "html"
+        ],
+        "ultima_edicao": "2025",
+        "mes_tipico": null,
+        "relevancia_br": "alta",
+        "idioma": [
+          "es"
+        ]
+      }
+    },
+    {
+      "id": "rf-latam-cybercrime-pt",
+      "titulo": "Panorama do cibercrime na América Latina e Caribe",
+      "autor": "Recorded Future (Insikt Group)",
+      "ano": null,
+      "disciplinas": [
+        "02",
+        "13"
+      ],
+      "tipo": "relatorio",
+      "url": "https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape-pt",
+      "nota": "Landscape temático regional em português; data da edição não confirmada nesta pesquisa. Perspectiva comercial do fornecedor.",
+      "acesso": "aberto",
+      "nivel": "C",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recurso_continuo_sem_ano_confirmado",
+      "landscape": {
+        "publicador_tipo": "fornecedor",
+        "regiao": "latam",
+        "escopo": "tematico",
+        "tema": "cibercrime na região",
+        "evidencia": "telemetria",
+        "periodicidade": "pontual",
+        "formatos": [
+          "html",
+          "pdf"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "alta",
+        "idioma": [
+          "pt",
+          "es",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "ibm-xforce-2026",
+      "titulo": "X-Force Threat Intelligence Index 2026",
+      "autor": "IBM X-Force",
+      "ano": 2026,
+      "disciplinas": [
+        "02"
+      ],
+      "tipo": "relatorio",
+      "url": "https://www.ibm.com/think/premium/threat-intelligence-report-about",
+      "nota": "Índice anual baseado em resposta a incidentes e telemetria do fornecedor; download pode exigir cadastro.",
+      "acesso": "aberto",
+      "nivel": "C",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "fornecedor",
+        "regiao": "global",
+        "escopo": "horizontal",
+        "tema": "vetores iniciais e impacto por setor e região (inclui LATAM)",
+        "evidencia": "misto",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": "2026",
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "redcanary-tdr-2026",
+      "titulo": "Threat Detection Report 2026 — metodologia",
+      "autor": "Red Canary",
+      "ano": 2026,
+      "disciplinas": [
+        "02",
+        "16"
+      ],
+      "tipo": "relatorio",
+      "url": "https://redcanary.com/threat-detection-report/methodology/",
+      "nota": "Raro caso de fornecedor com página de metodologia pública; técnicas ATT&CK mais detectadas. Bom contraexemplo para a rubrica.",
+      "acesso": "aberto",
+      "nivel": "B",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "fornecedor",
+        "regiao": "global",
+        "escopo": "tematico",
+        "tema": "técnicas ATT&CK mais detectadas",
+        "evidencia": "telemetria",
+        "periodicidade": "anual",
+        "formatos": [
+          "html",
+          "pdf"
+        ],
+        "ultima_edicao": "2026",
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "fortinet-gtlr-2026",
+      "titulo": "Global Threat Landscape Report 2026",
+      "autor": "Fortinet FortiGuard Labs",
+      "ano": 2026,
+      "disciplinas": [
+        "02"
+      ],
+      "tipo": "relatorio",
+      "url": "https://www.bankinfosecurity.com/whitepapers/2026-global-threat-landscape-report-w-16451",
+      "nota": "Divulgado em 30/04/2026. Link de distribuição de terceiro com cadastro. Números de \"tentativas de ataque\" medem varredura, não impacto.",
+      "acesso": "restrito",
+      "nivel": "C",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Localizado via resumo de terceiro em busca (17/10/2026); confirmar na página oficial.",
+      "verificacao": "herdada_nao_revalidada",
+      "prioridade_cti": "central",
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "fornecedor",
+        "regiao": "global",
+        "escopo": "horizontal",
+        "tema": "telemetria global de ameaças",
+        "evidencia": "telemetria",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": "2026 (abr/2026)",
+        "mes_tipico": 4,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ],
+        "ano_edicao": 2026
+      }
+    },
+    {
+      "id": "eset-threat-report",
+      "titulo": "ESET Threat Report (semestral)",
+      "autor": "ESET Research",
+      "ano": 2026,
+      "disciplinas": [
+        "02",
+        "03"
+      ],
+      "tipo": "relatorio",
+      "url": "https://www.eset.com/int/business/threat-report/",
+      "nota": "Relatório semestral de telemetria; edição H1 2026 publicada. Útil para famílias de malware e tendências de detecção.",
+      "acesso": "aberto",
+      "nivel": "C",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "fornecedor",
+        "regiao": "global",
+        "escopo": "horizontal",
+        "tema": "telemetria de detecções",
+        "evidencia": "telemetria",
+        "periodicidade": "semestral",
+        "formatos": [
+          "pdf",
+          "html"
+        ],
+        "ultima_edicao": "H1 2026",
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "google-cybersecurity-forecast-2026",
+      "titulo": "Cybersecurity Forecast 2026",
+      "autor": "Google Cloud Security",
+      "ano": 2025,
+      "disciplinas": [
+        "02",
+        "18"
+      ],
+      "tipo": "relatorio",
+      "url": "https://cloud.google.com/security/resources/cybersecurity-forecast",
+      "nota": "Prospectivo (previsões), não retrospectivo: avaliar depois quais previsões se confirmaram.",
+      "acesso": "aberto",
+      "nivel": "C",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "fornecedor",
+        "regiao": "global",
+        "escopo": "tematico",
+        "tema": "previsões para o ano seguinte",
+        "evidencia": "misto",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf",
+          "html"
+        ],
+        "ultima_edicao": "2026 (nov/2025)",
+        "mes_tipico": 11,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ],
+        "ano_edicao": 2025
+      }
+    },
+    {
+      "id": "sophos-ransomware-us-2025",
+      "titulo": "The State of Ransomware in the US 2025",
+      "autor": "Sophos",
+      "ano": 2025,
+      "disciplinas": [
+        "02"
+      ],
+      "tipo": "relatorio",
+      "url": "https://assets.sophos.com/X24WTUEQ/at/k7f88k4hqrgw9fqkknvctrp/sophos-state-of-ransomware-in-us-2025.pdf",
+      "nota": "Recorte EUA da pesquisa anual Sophos (survey com organizações vítimas, conduzido por terceiro). Base de opinião, não telemetria.",
+      "acesso": "aberto",
+      "nivel": "C",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "fornecedor",
+        "regiao": "eua",
+        "escopo": "tematico",
+        "tema": "ransomware (pesquisa com vítimas)",
+        "evidencia": "pesquisa_opiniao",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": "2025",
+        "mes_tipico": null,
+        "relevancia_br": "baixa",
+        "idioma": [
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "eurepoc",
+      "titulo": "European Repository of Cyber Incidents (EuRepoC)",
+      "autor": "EuRepoC (consórcio acadêmico, com SWP Berlin)",
+      "ano": null,
+      "disciplinas": [
+        "02",
+        "16"
+      ],
+      "tipo": "dataset",
+      "url": "https://www.swp-berlin.org/en/swp/about-us/organization/swp-projects/european-repository-on-cyber-incidents-eurepoc/",
+      "nota": "Base de incidentes cibernéticos politicamente relevantes; há dataset global versionado no Zenodo (records/14965395). Excelente para medir tendência em vez de citar.",
+      "acesso": "aberto",
+      "nivel": "B",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recurso_continuo_sem_ano_confirmado",
+      "landscape": {
+        "publicador_tipo": "academia",
+        "regiao": "global",
+        "escopo": "dataset",
+        "tema": "incidentes politicamente relevantes",
+        "evidencia": "incidentes_publicos",
+        "periodicidade": "continua",
+        "formatos": [
+          "html",
+          "csv"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "cfr-cyber-operations-tracker",
+      "titulo": "Cyber Operations Tracker",
+      "autor": "Council on Foreign Relations",
+      "ano": null,
+      "disciplinas": [
+        "02",
+        "14"
+      ],
+      "tipo": "dataset",
+      "url": "https://www.cfr.org/cyber-operations",
+      "nota": "Operações cibernéticas atribuídas a Estados, com fontes por entrada. Atribuição registrada é pública, não verificada pelo INTStudy.",
+      "acesso": "aberto",
+      "nivel": "B",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recurso_continuo_sem_ano_confirmado",
+      "landscape": {
+        "publicador_tipo": "academia",
+        "regiao": "global",
+        "escopo": "dataset",
+        "tema": "operações patrocinadas por Estados",
+        "evidencia": "incidentes_publicos",
+        "periodicidade": "continua",
+        "formatos": [
+          "html"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "cissm-cyber-events-db",
+      "titulo": "CISSM Cyber Events Database",
+      "autor": "University of Maryland (CISSM)",
+      "ano": null,
+      "disciplinas": [
+        "02",
+        "16"
+      ],
+      "tipo": "dataset",
+      "url": "https://cissm.umd.edu/cissm-cyber-events-database",
+      "nota": "Eventos cibernéticos públicos codificados por tipo, motivação e impacto, desde 2014.",
+      "acesso": "aberto",
+      "nivel": "B",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recurso_continuo_sem_ano_confirmado",
+      "landscape": {
+        "publicador_tipo": "academia",
+        "regiao": "global",
+        "escopo": "dataset",
+        "tema": "eventos públicos codificados",
+        "evidencia": "incidentes_publicos",
+        "periodicidade": "continua",
+        "formatos": [
+          "html",
+          "csv"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "hackmageddon",
+      "titulo": "HACKMAGEDDON — timelines e estatísticas",
+      "autor": "Paolo Passeri",
+      "ano": null,
+      "disciplinas": [
+        "02"
+      ],
+      "tipo": "dataset",
+      "url": "https://www.hackmageddon.com/",
+      "nota": "Linhas do tempo e estatísticas mensais de ataques divulgados publicamente; viés para incidentes noticiados em inglês.",
+      "acesso": "aberto",
+      "nivel": "C",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Página oficial localizada em busca (17/10/2026); conteúdo não lido integralmente.",
+      "verificacao": "pagina_oficial_localizada",
+      "prioridade_cti": "central",
+      "temporalidade": "recurso_continuo_sem_ano_confirmado",
+      "landscape": {
+        "publicador_tipo": "comunidade",
+        "regiao": "global",
+        "escopo": "dataset",
+        "tema": "ataques divulgados publicamente",
+        "evidencia": "incidentes_publicos",
+        "periodicidade": "mensal",
+        "formatos": [
+          "html"
+        ],
+        "ultima_edicao": null,
+        "mes_tipico": null,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "enisa-etl-2026",
+      "titulo": "ENISA Threat Landscape 2026",
+      "autor": "ENISA",
+      "ano": 2026,
+      "disciplinas": [
+        "02"
+      ],
+      "tipo": "relatorio",
+      "url": "https://www.enisa.europa.eu/publications/enisa-threat-landscape-2026",
+      "nota": "Publicado em set/2026 com 8.257 incidentes. Mudou o período de observação para o ano civil (01/01–31/12/2025); a edição anterior cobria jul/2024–jun/2025. As duas se sobrepõem em jan–jun/2025: não somar nem comparar diretamente.",
+      "acesso": "aberto",
+      "nivel": "C",
+      "uso": "consultar",
+      "status": "conhecido",
+      "origem": "radar-landscape-2026-10-17",
+      "evidencia": "Confirmado no portal oficial Digital Skills and Jobs da UE (17/10/2026), detectado pelo calendário de vigilância do radar.",
+      "verificacao": "herdada_nao_revalidada",
+      "prioridade_cti": "central",
+      "temporalidade": "recente",
+      "landscape": {
+        "publicador_tipo": "governo",
+        "regiao": "europa",
+        "escopo": "horizontal",
+        "tema": "todas as ameaças · ano civil 2025",
+        "evidencia": "incidentes_publicos",
+        "periodicidade": "anual",
+        "formatos": [
+          "pdf"
+        ],
+        "ultima_edicao": "2026 (set/2026) · cobre 2025",
+        "ano_edicao": 2026,
+        "mes_tipico": 9,
+        "relevancia_br": "media",
+        "idioma": [
+          "en"
+        ]
+      }
     }
-  ]
+  ],
+  "radar_referencia": "2026-10-17"
 }

@@ -18,4 +18,5 @@
 
 | Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
 |---|---|---|---|
+| **[ENISA Threat Landscape: Health Sector](https://www.enisa.europa.eu/publications/health-threat-landscape)** — ENISA | 2023 · relatorio | C / consultar | Landscape setorial (STL) de saúde, publicado em 05/07/2023. **Referência identificada.** |
 | **[Internet Organised Crime Threat Assessment (IOCTA) 2025](https://eucrim.eu/news/iocta-2025/)** — Europol | 2025 · relatorio | C / consultar | Avaliação anual do crime organizado online; há também edição 2026. O link aponta para resumo do eucrim; baixar o PDF no site da Europol. **Referência identificada.** |

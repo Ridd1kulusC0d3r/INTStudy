@@ -10,3 +10,9 @@
 |---|---|---|---|
 | **[A Practical Guide to Adversary Engagement](https://engage.mitre.org/wp-content/uploads/2022/04/EngageHandbook-v1.0.pdf)** — MITRE Engage | 2022 · guia | C / estudar | Definir objetivos, funções e critérios de encerramento para engajamento defensivo autorizado. **Referência identificada.** |
 | **[Active Defense Capability Set: Technical Manual](https://info.mitre-engenuity.org/hubfs/ATTACK%20Evals/MITRE_ActiveDefenseCapabilitySet_TechnicalManual.pdf)** — MITRE Engenuity | s/d · guia | A / estudar | Defesa ativa e engajamento de adversários; ler junto com MITRE Engage. **Conferência anterior.** |
+
+## Consultar
+
+| Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
+|---|---|---|---|
+| **[Cyber Operations Tracker](https://www.cfr.org/cyber-operations)** — Council on Foreign Relations | s/d · dataset | B / consultar | Operações cibernéticas atribuídas a Estados, com fontes por entrada. Atribuição registrada é pública, não verificada pelo INTStudy. **Referência identificada.** |
