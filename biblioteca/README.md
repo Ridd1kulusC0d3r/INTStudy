@@ -2,7 +2,7 @@
 
 [← Início](../README.md) · [Trilha CTI](../trilhas/CTI-DO-ZERO-AO-BRIEFING.md) · [Procedência](PROCEDENCIA.md) · [Auditoria de links](VERIFICACAO-LINKS.md)
 
-**79 referências classificadas como abertas · 19 registros comerciais, restritos ou não confirmados no [arquivo separado](REFERENCIAS-RESTRITAS.md).**
+**98 referências classificadas como abertas · 20 registros comerciais, restritos ou não confirmados no [arquivo separado](REFERENCIAS-RESTRITAS.md).**
 
 > Índice gerado por `tools/biblioteca.py`. Edite `biblioteca/fontes.json`. Acesso é uma classificação editorial; bloqueios e resultados técnicos estão na auditoria. Nenhum link significa licença de redistribuição.
 
@@ -12,23 +12,24 @@
 |---|---|
 | Entender e produzir CTI | [Missões CTI](../trilhas/CTI-DO-ZERO-AO-BRIEFING.md) |
 | Entender métodos MITRE | [MITRE em contexto](../trilhas/MITRE-EM-CONTEXTO.md) |
+| Ler e comparar relatórios de landscape e tendências | [Landscape e tendências](../trilhas/LANDSCAPE-E-TENDENCIAS.md) |
 | Encontrar todas as referências deste chat | [Registro e inventário](../docs/CURADORIA-2026-10-16.md) |
 
 ## Navegar por disciplina
 
-- [00 · Fundamentos](../disciplinas/00-fundamentos/BIBLIOTECA.md) — 8 referências abertas
+- [00 · Fundamentos](../disciplinas/00-fundamentos/BIBLIOTECA.md) — 9 referências abertas
 - [01 · OSINT](../disciplinas/01-osint/BIBLIOTECA.md) — 7 referências abertas
-- [02 · CTI](../disciplinas/02-cti/BIBLIOTECA.md) — 56 referências abertas
-- [03 · Malware/RE](../disciplinas/03-malware-engenharia-reversa/BIBLIOTECA.md) — 1 referências abertas
-- [04 · DFIR](../disciplinas/04-dfir/BIBLIOTECA.md) — 14 referências abertas
+- [02 · CTI](../disciplinas/02-cti/BIBLIOTECA.md) — 75 referências abertas
+- [03 · Malware/RE](../disciplinas/03-malware-engenharia-reversa/BIBLIOTECA.md) — 5 referências abertas
+- [04 · DFIR](../disciplinas/04-dfir/BIBLIOTECA.md) — 17 referências abertas
 - [07 · Psicologia](../disciplinas/07-psicologia-investigativa/BIBLIOTECA.md) — 2 referências abertas
 - [12 · CYBINT](../disciplinas/12-cybint/BIBLIOTECA.md) — 5 referências abertas
-- [13 · FININT](../disciplinas/13-finint/BIBLIOTECA.md) — 4 referências abertas
+- [13 · FININT](../disciplinas/13-finint/BIBLIOTECA.md) — 5 referências abertas
 - [14 · Contrainteligência](../disciplinas/14-contrainteligencia/BIBLIOTECA.md) — 2 referências abertas
-- [15 · Outras INTs](../disciplinas/15-outras-ints/BIBLIOTECA.md) — 5 referências abertas
-- [16 · Dados](../disciplinas/16-engenharia-de-dados/BIBLIOTECA.md) — 12 referências abertas
+- [15 · Outras INTs](../disciplinas/15-outras-ints/BIBLIOTECA.md) — 6 referências abertas
+- [16 · Dados](../disciplinas/16-engenharia-de-dados/BIBLIOTECA.md) — 17 referências abertas
 - [17 · Arquitetura](../disciplinas/17-arquitetura-de-sistemas/BIBLIOTECA.md) — 25 referências abertas
-- [18 · IA](../disciplinas/18-ia-aplicada/BIBLIOTECA.md) — 6 referências abertas
+- [18 · IA](../disciplinas/18-ia-aplicada/BIBLIOTECA.md) — 7 referências abertas
 
 ## Formação e consulta
 
@@ -36,21 +37,30 @@
 
 | Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
 |---|---|---|---|
+| **[Relatório de Atividades 2024 (inclui CERT.br)](https://nic.br/media/docs/publicacoes/9/20250424215104/relatorio-de-atividades-2024.pdf)** — NIC.br / CERT.br | 2024 · relatorio | D / consultar | Fonte brasileira oficial com atividades e números de notificação do CERT.br. **Referência identificada.** |
 | **[SOC Analyst Hub / Toolkit](https://feed.craftedsignal.io/briefs/2026-03-soc-analyst-hub/)** — CraftedSignal | 2026 · ferramenta | D / operar | Toolkit offline em HTML para Tier 1: checklists, triagem e hunting mapeados ao ATT&CK. **Conferência anterior.** |
 | **[What is Cyber Threat Intelligence and How is it Used?](https://www.crest-approved.org/wp-content/uploads/2024/04/what-is-ctihow-is-it-used_2024-v2.pdf?ver=1716384420)** — CREST | 2024 · guia | D / estudar | Guia de 2024, 18 páginas; produtos, fontes e níveis de CTI. **Referência identificada.** |
 | **[11 Strategies of a World-Class Cybersecurity Operations Center (2ª ed.)](https://www.mitre.org/sites/default/files/2022-04/11-strategies-of-a-world-class-cybersecurity-operations-center.pdf)** — MITRE | 2022 · livro | C / estudar | Estrutura de SOC orientado a ameaças; base para o Aurora SOC Lab. **Referência identificada.** |
 | **[2025 CBEST Thematic](https://www.bankofengland.co.uk/financial-stability/operational-resilience-of-the-financial-sector/2025-cbest-thematic)** — Bank of England | 2025 · relatorio | C / estudar | Aprender com achados de maturidade reais; 2025 identifica o ciclo do relatório. **Referência identificada.** |
 | **[A Practical Guide to Adversary Engagement](https://engage.mitre.org/wp-content/uploads/2022/04/EngageHandbook-v1.0.pdf)** — MITRE Engage | 2022 · guia | C / estudar | Definir objetivos, funções e critérios de encerramento para engajamento defensivo autorizado. **Referência identificada.** |
+| **[ASD Annual Cyber Threat Report 2024–25](https://www.asd.gov.au/news/2025-10-14-australian-signals-directorate-releases-annual-cyber-threat-report-2024-25)** — Australian Signals Directorate (ACSC) | 2025 · relatorio | C / consultar | Série anual governamental australiana; edições anteriores em cyber.gov.au (reports and statistics). **Referência identificada.** |
 | **[Best Practices for MITRE ATT&CK Mapping](https://www.cisa.gov/sites/default/files/2023-01/Best%20Practices%20for%20MITRE%20ATTCK%20Mapping.pdf)** — CISA / HSSEDI-MITRE | 2023 · guia | C / estudar | Mapear comportamentos com evidência; reconhecer vieses e erros, inclusive em ICS. **Referência identificada.** |
 | **[Cyber Brief (mensal) — ex.: CB25-10, setembro de 2025](https://cert.europa.eu/publications/threat-intelligence/2025)** — CERT-EU | 2025 · relatorio | C / consultar | Link corrigido: a lista original apontava para um espelho no Azure. Fonte oficial é o CERT-EU. Bom modelo para o Pensieve/ALVORADA. **Conferência anterior.** |
+| **[Data Breach Investigations Report (DBIR) 2026](https://www.verizon.com/business/resources/reports/dbir/)** — Verizon | 2026 · relatorio | C / consultar | Estatística de violações baseada no esquema VERIS; ler junto com o VCDB. Download pode exigir formulário. **Referência identificada.** |
 | **[ENISA Cybersecurity Threat Landscape Methodology](https://www.enisa.europa.eu/publications/enisa-cybersecurity-threat-landscape-methodology)** — ENISA | 2025 · guia | C / estudar | Produzir panoramas gerais, temáticos e setoriais; página indica atualização em setembro de 2026. **Referência identificada.** |
+| **[ENISA Threat Landscape 2025 (v1.3)](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2025)** — ENISA | 2025 · relatorio | C / consultar | Panorama anual europeu; a versão 1.3 (setembro de 2026) está disponível na página. Aplicação direta da metodologia CTL da ENISA. **Referência identificada.** |
 | **[INFORM Your Defense](https://ctid.mitre.org/projects/inform-your-defense/)** — MITRE CTID | 2026 · framework | C / estudar | Avaliar maturidade de defesa orientada por ameaças, CTI, medidas defensivas e testes. **Referência identificada.** |
+| **[Internet Organised Crime Threat Assessment (IOCTA) 2025](https://eucrim.eu/news/iocta-2025/)** — Europol | 2025 · relatorio | C / consultar | Avaliação anual do crime organizado online; há também edição 2026. O link aponta para resumo do eucrim; baixar o PDF no site da Europol. **Referência identificada.** |
 | **[Level-Up Your Market Research Game: Strategies and Hacks You’ll Want to Use](https://www.mitre.org/news-insights/publication/level-your-market-research-game-strategies-and-hacks-youll-want-use)** — MITRE | 2022 · guia | C / estudar | Quinze técnicas de pesquisa de mercado e fornecedores; apoio a benchmarks, não manual OSINT. **Referência identificada.** |
+| **[M-Trends 2026](https://cloud.google.com/security/resources/m-trends)** — Mandiant / Google Cloud | 2026 · relatorio | C / consultar | Métricas de resposta a incidentes (dwell time, vetores iniciais). Download pode exigir formulário. **Referência identificada.** |
 | **[Medical Device Cybersecurity Regional Incident Preparedness and Response Playbook](https://www.mitre.org/news-insights/publication/medical-device-cybersecurity-regional-incident-preparedness-and-response)** — MITRE | 2022 · playbook | C / estudar | Preparação e resposta em dispositivos médicos; página inclui Quick Start Companion Guide. **Referência identificada.** |
+| **[Microsoft Digital Defense Report 2025](https://www.microsoft.com/en-us/corporate-responsibility/cybersecurity/microsoft-digital-defense-report-2025/)** — Microsoft | 2025 · relatorio | C / consultar | Landscape global com telemetria do fornecedor; atores estatais e cibercrime. Perspectiva comercial do fornecedor. **Referência identificada.** |
+| **[NCSC Annual Review 2025](https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025)** — NCSC (Reino Unido) | 2025 · relatorio | C / consultar | Revisão anual: incidentes nacionalmente significativos, resiliência e tecnologia emergente. **Referência identificada.** |
 | **[Open Source Intelligence for Counterterrorism](https://www.mitre.org/news-insights/publication/intelligence-after-next-open-source-intelligence-counterterrorism)** — MITRE | 2024 · relatorio | C / estudar | Estudar a construção de capacidade OSINT no contexto de contraterrorismo. **Referência identificada.** |
 | **[SAFE-AI: A Framework for Securing AI-Enabled Systems](https://atlas.mitre.org/pdf-files/SAFEAI_Full_Report.pdf)** — MITRE | 2025 · relatorio | C / estudar | Relacionar ameaças ATLAS, controles NIST, risco residual e perguntas de avaliação; 78 páginas. **Referência identificada.** |
 | **[The MITRE AI Maturity Model and Organizational Assessment Tool Guide](https://www.mitre.org/news-insights/publication/mitre-ai-maturity-model-and-organizational-assessment-tool-guide)** — MITRE | 2023 · guia | C / estudar | Avaliar maturidade de IA com seis pilares e vinte dimensões. **Referência identificada.** |
 | **[The Prevailing Narratives About Open-Source Intelligence Are Misguided](https://www.mitre.org/sites/default/files/2023-02/PR-23-0402-The-Prevailing-Narratives-About-Open-Source-Intelligence-Are-Misguided.pdf)** — MITRE | 2023 · relatorio | C / estudar | Examinar criticamente uma proposta estratégica sobre IA e OSINT; não comprova superioridade da automação. **Referência identificada.** |
+| **[Threat Landscape Report 2025](https://cert.europa.eu/publications/threat-intelligence/tlr2025/)** — CERT-EU | 2025 · relatorio | C / consultar | Também publicado em JSON e Markdown — útil para ingestão automatizada e comparação ano a ano. **Referência identificada.** |
 | **[Threat Modeling with ATT&CK](https://ctid.mitre.org/projects/threat-modeling-with-attack/)** — MITRE CTID | 2024 · guia | C / estudar | Integrar ATT&CK a metodologias existentes; guia digital, não livro isolado. **Referência identificada.** |
 | **[TIBER-EU Targeted Threat Intelligence Report Guidance](https://www.ecb.europa.eu/pub/pdf/annex/ecb.tiber_targeted_threat_intelligence_report_guidance_2025.en.pdf)** — European Central Bank | 2025 · guia | C / estudar | 20 páginas: escopo, contexto, exposição digital, perfis e cenários. Adaptar o contexto financeiro ao uso pretendido. **Referência identificada.** |
 | **[MITRE FiGHT (5G Hierarchy of Threats)](https://fight.mitre.org/)** — MITRE | 2022 · framework | B / consultar | Táticas e técnicas contra redes 5G, no formato ATT&CK. **Referência identificada.** |
@@ -62,9 +72,14 @@
 
 | Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
 |---|---|---|---|
+| **[awesome-annual-security-reports](https://github.com/jacobdjwilson/awesome-annual-security-reports)** — jacobdjwilson (GitHub) | s/d · acervo | D / consultar | Lista curada de relatórios anuais e pesquisas do setor por ano e categoria — ponto de partida para comparar tendências. **Referência identificada.** |
 | **[CTI Handbook](https://github.com/NucleiAv/CTIHandbook)** — NucleiAv (GitHub) | s/d · livro | D / estudar | Não foi possível abrir o repositório nesta sessão. **A verificar.** |
+| **[CTIR Gov — alertas e centrais de conteúdo](https://www.gov.br/ctir/pt-br)** — CTIR Gov / GSI-PR | s/d · acervo | D / consultar | Alertas, recomendações e materiais do centro de prevenção e resposta do governo federal. **Referência identificada.** |
 | **[Foundation Level Threat Intelligence Analyst (arcX) — notas](https://github.com/ngvuthdanhh/certificate-threat-intelligence-101-arcx)** — ngvuthdanhh (GitHub) | s/d · curso | D / estudar | Notas de terceiro sobre o curso gratuito da arcX; não foi possível abrir nesta sessão. **A verificar.** |
 | **[The Toolbox of Innovation](https://itk.mitre.org/our-book-the-toolbox-of-innovation/)** — MITRE | s/d · livro | D / consultar | Gamebook sobre o processo de inovação — útil para a função de Head de Pesquisa & Inovação. **Referência identificada.** |
+| **[APT & Cybercriminal Campaign Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)** — CyberMonitor (GitHub) | s/d · acervo | C / consultar | Relatórios de campanhas organizados por ano. Pode estar desatualizado. **Referência identificada.** |
+| **[APT_REPORT](https://github.com/blackorbird/APT_REPORT)** — blackorbird (GitHub) | s/d · acervo | C / consultar | Coleção de relatórios de APT e IOCs selecionados; forte em atores asiáticos. **Referência identificada.** |
+| **[APTnotes](https://github.com/kbandla/APTnotes)** — kbandla / comunidade (GitHub) | s/d · acervo | C / consultar | Arquivo histórico de relatórios públicos sobre APTs por ano; PDFs em aptnotes/data e documentação em aptnotes.readthedocs.io. **Referência identificada.** |
 | **[Best Practices in Threat Intelligence](https://www.misp-project.org/best-practices-in-threat-intelligence.html)** — MISP Project | s/d · livro | C / estudar | Livro digital público sobre análise e compartilhamento, contextualizado no MISP. **Referência identificada.** |
 | **[Building a CTI Program: Resources and Supporting Materials](https://www.first.org/global/sigs/cti/cti-program/resources)** — FIRST CTI SIG | s/d · guia | C / estudar | Requisitos, kit inicial e estágios de maturidade de programas CTI. **Referência identificada.** |
 | **[CBEST Threat Intelligence-Led Assessments: Implementation Guide](https://www.bankofengland.co.uk/financial-stability/operational-resilience-of-the-financial-sector/cbest-threat-intelligence-led-assessments-implementation-guide)** — Bank of England | s/d · guia | C / estudar | Estudar responsabilidades, relatórios, cenários e avaliação de CTI em testes autorizados. **Referência identificada.** |
@@ -79,7 +94,10 @@
 | **[Intelligence After Next: coleção](https://www.mitre.org/focus-areas/defense-intelligence/intelligence-after-next)** — MITRE | s/d · relatorio | C / estudar | Portal de ensaios e relatórios de inteligência; não é um único livro. **Referência identificada.** |
 | **[Intelligent User Interfaces: An Introduction](https://www.mitre.org/news-insights/publication/intelligent-user-interfaces-introduction)** — MITRE | s/d · livro | C / consultar | Interfaces inteligentes para navegação e visualização de multimídia. **Referência identificada.** |
 | **[Learn More About ATT&CK](https://attack.mitre.org/resources/learn-more-about-attack/)** — MITRE | s/d · curso | C / estudar | Leituras, apresentações e treinamento de CTI. **Referência identificada.** |
+| **[Malpedia — Library](https://malpedia.caad.fkie.fraunhofer.de/library)** — Fraunhofer FKIE | s/d · acervo | C / consultar | Bibliografia de relatórios ligada a famílias de malware e atores; exportável. **Referência identificada.** |
 | **[MISP Book: Documentation and Support](https://www.misp-project.org/documentation/)** — MISP Project | s/d · guia | C / estudar | Documentação, objetos, taxonomias e treinamentos; formatos de e-book disponíveis na página. **Referência identificada.** |
+| **[ORKL — biblioteca de relatórios de CTI](https://orkl.eu/)** — ORKL | s/d · acervo | C / consultar | Biblioteca pesquisável de relatórios de CTI com API; integrações com XSOAR e Synapse e servidor MCP. Candidata a fonte automatizada de boletins. **Referência identificada.** |
+| **[ransomware.live](https://www.ransomware.live/about)** — Julien Mousqueton | s/d · dataset | C / consultar | Estatísticas públicas de vítimas de ransomware por grupo, setor e país — permite medir tendência no Brasil. **Referência identificada.** |
 | **[Attack Flow](https://ctid.mitre.org/projects/attack-flow)** — MITRE CTID | s/d · framework | B / operar | Documentação e treinamento; página indica atualização em julho de 2026. Não é livro. **Referência identificada.** |
 | **[Human-Machine Teaming Systems Engineering Guide](https://www.mitre.org/news-insights/publication/human-machine-teaming-systems-engineering-guide)** — MITRE | s/d · guia | B / estudar | Ponte direta com a tese 'IA como apoio, não substituta do analista'. **Referência identificada.** |
 | **[MISP Playbooks](https://github.com/MISP/misp-playbooks)** — MISP Project | s/d · playbook | B / operar | Casos de uso de SOC e CTI: da inteligência recebida à ação. Link corrigido após HTTP 404 no endereço anterior. **Referência identificada.** |
@@ -93,6 +111,7 @@
 | **[ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords)** — mthcht | s/d · dataset | B / operar | Palavras-chave e artefatos para detecção, por técnica e tipo de log. **Referência identificada.** |
 | **[Top ATT&CK Techniques](https://ctid.mitre.org/projects/top-attack-techniques-v1/)** — MITRE CTID | s/d · framework | B / operar | Priorização de técnicas por prevalência, choke points e acionabilidade. **Referência identificada.** |
 | **[TRAM — Threat Report ATT&CK Mapper](https://github.com/center-for-threat-informed-defense/tram)** — MITRE CTID | s/d · ferramenta | B / operar | Mapeamento automático de texto para ATT&CK com ML; revisar sempre a saída. **Referência identificada.** |
+| **[VERIS Community Database (VCDB)](https://github.com/vz-risk/VCDB)** — Verizon (vz-risk) | s/d · dataset | B / operar | Incidentes públicos codificados no esquema VERIS (JSON); exercício de engenharia de dados e base do DBIR. **Referência identificada.** |
 | **[Active Defense Capability Set: Technical Manual](https://info.mitre-engenuity.org/hubfs/ATTACK%20Evals/MITRE_ActiveDefenseCapabilitySet_TechnicalManual.pdf)** — MITRE Engenuity | s/d · guia | A / estudar | Defesa ativa e engajamento de adversários; ler junto com MITRE Engage. **Conferência anterior.** |
 | **[Enterprise Systems Engineering Theory and Practice, Vol. 7: Enterprise Analysis and Assessment](https://www.mitre.org/news-insights/publication/enterprise-systems-engineering-theory-and-practice-volume-7-enterprise)** — MITRE | s/d · livro | A / consultar | Avaliação de sistemas em escala empresarial. **Referência identificada.** |
 | **[HELK — Hunting ELK](https://github.com/Cyb3rWard0g/HELK)** — Roberto Rodriguez (Cyb3rWard0g) | s/d · ferramenta | A / operar | Laboratório de hunting (Elastic, Kafka, Spark). Verifique a atividade do repositório antes de adotar. **Referência identificada.** |
@@ -119,6 +138,7 @@
 | **[MITRE ATT&CK: Design and Philosophy](https://attack.mitre.org/docs/ATTACK_Design_and_Philosophy_March_2020.pdf)** — MITRE | 2020 · guia | C / estudar | Por que o ATT&CK é estruturado como é — leitura obrigatória antes de contribuir com o framework. **Referência identificada.** |
 | **[Playbook for Threat Modeling Medical Devices](https://www.mitre.org/sites/default/files/2021-11/Playbook-for-Threat-Modeling-Medical-Devices.pdf)** — MITRE | 2021 · playbook | C / estudar | Estabelecer prática sistemática de modelagem; distinto do playbook de resposta a incidentes. **Referência identificada.** |
 | **[Recommendations for Managing Software Reuse](https://www.mitre.org/news-insights/publication/recommendations-managing-software-reuse)** — MITRE | 2009 · guia | C / estudar | Avaliar componentes, maturidade e riscos de reutilização; contexto de contratação histórico. **Referência identificada.** |
+| **[Relatório de Cibersegurança 2020: riscos, avanços e o caminho a seguir na América Latina e Caribe](https://publications.iadb.org/pt/relatorio-de-ciberseguranca-2020-riscos-avancos-e-o-caminho-seguir-na-america-latina-e-caribe)** — BID / OEA | 2020 · relatorio | C / consultar | Principal panorama regional de maturidade, em português. **Referência identificada.** |
 | **[Standardizing Cyber Threat Intelligence Information with STIX](https://www.mitre.org/news-insights/publication/standardizing-cyber-threat-intelligence-information-structured-threat)** — MITRE | 2012 · especificacao | C / consultar | Texto histórico do STIX 1.x. Para uso atual, a referência é o STIX 2.1 da OASIS. Link corrigido após HTTP 404 no endereço anterior. **Referência identificada.** |
 | **[The Trusted Automated eXchange of Indicator Information (TAXII)](https://www.mitre.org/news-insights/publication/trusted-automated-exchange-indicator-information-taxiitm)** — MITRE | 2013 · especificacao | C / consultar | Texto histórico do TAXII 1.x. Para uso atual, TAXII 2.1 da OASIS. **Referência identificada.** |
 | **[Threat Assessment and Remediation Analysis (TARA)](https://www.mitre.org/news-insights/publication/threat-assessment-and-remediation-analysis-tara)** — MITRE | 2020 · framework | C / estudar | Coleção: white paper, Methodology Description, workshop e workbook ICS/SCADA. Começar pela metodologia. **Referência identificada.** |

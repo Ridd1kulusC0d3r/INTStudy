@@ -31,4 +31,7 @@
 
 | Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
 |---|---|---|---|
+| **[CTIR Gov — alertas e centrais de conteúdo](https://www.gov.br/ctir/pt-br)** — CTIR Gov / GSI-PR | s/d · acervo | D / consultar | Alertas, recomendações e materiais do centro de prevenção e resposta do governo federal. **Referência identificada.** |
+| **[Relatório de Atividades 2024 (inclui CERT.br)](https://nic.br/media/docs/publicacoes/9/20250424215104/relatorio-de-atividades-2024.pdf)** — NIC.br / CERT.br | 2024 · relatorio | D / consultar | Fonte brasileira oficial com atividades e números de notificação do CERT.br. **Referência identificada.** |
+| **[M-Trends 2026](https://cloud.google.com/security/resources/m-trends)** — Mandiant / Google Cloud | 2026 · relatorio | C / consultar | Métricas de resposta a incidentes (dwell time, vetores iniciais). Download pode exigir formulário. **Referência identificada.** |
 | **[Cyber Operations Rapid Assessment (CORA): A Guide to Best Practices for Threat-Informed Cyber Security Operations](https://mitre.org/sites/default/files/2021-11/prs_15-2971-cyber-operations-rapid-assessment-best-practices.pdf)** — MITRE | 2015 · guia | B / consultar | Avaliar a maturidade de um programa de defesa orientado a ameaças. **Conferência anterior.** |

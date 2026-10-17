@@ -13,3 +13,9 @@
 | **[Medical Device Cybersecurity Regional Incident Preparedness and Response Playbook](https://www.mitre.org/news-insights/publication/medical-device-cybersecurity-regional-incident-preparedness-and-response)** — MITRE | 2022 · playbook | C / estudar | Preparação e resposta em dispositivos médicos; página inclui Quick Start Companion Guide. **Referência identificada.** |
 | **[Open Source Intelligence for Counterterrorism](https://www.mitre.org/news-insights/publication/intelligence-after-next-open-source-intelligence-counterterrorism)** — MITRE | 2024 · relatorio | C / estudar | Estudar a construção de capacidade OSINT no contexto de contraterrorismo. **Referência identificada.** |
 | **[Playbook for Threat Modeling Medical Devices](https://www.mitre.org/sites/default/files/2021-11/Playbook-for-Threat-Modeling-Medical-Devices.pdf)** — MITRE | 2021 · playbook | C / estudar | Estabelecer prática sistemática de modelagem; distinto do playbook de resposta a incidentes. **Referência identificada.** |
+
+## Consultar
+
+| Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
+|---|---|---|---|
+| **[Internet Organised Crime Threat Assessment (IOCTA) 2025](https://eucrim.eu/news/iocta-2025/)** — Europol | 2025 · relatorio | C / consultar | Avaliação anual do crime organizado online; há também edição 2026. O link aponta para resumo do eucrim; baixar o PDF no site da Europol. **Referência identificada.** |

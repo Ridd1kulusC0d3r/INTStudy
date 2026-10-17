@@ -15,6 +15,7 @@
 
 - **CTI e OSINT:** [seis missões até o briefing](trilhas/CTI-DO-ZERO-AO-BRIEFING.md).
 - **MITRE e modelagem:** [percurso por finalidade](trilhas/MITRE-EM-CONTEXTO.md).
+- **Landscape e tendências:** [ler, comparar e produzir panoramas](trilhas/LANDSCAPE-E-TENDENCIAS.md).
 - **Prática imediata:** [caso fictício Aurora](trilhas/CASO-AURORA.md).
 - **Outras disciplinas:** [mapa completo](docs/MAPA-DISCIPLINAS.md); preserve o ritmo de uma ação por sessão.
 

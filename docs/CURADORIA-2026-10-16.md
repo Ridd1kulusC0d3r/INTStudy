@@ -16,6 +16,7 @@ Este documento consolida o conteúdo substantivo da conversa em catálogo e perc
 
 - [CTI: da pergunta ao briefing](../trilhas/CTI-DO-ZERO-AO-BRIEFING.md).
 - [MITRE por finalidade](../trilhas/MITRE-EM-CONTEXTO.md).
+- [Landscape e tendências](../trilhas/LANDSCAPE-E-TENDENCIAS.md).
 - [Caso Aurora](../trilhas/CASO-AURORA.md).
 - [Correções e limites](../biblioteca/PROCEDENCIA.md).
 
@@ -97,3 +98,16 @@ O número conta registros bibliográficos, não livros: há coleções, framewor
 - Acesso direto presumido quando só uma página de formulário foi encontrada.
 
 As referências só mencionadas em resultados de busca e não recomendadas nas respostas não constituem o inventário desta conversa.
+
+## Incorporação: landscape e tendências · 20 registros
+
+Pesquisa a partir da metodologia CTL da ENISA, buscando acervos (GitHub e bibliotecas) e relatórios de tendência. Todos entram como `conhecido` com `origem: pesquisa-landscape-2026-10-16`; nenhum foi lido integralmente.
+
+- **Governamentais:** `enisa-etl-2025`, `certeu-tlr-2025`, `europol-iocta`, `asd-acsc-2024-25`, `ncsc-annual-review-2025`.
+- **Brasil e LATAM:** `nicbr-relatorio-2024`, `ctir-gov`, `bid-oea-2020`.
+- **Fornecedores:** `verizon-dbir-2026`, `mandiant-mtrends-2026`, `mddr-2025`, `crowdstrike-gtr-2026` (restrito: cadastro).
+- **Acervos:** `awesome-annual-security-reports`, `orkl`, `malpedia-library`, `aptnotes`, `cybermonitor-apt-collections`, `blackorbird-apt-report`.
+- **Dados:** `vcdb`, `ransomware-live`.
+
+Decisões: drives compartilhados não foram incorporados (não indexáveis, sem dono verificável). Listas de fontes da dark web ficaram fora do escopo. O registro `enisa-methodology` já existia e foi mantido; a trilha usa a página oficial dele.
+

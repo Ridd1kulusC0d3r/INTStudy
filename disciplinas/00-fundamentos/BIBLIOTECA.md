@@ -21,3 +21,4 @@
 | Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
 |---|---|---|---|
 | **[The Toolbox of Innovation](https://itk.mitre.org/our-book-the-toolbox-of-innovation/)** — MITRE | s/d · livro | D / consultar | Gamebook sobre o processo de inovação — útil para a função de Head de Pesquisa & Inovação. **Referência identificada.** |
+| **[Relatório de Cibersegurança 2020: riscos, avanços e o caminho a seguir na América Latina e Caribe](https://publications.iadb.org/pt/relatorio-de-ciberseguranca-2020-riscos-avancos-e-o-caminho-seguir-na-america-latina-e-caribe)** — BID / OEA | 2020 · relatorio | C / consultar | Principal panorama regional de maturidade, em português. **Referência identificada.** |
