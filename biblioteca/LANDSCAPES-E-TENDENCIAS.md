@@ -69,3 +69,7 @@ Use a [ENISA Cybersecurity Threat Landscape Methodology](https://www.enisa.europ
 ## Limites da busca em nuvem
 
 A planilha Google foi acessada publicamente. O APTnotes fornece links Box, mas cada arquivo não foi testado. Não foi confirmada uma pasta Google Drive equivalente ao acervo anual. O dataset TTP Attribution permanece fora da seleção aberta até validação.
+
+## Complementos: fundamentos, coleta e laboratório
+
+[Análise dos cinco recursos indicados em 18/10/2026](../docs/CURADORIA-2026-10-18.md): Daniel Donda, arquivo Dennis Kim, deepdarkCTI, dashboard sintético e GitHub Topics. As classificações e limitações estão integradas às bibliotecas de CTI, OSINT, CYBINT, DFIR e IA.

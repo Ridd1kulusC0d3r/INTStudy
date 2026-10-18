@@ -2,7 +2,7 @@
 
 [← Início](../README.md) · [Trilha CTI](../trilhas/CTI-DO-ZERO-AO-BRIEFING.md) · [Procedência](PROCEDENCIA.md) · [Auditoria de links](VERIFICACAO-LINKS.md)
 
-**126 referências classificadas como abertas · 22 registros comerciais, restritos ou não confirmados no [arquivo separado](REFERENCIAS-RESTRITAS.md).**
+**131 referências classificadas como abertas · 22 registros comerciais, restritos ou não confirmados no [arquivo separado](REFERENCIAS-RESTRITAS.md).**
 
 > Índice gerado por `tools/biblioteca.py`. Edite `biblioteca/fontes.json`. Acesso é uma classificação editorial; bloqueios e resultados técnicos estão na auditoria. Nenhum link significa licença de redistribuição.
 
@@ -19,18 +19,18 @@
 ## Navegar por disciplina
 
 - [00 · Fundamentos](../disciplinas/00-fundamentos/BIBLIOTECA.md) — 11 referências abertas
-- [01 · OSINT](../disciplinas/01-osint/BIBLIOTECA.md) — 8 referências abertas
-- [02 · CTI](../disciplinas/02-cti/BIBLIOTECA.md) — 103 referências abertas
+- [01 · OSINT](../disciplinas/01-osint/BIBLIOTECA.md) — 9 referências abertas
+- [02 · CTI](../disciplinas/02-cti/BIBLIOTECA.md) — 107 referências abertas
 - [03 · Malware/RE](../disciplinas/03-malware-engenharia-reversa/BIBLIOTECA.md) — 6 referências abertas
-- [04 · DFIR](../disciplinas/04-dfir/BIBLIOTECA.md) — 17 referências abertas
+- [04 · DFIR](../disciplinas/04-dfir/BIBLIOTECA.md) — 18 referências abertas
 - [07 · Psicologia](../disciplinas/07-psicologia-investigativa/BIBLIOTECA.md) — 2 referências abertas
-- [12 · CYBINT](../disciplinas/12-cybint/BIBLIOTECA.md) — 5 referências abertas
+- [12 · CYBINT](../disciplinas/12-cybint/BIBLIOTECA.md) — 6 referências abertas
 - [13 · FININT](../disciplinas/13-finint/BIBLIOTECA.md) — 8 referências abertas
 - [14 · Contrainteligência](../disciplinas/14-contrainteligencia/BIBLIOTECA.md) — 3 referências abertas
 - [15 · Outras INTs](../disciplinas/15-outras-ints/BIBLIOTECA.md) — 7 referências abertas
 - [16 · Dados](../disciplinas/16-engenharia-de-dados/BIBLIOTECA.md) — 23 referências abertas
 - [17 · Arquitetura](../disciplinas/17-arquitetura-de-sistemas/BIBLIOTECA.md) — 25 referências abertas
-- [18 · IA](../disciplinas/18-ia-aplicada/BIBLIOTECA.md) — 10 referências abertas
+- [18 · IA](../disciplinas/18-ia-aplicada/BIBLIOTECA.md) — 12 referências abertas
 
 ## Formação e consulta
 
@@ -94,6 +94,7 @@
 | **[awesome-annual-security-reports](https://github.com/jacobdjwilson/awesome-annual-security-reports)** — jacobdjwilson (GitHub) | s/d · acervo | D / consultar | Lista curada de relatórios anuais e pesquisas do setor por ano e categoria — ponto de partida para comparar tendências. Relatórios anuais por ano e tema, PDFs e conversões Markdown. Inclui materiais de 2026. Confira estatísticas no PDF original; conversões usam IA. **Referência identificada.** |
 | **[CTI Handbook](https://github.com/NucleiAv/CTIHandbook)** — NucleiAv (GitHub) | s/d · livro | D / estudar | Não foi possível abrir o repositório nesta sessão. **A verificar.** |
 | **[CTIR Gov — alertas e centrais de conteúdo](https://www.gov.br/ctir/pt-br)** — CTIR Gov / GSI-PR | s/d · acervo | D / consultar | Alertas, recomendações e materiais do centro de prevenção e resposta do governo federal. **Referência identificada.** |
+| **[Cyber Threat Intelligence — introdução em português](https://github.com/danieldonda/Cyber-Threat-Intelligence)** — Daniel Donda | s/d · guia | D / estudar | Introdução a CTI, geopolítica, atores estatais, hunting, IoCs/IoAs, LOLBins e TTPs. Material de apoio; distinções proativo/reativo são simplificações didáticas. Links externos podem exigir conta. **Conferência anterior.** |
 | **[Foundation Level Threat Intelligence Analyst (arcX) — notas](https://github.com/ngvuthdanhh/certificate-threat-intelligence-101-arcx)** — ngvuthdanhh (GitHub) | s/d · curso | D / estudar | Notas de terceiro sobre o curso gratuito da arcX; não foi possível abrir nesta sessão. **A verificar.** |
 | **[The Toolbox of Innovation](https://itk.mitre.org/our-book-the-toolbox-of-innovation/)** — MITRE | s/d · livro | D / consultar | Gamebook sobre o processo de inovação — útil para a função de Head de Pesquisa & Inovação. **Referência identificada.** |
 | **[APT & Cybercriminal Campaign Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)** — CyberMonitor (GitHub) | s/d · acervo | C / consultar | Relatórios de campanhas organizados por ano. Pode estar desatualizado. Coleção cronológica de campanhas. Também contém amostras: para estudo documental, use relatórios. Não representa amostra estatística de todas as ameaças. **Referência identificada.** |
@@ -113,6 +114,7 @@
 | **[D3FEND Resources](https://d3fend.mitre.org/resources/)** — MITRE | s/d · guia | C / estudar | Artigo, ontologia, dados e mapeamentos de contramedidas. **Referência identificada.** |
 | **[Defending Against Ransomware: A Cyber Threat Intelligence Primer](https://healthcyber.mitre.org/wp-content/uploads/2023/04/Defending-Against-Ransomware-A-Cyber-Threat-Intelligence-Primer.pdf)** — MITRE | s/d · guia | C / estudar | Organizar requisitos e ciclo de CTI no contexto de ransomware e saúde. **Referência identificada.** |
 | **[ENISA — catálogo Threat Landscape](https://www.enisa.europa.eu/topics/cyber-threats/threat-landscape)** — ENISA | s/d · colecao | C / consultar | Panoramas gerais, temáticos e setoriais. Usar com a metodologia ENISA já catalogada. **Conferência anterior.** |
+| **[GitHub Topics — cyber-threat-intelligence](https://github.com/topics/cyber-threat-intelligence)** — GitHub / comunidade | s/d · colecao | C / consultar | Página dinâmica de descoberta por tópico, não catálogo revisado nem ranking de qualidade. Verificar escopo, código, licença e evidências de cada projeto antes de incorporar. **Conferência anterior.** |
 | **[HACKMAGEDDON — timelines e estatísticas](https://www.hackmageddon.com/)** — Paolo Passeri | s/d · dataset | C / consultar | Linhas do tempo e estatísticas mensais de ataques divulgados publicamente; viés para incidentes noticiados em inglês. **Referência identificada.** |
 | **[Intelligence After Next: coleção](https://www.mitre.org/focus-areas/defense-intelligence/intelligence-after-next)** — MITRE | s/d · relatorio | C / estudar | Portal de ensaios e relatórios de inteligência; não é um único livro. **Referência identificada.** |
 | **[Intelligent User Interfaces: An Introduction](https://www.mitre.org/news-insights/publication/intelligent-user-interfaces-introduction)** — MITRE | s/d · livro | C / consultar | Interfaces inteligentes para navegação e visualização de multimídia. **Referência identificada.** |
@@ -127,6 +129,8 @@
 | **[CISSM Cyber Events Database](https://cissm.umd.edu/cissm-cyber-events-database)** — University of Maryland (CISSM) | s/d · dataset | B / consultar | Eventos cibernéticos públicos codificados por tipo, motivação e impacto, desde 2014. **Referência identificada.** |
 | **[CTI Crawler](https://github.com/peng-gao-lab/cti-crawler)** — peng-gao-lab | s/d · ferramenta | B / consultar | Coleta e dataset de CTI com procedência. Deduplicar entre fontes e URLs antes de contar evidências. **Conferência anterior.** |
 | **[Cyber Operations Tracker](https://www.cfr.org/cyber-operations)** — Council on Foreign Relations | s/d · dataset | B / consultar | Operações cibernéticas atribuídas a Estados, com fontes por entrada. Atribuição registrada é pública, não verificada pelo INTStudy. **Referência identificada.** |
+| **[Cyber Threat Intelligence Report — arquivo independente](https://github.com/gameworkerkim/CYBER-THREAT-INTELLIGENCE-REPORT)** — Dennis Kim / gameworkerkim | s/d · acervo | B / consultar | Análises independentes baseadas em OSINT sobre APTs, supply chain, vulnerabilidades, IA/LLM e Web3. Índice e amostra consultados; fatos não auditados integralmente. Há inconsistência no uso de TLP:GREEN para publicação pública; consultar a nota de curadoria e FIRST antes de reutilizar. **Conferência anterior.** |
+| **[deepdarkCTI — diretório de fontes](https://github.com/fastfire/deepdarkCTI)** — fastfire e colaboradores | s/d · colecao | B / consultar | Diretório público de fontes deep/dark web, Telegram, Discord, ransomware, fóruns e métodos. O índice aberto não garante acesso público, estabilidade ou confiabilidade dos destinos; não é feed validado nem coleção de landscapes. **Conferência anterior.** |
 | **[European Repository of Cyber Incidents (EuRepoC)](https://www.swp-berlin.org/en/swp/about-us/organization/swp-projects/european-repository-on-cyber-incidents-eurepoc/)** — EuRepoC (consórcio acadêmico, com SWP Berlin) | s/d · dataset | B / consultar | Base de incidentes cibernéticos politicamente relevantes; há dataset global versionado no Zenodo (records/14965395). Excelente para medir tendência em vez de citar. **Referência identificada.** |
 | **[Human-Machine Teaming Systems Engineering Guide](https://www.mitre.org/news-insights/publication/human-machine-teaming-systems-engineering-guide)** — MITRE | s/d · guia | B / estudar | Ponte direta com a tese 'IA como apoio, não substituta do analista'. **Referência identificada.** |
 | **[MISP Playbooks](https://github.com/MISP/misp-playbooks)** — MISP Project | s/d · playbook | B / operar | Casos de uso de SOC e CTI: da inteligência recebida à ação. Link corrigido após HTTP 404 no endereço anterior. **Referência identificada.** |
@@ -136,6 +140,7 @@
 | **[Security Datasets (ex-Mordor)](https://github.com/OTRF/Security-Datasets)** — OTRF | s/d · dataset | B / operar | Telemetria de ataques simulados para testar detecções — matéria-prima da trilha de dados. **Referência identificada.** |
 | **[Sightings Ecosystem](https://ctid.mitre.org/projects/sightings-ecosystem-v1/)** — MITRE CTID | s/d · relatorio | B / consultar | Técnicas observadas in the wild — validar se a detecção cobre o que de fato acontece. **Referência identificada.** |
 | **[The MITRE Systems Engineering Guide](https://www.mitre.org/sites/default/files/publications/se-guide-book-interactive.pdf)** — MITRE | s/d · livro | B / consultar | Edição legada de 2013. Alternativa oficial: https://www.mitre.org/form/mitre-archives (solicitação, não acesso direto). **Referência identificada.** |
+| **[Threat Detection Dashboard — laboratório com dados sintéticos](https://github.com/Vaskar71/Cybersecurity-Threat-Detection-and-Response-Dashboard)** — Vaskar71 | s/d · ferramenta | B / estudar | Laboratório Python/PyQt5 com Isolation Forest. main.py e threat_detector.py inspecionados: treino e pontos simulados, sem captura de rede nesses módulos. Não validado em execução nem indicado como monitor de produção; anomalia sintética não demonstra ameaça real. **Conferência anterior.** |
 | **[Threat Hunter Playbook](https://github.com/OTRF/ThreatHunter-Playbook)** — OTRF | s/d · playbook | B / operar | Hipóteses, fontes de dados e consultas por técnica ATT&CK. **Referência identificada.** |
 | **[ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords)** — mthcht | s/d · dataset | B / operar | Palavras-chave e artefatos para detecção, por técnica e tipo de log. **Referência identificada.** |
 | **[Top ATT&CK Techniques](https://ctid.mitre.org/projects/top-attack-techniques-v1/)** — MITRE CTID | s/d · framework | B / operar | Priorização de técnicas por prevalência, choke points e acionabilidade. **Referência identificada.** |

@@ -17,4 +17,5 @@
 
 | Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
 |---|---|---|---|
+| **[deepdarkCTI — diretório de fontes](https://github.com/fastfire/deepdarkCTI)** — fastfire e colaboradores | s/d · colecao | B / consultar | Diretório público de fontes deep/dark web, Telegram, Discord, ransomware, fóruns e métodos. O índice aberto não garante acesso público, estabilidade ou confiabilidade dos destinos; não é feed validado nem coleção de landscapes. **Conferência anterior.** |
 | **[MITRE FiGHT (5G Hierarchy of Threats)](https://fight.mitre.org/)** — MITRE | 2022 · framework | B / consultar | Táticas e técnicas contra redes 5G, no formato ATT&CK. **Referência identificada.** |

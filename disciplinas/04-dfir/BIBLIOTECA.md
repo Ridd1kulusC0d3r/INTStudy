@@ -14,6 +14,7 @@
 | **[Medical Device Cybersecurity Regional Incident Preparedness and Response Playbook](https://www.mitre.org/news-insights/publication/medical-device-cybersecurity-regional-incident-preparedness-and-response)** — MITRE | 2022 · playbook | C / estudar | Preparação e resposta em dispositivos médicos; página inclui Quick Start Companion Guide. **Referência identificada.** |
 | **[Provenance Capture and Use: A Practical Guide](https://www.mitre.org/news-insights/publication/provenance-capture-and-use-practical-guide)** — MITRE | s/d · guia | B / estudar | Proveniência de dados — fundamento para cadeia de custódia nas ferramentas DEIVOSINT. **Referência identificada.** |
 | **[Ransomware Getting Started Guide and Deep Dive into REvil](https://www.mitre.org/sites/default/files/2022-09/pr-21-3872-ransomware-getting-started-guide-and-deep-dive-into-revil.pdf)** — MITRE | 2022 · guia | B / estudar | Introdução a ransomware + estudo de uma família real; bom modelo de relatório para o apt4all. **Conferência anterior.** |
+| **[Threat Detection Dashboard — laboratório com dados sintéticos](https://github.com/Vaskar71/Cybersecurity-Threat-Detection-and-Response-Dashboard)** — Vaskar71 | s/d · ferramenta | B / estudar | Laboratório Python/PyQt5 com Isolation Forest. main.py e threat_detector.py inspecionados: treino e pontos simulados, sem captura de rede nesses módulos. Não validado em execução nem indicado como monitor de produção; anomalia sintética não demonstra ameaça real. **Conferência anterior.** |
 
 ## Operar
 

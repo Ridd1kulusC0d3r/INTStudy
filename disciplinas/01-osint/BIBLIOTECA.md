@@ -21,3 +21,4 @@
 | Material / instituição | Ano · formato | Nível / uso | Contexto e objetivo |
 |---|---|---|---|
 | **[APT Groups and Operations — Google Sheets](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit)** — Florian Roth e colaboradores | s/d · dataset | C / consultar | Leitura pública confirmada. Aliases, grupos, operações e fontes. Mapeamentos podem estar incorretos ou desatualizados; índice para pesquisa, não prova de atribuição. **Conferência anterior.** |
+| **[deepdarkCTI — diretório de fontes](https://github.com/fastfire/deepdarkCTI)** — fastfire e colaboradores | s/d · colecao | B / consultar | Diretório público de fontes deep/dark web, Telegram, Discord, ransomware, fóruns e métodos. O índice aberto não garante acesso público, estabilidade ou confiabilidade dos destinos; não é feed validado nem coleção de landscapes. **Conferência anterior.** |

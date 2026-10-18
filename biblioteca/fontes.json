@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-16",
+  "atualizado": "2026-10-18",
   "status": {
     "verificado": "Existência conferida na curadoria anterior; não implica acesso integral, licença aberta ou atualidade",
     "conhecido": "Referência identificada; conferir metadados e o status técnico antes de depender do link",
@@ -4117,6 +4117,105 @@
           "en"
         ]
       }
+    },
+    {
+      "id": "donda-cti",
+      "titulo": "Cyber Threat Intelligence — introdução em português",
+      "autor": "Daniel Donda",
+      "url": "https://github.com/danieldonda/Cyber-Threat-Intelligence",
+      "tipo": "guia",
+      "disciplinas": [
+        "02"
+      ],
+      "nivel": "D",
+      "nota": "Introdução a CTI, geopolítica, atores estatais, hunting, IoCs/IoAs, LOLBins e TTPs. Material de apoio; distinções proativo/reativo são simplificações didáticas. Links externos podem exigir conta.",
+      "acesso": "aberto",
+      "ano": null,
+      "uso": "estudar",
+      "status": "verificado",
+      "origem": "conversa-2026-10-18",
+      "verificacao": "leitura_documental_sem_validacao_operacional",
+      "data_verificacao": "2026-10-18"
+    },
+    {
+      "id": "gameworkerkim-reports",
+      "titulo": "Cyber Threat Intelligence Report — arquivo independente",
+      "autor": "Dennis Kim / gameworkerkim",
+      "url": "https://github.com/gameworkerkim/CYBER-THREAT-INTELLIGENCE-REPORT",
+      "tipo": "acervo",
+      "disciplinas": [
+        "02",
+        "18"
+      ],
+      "nivel": "B",
+      "nota": "Análises independentes baseadas em OSINT sobre APTs, supply chain, vulnerabilidades, IA/LLM e Web3. Índice e amostra consultados; fatos não auditados integralmente. Há inconsistência no uso de TLP:GREEN para publicação pública; consultar a nota de curadoria e FIRST antes de reutilizar.",
+      "acesso": "aberto",
+      "ano": null,
+      "uso": "consultar",
+      "status": "verificado",
+      "origem": "conversa-2026-10-18",
+      "verificacao": "leitura_documental_sem_validacao_operacional",
+      "data_verificacao": "2026-10-18"
+    },
+    {
+      "id": "deepdarkcti",
+      "titulo": "deepdarkCTI — diretório de fontes",
+      "autor": "fastfire e colaboradores",
+      "url": "https://github.com/fastfire/deepdarkCTI",
+      "tipo": "colecao",
+      "disciplinas": [
+        "02",
+        "01",
+        "12"
+      ],
+      "nivel": "B",
+      "nota": "Diretório público de fontes deep/dark web, Telegram, Discord, ransomware, fóruns e métodos. O índice aberto não garante acesso público, estabilidade ou confiabilidade dos destinos; não é feed validado nem coleção de landscapes.",
+      "acesso": "aberto",
+      "ano": null,
+      "uso": "consultar",
+      "status": "verificado",
+      "origem": "conversa-2026-10-18",
+      "verificacao": "leitura_documental_sem_validacao_operacional",
+      "data_verificacao": "2026-10-18"
+    },
+    {
+      "id": "vaskar-dashboard",
+      "titulo": "Threat Detection Dashboard — laboratório com dados sintéticos",
+      "autor": "Vaskar71",
+      "url": "https://github.com/Vaskar71/Cybersecurity-Threat-Detection-and-Response-Dashboard",
+      "tipo": "ferramenta",
+      "disciplinas": [
+        "04",
+        "18"
+      ],
+      "nivel": "B",
+      "nota": "Laboratório Python/PyQt5 com Isolation Forest. main.py e threat_detector.py inspecionados: treino e pontos simulados, sem captura de rede nesses módulos. Não validado em execução nem indicado como monitor de produção; anomalia sintética não demonstra ameaça real.",
+      "acesso": "aberto",
+      "ano": null,
+      "uso": "estudar",
+      "status": "verificado",
+      "origem": "conversa-2026-10-18",
+      "verificacao": "leitura_documental_sem_validacao_operacional",
+      "data_verificacao": "2026-10-18"
+    },
+    {
+      "id": "github-topic-cti",
+      "titulo": "GitHub Topics — cyber-threat-intelligence",
+      "autor": "GitHub / comunidade",
+      "url": "https://github.com/topics/cyber-threat-intelligence",
+      "tipo": "colecao",
+      "disciplinas": [
+        "02"
+      ],
+      "nivel": "C",
+      "nota": "Página dinâmica de descoberta por tópico, não catálogo revisado nem ranking de qualidade. Verificar escopo, código, licença e evidências de cada projeto antes de incorporar.",
+      "acesso": "aberto",
+      "ano": null,
+      "uso": "consultar",
+      "status": "verificado",
+      "origem": "conversa-2026-10-18",
+      "verificacao": "leitura_documental_sem_validacao_operacional",
+      "data_verificacao": "2026-10-18"
     }
   ],
   "radar_referencia": "2026-10-17"
