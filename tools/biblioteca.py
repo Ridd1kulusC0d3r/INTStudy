@@ -37,7 +37,7 @@ def table(fs):
 
 def saidas(d):
     fs=d['fontes']; openfs=[f for f in fs if f['acesso']=='aberto' and f['status']!='nao_confirmado']; archive=[f for f in fs if f not in openfs]
-    L=['# Biblioteca aberta · escolha pela pergunta','', '[← Início](../README.md) · [Trilha CTI](../trilhas/CTI-DO-ZERO-AO-BRIEFING.md) · [Procedência](PROCEDENCIA.md) · [Auditoria de links](VERIFICACAO-LINKS.md)','',
+    L=['![Biblioteca — uma fonte, uma pergunta melhor](../assets/biblioteca.svg)','','# Biblioteca aberta · escolha pela pergunta','', '[← Início](../README.md) · [Trilha CTI](../trilhas/CTI-DO-ZERO-AO-BRIEFING.md) · [Procedência](PROCEDENCIA.md) · [Auditoria de links](VERIFICACAO-LINKS.md)','',
        f"**{len(openfs)} referências classificadas como abertas · {len(archive)} registros comerciais, restritos ou não confirmados no [arquivo separado](REFERENCIAS-RESTRITAS.md).**",'',
        '> Índice gerado por `tools/biblioteca.py`. Edite `biblioteca/fontes.json`. Acesso é uma classificação editorial; bloqueios e resultados técnicos estão na auditoria. Nenhum link significa licença de redistribuição.', '',
        '**Como ler:** s/d = ano não confirmado ou recurso contínuo. D inicial · C fundamentos · B aplicação · A avançado · S contribuição. Histórico = anterior a 2022, apenas um filtro editorial; não significa inválido.', '',

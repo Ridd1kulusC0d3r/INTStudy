@@ -1,3 +1,5 @@
+![Missões CTI — da pergunta ao briefing](../assets/missoes.svg)
+
 # CTI · Da pergunta ao briefing
 
 [← Início](../README.md) · [Biblioteca](../biblioteca/README.md) · [Templates](../templates/README.md)

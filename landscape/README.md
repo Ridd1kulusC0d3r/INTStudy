@@ -1,3 +1,5 @@
+![Radar de Landscape — o que mudou no cenário?](../assets/radar.svg)
+
 # Radar de Landscape · séries comparáveis de panorama e tendência
 
 [← Início](../README.md) · [Trilha](../trilhas/LANDSCAPE-E-TENDENCIAS.md) · [Rubrica ENISA](RUBRICA.md) · [Template do nosso landscape](../templates/LANDSCAPE.md) · [Planilha](radar.csv) · [Observatório de acervos](../biblioteca/LANDSCAPES-E-TENDENCIAS.md)

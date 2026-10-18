@@ -1,38 +1,66 @@
-<p align="center"><img src="assets/hero.svg" alt="INTStudy — A inteligência começa com uma pergunta melhor" width="100%"></p>
+<p align="center"><img src="assets/hero.svg" alt="INTStudy — Investigue. Conecte. Produza inteligência." width="100%"></p>
 
 <p align="center">
-<a href="COMECE-AQUI.md"><strong>COMECE AQUI</strong></a> ·
-<a href="biblioteca/README.md"><strong>BIBLIOTECA ABERTA</strong></a> ·
-<a href="trilhas/CTI-DO-ZERO-AO-BRIEFING.md"><strong>MISSÕES CTI</strong></a> ·
-<a href="docs/MAPA-DISCIPLINAS.md"><strong>19 DISCIPLINAS</strong></a>
+<a href="COMECE-AQUI.md"><strong>COMEÇAR</strong></a> &nbsp; / &nbsp;
+<a href="biblioteca/README.md"><strong>BIBLIOTECA</strong></a> &nbsp; / &nbsp;
+<a href="landscape/README.md"><strong>RADAR</strong></a> &nbsp; / &nbsp;
+<a href="trilhas/CTI-DO-ZERO-AO-BRIEFING.md"><strong>MISSÕES</strong></a> &nbsp; / &nbsp;
+<a href="docs/MAPA-DISCIPLINAS.md"><strong>DISCIPLINAS</strong></a>
 </p>
 
-# INTStudy · Inteligência que se aprende produzindo
+# Seu caderno de campo em inteligência
 
-Um ambiente de estudo de **OSINT, Cyber Threat Intelligence e análise de malware**, apoiado por psicologia investigativa, engenharia de dados e arquitetura de sistemas. Curadoria de **Deivison Lourenço** — [@Ridd1kulusC0d3r](https://github.com/Ridd1kulusC0d3r).
+Estude **OSINT, CTI e análise de malware** conectando investigação, psicologia, dados e arquitetura. Cada percurso termina com algo que você consegue explicar, revisar e usar.
 
-> **Sua missão:** transformar informação pública em uma avaliação sustentada por evidências, com limites explícitos e uma decisão a apoiar.
+**Uma pergunta → evidências → uma avaliação → uma decisão.**
 
-## Escolha o próximo movimento
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 / Biblioteca aberta</h3>
+<p>Escolha uma leitura pelo problema que precisa resolver. Fontes organizadas por disciplina, nível e finalidade.</p>
+<p><a href="biblioteca/README.md"><strong>Explorar a biblioteca →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>02 / Radar de Landscape</h3>
+<p>Compare séries de relatórios, bases de evidência e relevância para o Brasil. Identifique o que ainda falta saber.</p>
+<p><a href="landscape/README.md"><strong>Abrir o radar →</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 / Missões de CTI</h3>
+<p>Seis missões para sair da pergunta e chegar a um briefing. Produza evidências, hipóteses e uma avaliação revisada.</p>
+<p><a href="trilhas/CTI-DO-ZERO-AO-BRIEFING.md"><strong>Iniciar a jornada →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>04 / Caso Aurora</h3>
+<p>Um laboratório documental fictício para praticar hipóteses concorrentes e decidir a próxima coleta.</p>
+<p><a href="trilhas/CASO-AURORA.md"><strong>Abrir o caso →</strong></a></p>
+</td>
+</tr>
+</table>
 
-| Quero… | Abra | Saia com… |
+> [!TIP]
+> **Tem 25 minutos?** Abra a [primeira sessão](COMECE-AQUI.md). Saia com uma pergunta respondível, uma evidência e a próxima ação.
+
+## Escolha o que quer produzir
+
+| Sua pergunta | Percurso | Entregável |
 |:---|:---|:---|
-| **Começar hoje** | [Primeira sessão · 25 minutos](COMECE-AQUI.md) | Uma pergunta de inteligência e uma fonte |
-| **Estudar CTI com profundidade** | [Jornada em 6 missões](trilhas/CTI-DO-ZERO-AO-BRIEFING.md) | Um briefing revisado e um cenário fundamentado |
-| **Ler materiais gratuitos** | [Biblioteca aberta](biblioteca/README.md) | Uma leitura escolhida por objetivo, nível e data |
-| **Entender a MITRE além da matriz** | [Percurso MITRE / CTID](trilhas/MITRE-EM-CONTEXTO.md) | Relações entre comportamento, defesa e arquitetura |
-| **Ler o panorama de ameaças** | [Landscape e tendências · método ENISA](trilhas/LANDSCAPE-E-TENDENCIAS.md) | Comparação entre relatórios e um landscape temático BR |
-| **Acompanhar relatórios de tendência** | [Radar de Landscape](landscape/README.md) | Séries comparáveis, calendário de novas edições e lacunas BR |
-| **Praticar investigação** | [Caso Aurora · laboratório documental](trilhas/CASO-AURORA.md) | Hipóteses concorrentes e uma decisão de coleta |
-| **Escrever melhor** | [Templates de trabalho](templates/README.md) | PIR, matriz de evidências, briefing e revisão |
-| **Explorar todo o campo** | [Mapa das 19 disciplinas](docs/MAPA-DISCIPLINAS.md) | Uma rota que conecta coleta, análise e engenharia |
-| **Usar meus projetos** | [Catálogo de repositórios](CATALOGO-REPOS.md) | Ferramentas classificadas por papel e disciplina |
+| Como começar uma investigação? | [Primeira sessão](COMECE-AQUI.md) | Pergunta de inteligência |
+| Como aplicar MITRE com contexto? | [MITRE / CTID](trilhas/MITRE-EM-CONTEXTO.md) | Relações entre comportamento, defesa e arquitetura |
+| Como comparar tendências? | [Landscape / ENISA](trilhas/LANDSCAPE-E-TENDENCIAS.md) | Panorama temático com limitações |
+| Onde encontrar relatórios? | [Observatório de acervos](biblioteca/LANDSCAPES-E-TENDENCIAS.md) | Seleção de fontes rastreável |
+| Como escrever a análise? | [Templates](templates/README.md) | PIR, evidências, briefing e revisão |
+| Como conectar outras áreas? | [19 disciplinas](docs/MAPA-DISCIPLINAS.md) | Um percurso entre investigação e engenharia |
+| Qual projeto usar? | [Catálogo de repositórios](CATALOGO-REPOS.md) | Ferramenta escolhida pela finalidade |
 
-## Uma jornada, cinco níveis
+## Progresso que você consegue demonstrar
 
-![Orientar, analisar, produzir, validar e contribuir](assets/jornada.svg)
+![Cinco níveis: orientar, analisar, produzir, validar e contribuir](assets/jornada.svg)
 
-**D → S é uma rubrica de estudo, não uma certificação.** Concluir uma leitura não basta: entregue um artefato, revise as fontes e explique o que ainda não sabe. Os critérios estão na [trilha CTI](trilhas/CTI-DO-ZERO-AO-BRIEFING.md).
+**D → S é uma rubrica de estudo, não uma certificação.** Avance ao entregar um artefato e explicar suas limitações. Veja os [critérios da jornada](trilhas/CTI-DO-ZERO-AO-BRIEFING.md).
 
 ## A estante essencial
 
@@ -99,3 +127,9 @@ Leia [CONTRIBUTING.md](CONTRIBUTING.md). Para dados e geração, Python stdlib �
 **Fonte antes da conclusão · contexto antes do indicador · hipóteses antes da atribuição · feedback depois da entrega.** Laboratórios usam casos sintéticos ou relatórios públicos. Inferências sobre pessoas exigem especial cuidado: comportamento observável não equivale a diagnóstico ou intenção comprovada.
 
 Materiais de terceiros mantêm suas respectivas licenças. A declaração de licença do conteúdo autoral deve ser formalizada pelo mantenedor; a sugestão anterior de CC BY 4.0 não é tratada aqui como licença já concedida.
+
+---
+
+**INTStudy** · Curadoria de **Deivison Lourenço** · [@Ridd1kulusC0d3r](https://github.com/Ridd1kulusC0d3r)
+
+[Começar](COMECE-AQUI.md) · [Contribuir](CONTRIBUTING.md) · [Procedência das fontes](biblioteca/PROCEDENCIA.md)

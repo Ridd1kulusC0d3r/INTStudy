@@ -1,3 +1,5 @@
+![Caderno de missões — aprenda deixando evidências](assets/missoes.svg)
+
 # Sua primeira sessão · 25 minutos
 
 [← Início](README.md) · [Biblioteca](biblioteca/README.md) · [Trilha CTI](trilhas/CTI-DO-ZERO-AO-BRIEFING.md)

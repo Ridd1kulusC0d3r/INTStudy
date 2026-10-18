@@ -133,6 +133,7 @@ def render_md(d):
     maquina = sum(1 for f in fs if LEGIVEL_MAQUINA & set(f["landscape"]["formatos"]))
     avaliadas = [f for f in fs if f["landscape"].get("avaliacao")]
     L = [
+        "![Radar de Landscape — o que mudou no cenário?](../assets/radar.svg)", "",
         "# Radar de Landscape · séries comparáveis de panorama e tendência",
         "",
         "[← Início](../README.md) · [Trilha](../trilhas/LANDSCAPE-E-TENDENCIAS.md) · [Rubrica ENISA](RUBRICA.md) · "

@@ -1,3 +1,5 @@
+![Biblioteca — uma fonte, uma pergunta melhor](../assets/biblioteca.svg)
+
 # Biblioteca aberta · escolha pela pergunta
 
 [← Início](../README.md) · [Trilha CTI](../trilhas/CTI-DO-ZERO-AO-BRIEFING.md) · [Procedência](PROCEDENCIA.md) · [Auditoria de links](VERIFICACAO-LINKS.md)
